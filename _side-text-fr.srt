@@ -59,7 +59,7 @@ name:: Sarah Gold + description:: Directrice et fondatrice d’IF, Londres
 name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
 
 17
-00:18:50,262 --> 00:21:39,208
+00:21:07,262 --> 00:21:39,208
 name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
 
 18
