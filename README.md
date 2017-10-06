@@ -1,12 +1,9 @@
 # Ethics for Design's subtitles
-<br>
+<br/>
 
 ![efd-capture-02](https://user-images.githubusercontent.com/14079751/31292239-f5f3c12a-aad2-11e7-9139-a82a8b1e8ada.jpg)
 
-<br>
-This repo contains every subtitle available for translation, from the [ethicsfordesign-website](https://github.com/sylvainjule/ethicsfordesign-website) repo.
-
-If you're interested in translating one (or several, or even a small slice) of the subtitles, you'll find the roadmap below. 
+<br/>This repo contains every subtitle available for translation, from the [ethicsfordesign-website](https://github.com/sylvainjule/ethicsfordesign-website) repo. If you're interested in translating one (or several, or even a small slice) of the subtitles, you'll find the roadmap below. 
 
 If you're not familiar with git, but still want to translate some files, you can google each of these steps which are very basics, and find some nice tutorials in order to get started. Do not hesitate to create an issue, I'll do my best to help you. Otherwise, send us [an email](contact@ethicsfordesign.com) and we'll figure something out. 
 
