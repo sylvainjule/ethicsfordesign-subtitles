@@ -27,7 +27,7 @@ If you're not familiar with git, but still want to translate some files, you can
 ## Translations status
 
 - [x] English
-- [x] French
+- [x] French (thanks [kevinvennitti](https://github.com/kevinvennitti) for the emendations)
 - [ ] Greek
   * [ ] chapters-gr.srt
   * [x] side-text-gr.srt (thanks to [drivebass](https://github.com/drivebass))
