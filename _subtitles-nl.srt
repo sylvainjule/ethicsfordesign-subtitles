@@ -360,7 +360,7 @@ en we omschrijven onszelf als laboratorium voor actieonderzoek naar het Franse o
 
 92
 00:06:08,771 --> 00:06:13,872
-Met overheidsbeleid bedoelen we alle dingen, diensten en alle processen die 
+Met overheidsbeleid bedoelen we alle dingen, diensten en alle processen die
 
 93
 00:06:14,374 --> 00:06:18,044
@@ -396,407 +396,407 @@ waar het probleem ligt.
 
 101
 00:07:00,086 --> 00:07:03,682
-Are there situations when people become aggressive or violent in some facilities,
+Zijn er situaties waarin mensen aggressief of gewelddadig worden in bepaalde omgevingen,
 
 102
 00:07:04,132 --> 00:07:07,468
-are there stressed people or complaints,
+zijn er gestreste mensen of klachten,
 
 103
 00:07:07,718 --> 00:07:11,347
-are there tensions between professionals, a lack of understanding, of signage.
+zijn er spanningen tussen de ambtenaren, gebrek aan duidelijkheid, of bewegwijzering.
 
 104
 00:07:11,666 --> 00:07:17,121
-We need to live there, meet with people, spend time with them and ask questions to all local stakeholders
+Je moet ter plaatse wonen, de mensen ontmoeten, tijd met hen doorbrengen en vragen stellen aan alle betrokkenen
 
 105
 00:07:17,603 --> 00:07:21,607
-and then, once we’ve made the diagnosis through this experience
+en dan, eenmaal we de diagnose hebben gedaan door deze ervaringen
 
 106
 00:07:23,109 --> 00:07:27,530
-and through our questioning of user’s expertise rather than that of decision-makers,
+en door het ondervragen van de expertise van de gebruikers in plaats van die van de besluitvormers,
 
 107
 00:07:28,489 --> 00:07:32,243
-we can act, suggest and test some solutions while being on site.
+dan kunnen we handelen, en oplossingen testen en suggereren terwijl we ter plaatse zijn.
 
 108
 00:07:38,416 --> 00:07:40,452
-This table started with a detail.
+Deze tafel begon met een detail.
 
 109
 00:07:40,718 --> 00:07:43,911
-I discovered a small metal part
+Ik vond een klein stukje metaal
 
 110
 00:07:44,310 --> 00:07:47,341
-in the courtyard of my grandparents
+in de tuin van mijn grootouders
 
 111
 00:07:49,260 --> 00:07:51,220
-and that metal part was turned
+en dat stukje metaal was gedraaid
 
 112
 00:07:52,930 --> 00:07:55,931
-to give more stability to a specific function.
+om meer stevigheid te geven aan een bepaalde functie.
 
 113
 00:07:56,419 --> 00:07:58,895
-So normally you have a metal,
+Dus normaal gezien heb je een metalen,
 
 114
 00:08:00,104 --> 00:08:02,648
-a metal part that is just straight like that,
+een metalen stuk dat recht is, zoals dat,
 
 115
 00:08:04,692 --> 00:08:07,278
-it brings no stability in this direction
+het geeft geen stevigheid in deze richting
 
 116
 00:08:08,875 --> 00:08:13,910
-because it’s like a paper, a sheet of paper which is like that
+want het is zoals papier, een blad papier, zoals dat
 
 117
 00:08:14,869 --> 00:08:17,436
-but a lot of stability in this direction,
+maar het geeft veel stevigheid in deze richting,
 
 118
 00:08:19,582 --> 00:08:20,875
-and if you turn it,
+en als je het draait,
 
 119
 00:08:21,501 --> 00:08:25,129
-it brings three-dimension, it becomes more stable.
+dan krijgt het drie dimensies, het wordt steviger.
 
 120
 00:08:27,194 --> 00:08:28,549
-*Works that Work* is a magazine,
+*Works that Work* is een magazine,
 
 121
 00:08:29,842 --> 00:08:33,935
-my background is design and I noticed that I don’t read many design magazines,
+mijn achtergrond is in design en het viel me op dat ik niet veel design magazines lees,
 
 122
 00:08:34,722 --> 00:08:35,515
-for various reasons.
+om verschillende redenen.
 
 123
 00:08:36,098 --> 00:08:39,143
-I think the biggest reason is that they often stay in a bubble,
+De grootste reden is, denk ik, dat ze vaak in een bubbel blijven,
 
 124
 00:08:39,923 --> 00:08:43,105
-they’re written by designers for designers
+ze zijn geschreven door ontwerpers voor ontwerpers
 
 125
 00:08:43,689 --> 00:08:45,566
-and they exclude a larger public.
+en ze sluiten een groter publiek buiten.
 
 126
 00:08:46,943 --> 00:08:51,531
-You can really see that the most-specialised magazine becomes the more elitist
+Je kan echt zien dat het meest gespecialiseerde magazine elitair wordt
 
 127
 00:08:51,532 --> 00:08:54,075
-or excluding other public
+of andere doelgroepen buitensluit
 
 128
 00:08:54,700 --> 00:08:59,205
-and designers think that their work is relevant to wider audience.
+en ontwerpers denken dat hun werk relevant is voor een breed publiek.
 
 129
 00:08:59,830 --> 00:09:02,291
-Designers believe that their work can change the world,
+Ontwerpers denken dat hun werk de wereld kan veranderen,
 
 130
 00:09:03,000 --> 00:09:09,103
-they believe that their work applies to all level of society and different walks of life
+ze geloven dat hun werk van toepassing is op alle lagen van de samenleving en verschillende manieren van leven
 
 131
 00:09:09,427 --> 00:09:13,365
-but in practice discussions in design remain very isolated.
+maar in de praktijk blijven discussies in design heel erg geïsoleerd.
 
 132
 00:09:15,346 --> 00:09:21,069
-So I wanted to see if there was a possibility to create a publication which was about design but not for designers
+Dus ik wilde kijken of er een mogelijkheid was om een publicatie te maken die over ontwerp ging maar niet voor ontwerpers
 
 133
 00:09:21,449 --> 00:09:23,402
-that talks about the virtues,
+dat gaat over de deugden,
 
 134
 00:09:25,091 --> 00:09:27,432
-that talks about the purpose, that talks more about
+dat gaat over het doel, dat meer gaat over
 
 135
 00:09:28,192 --> 00:09:30,345
-ideas than appearances.
+ideeën dan over uiterlijke vormen.
 
 136
 00:09:31,394 --> 00:09:36,303
-I have to say that the magazine succeeded for me because my brother reads it and he finds it relevant,
+Ik moet zeggen dat het magazine in zijn opzet geslaagd is want mijn broer leest het en hij vindt het relevant,
 
 137
 00:09:36,304 --> 00:09:37,156
-he finds that
+hij vindt dat
 
 138
 00:09:37,430 --> 00:09:41,038
-it doesn’t contain jargon, it doesn’t talk about how things look like
+er geen vaktaal wordt gebruikt, het gaat niet over hoe dingen eruit zien
 
 139
 00:09:41,039 --> 00:09:43,279
-but it talks about very simple basic things:
+maar het gaat over hele simpele dingen:
 
 140
 00:09:43,399 --> 00:09:47,081
-how you can improve a quality of life on differents places,
+hoe kun je de levenskwaliteit op verschillende plaatsen verbeteren,
 
 141
 00:09:48,075 --> 00:09:52,264
-they are very practical things, like how one can solve traffic situations without
+dat zijn hele praktische zaken, zoals hoe men verkeerssituaties kan oplossen zonder
 
 142
 00:09:52,424 --> 00:09:53,464
-bringing traffic signs,
+verkeersborden te gebruiken,
 
 143
 00:09:53,465 --> 00:09:55,273
-really basic things like how
+echt simpele dingen zoals hoe
 
 144
 00:09:56,366 --> 00:09:59,187
-globalisation happened because of simple
+globalisatie is ontstaan vanwege simpele
 
 145
 00:10:00,255 --> 00:10:01,468
-improvement of logistics.
+logistieke verbeteringen.
 
 146
 00:10:08,241 --> 00:10:09,412
-When we started *Works that Work*
+Toen we begonnen met *Works that Work*
 
 147
 00:10:10,432 --> 00:10:15,095
-it was clear that we wanted to find the most direct way to get to the readers
+was het duidelijk dat we de meest directe lijn naar onze lezers wilden vinden
 
 148
 00:10:15,229 --> 00:10:17,256
-to cut anything which is in between
+en alles wat ertussen zat weg te knippen
 
 149
 00:10:18,416 --> 00:10:22,027
-and also the magazine is really funded by readers not by someone else
+en daarnaast is het magazine echt gefinancierd door de lezers en niet door iemand anders
 
 150
 00:10:22,028 --> 00:10:24,219
-there’s no external sources of funding.
+er is geen externe bron van financiering.
 
 151
 00:10:25,119 --> 00:10:29,101
-*Works that Work* wants to examine often ignored areas of design.
+*Works that Work* wil de vaak genegeerde onderdelen van design onderzoeken.
 
 152
 00:10:31,166 --> 00:10:35,144
-In the spirit of this aim we also intend to bypass traditional distribution networks
+In de geest daarvan willen we ook de traditionele distributienetwerken omzeilen
 
 153
 00:10:35,404 --> 00:10:38,286
-which typically take the largest part of the cover price,
+die normaal gezien het grootste deel van de prijs pakken.
 
 154
 00:10:38,287 --> 00:10:42,348
-as well as control where the publication will be sold and at what price.
+en ook opleggen waar de publicatie verkocht wordt en aan welke prijs.
 
 155
 00:10:43,468 --> 00:10:46,470
-Instead we would like to deepen our relationship with our readers
+In plaats daarvan zouden we graag onze relatie met onze lezers versterken
 
 156
 00:10:46,471 --> 00:10:50,370
-and make them partners in this enterprise, we call this social distribution.
+en ze partners maken in deze onderneming, we noemen dit sociale distributie.
 
 157
 00:10:51,432 --> 00:10:56,137
-So we have a so-called readers clubs where people will just get stacks of magazine,
+Dus we hebben zogenaamde lezersclubs waar mensen gewoon stapels van het magazine kopen,
 
 158
 00:10:56,294 --> 00:10:57,055
-for their friends,
+voor hun vrienden,
 
 159
 00:10:57,375 --> 00:11:03,057
-and in return we can give them the magazine for the price which is normally for the distributors,
+en in ruil kunnen we ze het magazine aanbieden voor de prijs die normaal gezien voor distributeurs is,
 
 160
 00:11:03,092 --> 00:11:04,178
-so they’re getting it for half-price
+dus ze krijgen ze voor de helft van de prijs
 
 161
 00:11:04,398 --> 00:11:06,039
-so it’ a win-win situation.
+dus het is een win-winsituatie.
 
 162
 00:11:06,299 --> 00:11:08,260
-We created the most direct connection with the reader
+We hebben de meest directe verbinding met de lezer gemaakt
 
 163
 00:11:08,460 --> 00:11:13,283
-and they get rewarded because we bypass all the distribution chain.
+en zij worden beloond omdat we de hele distributieketen omzeilen.
 
 164
 00:11:13,463 --> 00:11:17,425
-Designers are not just about creating a new object or a new product or a new service,
+Ontwerpers houden zich niet alleen bezig met het maken van een nieuw object, een nieuwe product of een nieuwe dienst,
 
 165
 00:11:18,205 --> 00:11:22,075
-it’s thinking about this object in the context of people’s life
+ze denken na over dit object in de context van iemands leven
 
 166
 00:11:22,212 --> 00:11:26,449
-with consequences, with problems, with limits, with opportunities with drawbacks
+met de gevolgen, met problemen, met limieten, met kansen en nadelen
 
 167
 00:11:27,329 --> 00:11:31,031
-and the more the designers anticipate those things
+en hoe meer ontwerpers op die dingen kunnen anticiperen
 
 168
 00:11:33,012 --> 00:11:35,013
-the better it would be because they would
+hoe beter het zou zijn omdat ze hun projecten
 
 169
 00:11:35,333 --> 00:11:38,254
-realign or re-adjust their projects.
+kunnen herbekijken en kunnen aanpassen.
 
 170
 00:11:42,316 --> 00:11:45,058
-Well, Refugeye is a project I developped internally
+Refugeye is een project dat ik intern ontwikkeld heb
 
 171
 00:11:45,358 --> 00:11:47,379
-it’s a very simple project, it’s an app
+het is een heel simpel project, het is een app
 
 172
 00:11:48,359 --> 00:11:53,182
-that works from a smartphone and which enables simplified communication between refugees
+dat op een smartphone werkt en een versimpelde vorm van communicatie mogelijk maakt tussen vluchtelingen
 
 173
 00:11:53,293 --> 00:11:58,264
-citizens and organisations, charities etc. through pictogrammes.
+burgers en organisaties, goede doelen etcetera, door pictogrammen.
 
 174
 00:11:59,084 --> 00:12:02,266
-The interface is very simple, it’s an interface in which there is a group of pictogrammes, of symbols,
+De interface is heel simpel, het is een interface met een groep pictogrammen, een groep symbolen
 
 175
 00:12:03,006 --> 00:12:07,188
-I can search in lots of different languages, in farsi, english
+Ik kan in heel veel verschillende talen zoeken, in het Perzisch, het Engels,
 
 176
 00:12:08,289 --> 00:12:10,250
-cyrillic and russian, you name it.
+het Cyrillisch en Russisch, noem maar op.
 
 177
 00:12:11,210 --> 00:12:16,253
-And then I can drag the pictogrammes I have chosen onto my phone and they show up in big,
+En dan kan ik de pictogrammen die ik gekozen heb naar mijn telefoon slepen en ze worden groot vertoond,
 
 178
 00:12:16,369 --> 00:12:20,074
-I can number them in order of priority, I can circle them, crossed them out, write over them.
+ik kan ze rangschikken op basis van prioriteit, ik kan ze omcirkelen, ze doorkruisen, eroverheen schrijven.
 
 179
 00:12:21,095 --> 00:12:22,407
-And that way, without words,
+En op die manier, zonder woorden,
 
 180
 00:12:23,256 --> 00:12:30,001
-I can explain concepts that can be difficult or sensitive, about censorship, fleeing one’s country
+kan ik concepten uitleggen die moeilijk of gevoelig kunnen zijn, over censuur, je land ontvluchten
 
 181
 00:12:31,080 --> 00:12:32,360
-sexuality, torture etc.
+seksualiteit, marteling etcetera
 
 182
 00:12:32,361 --> 00:12:36,422
-so quite a lot of concepts that can be difficult and complex to discuss.
+dus best veel concepten die moeilijk kunnen zijn en complex om te bespreken.
 
 183
 00:12:37,041 --> 00:12:41,141
-I financed it myself, I conceived it from insights, user-tests etc.
+Ik heb het zelf gefinancierd, ik begon met inzichten, gebruikerstests etcetera
 
 184
 00:12:41,142 --> 00:12:42,247
-so I really followed a specific process
+dus ik volgde echt een bepaald proces
 
 185
 00:12:43,085 --> 00:12:46,167
-and then I transferred everything to an open-source platform, I freed the project as much as I could
+en toen heb ik alles verhuist naar een open source platform, ik bevrijdde het project zo goed als ik kon
 
 186
 00:12:46,367 --> 00:12:49,332
-and to day it is being used by refugees,
+en op dit moment wordt het gebruikt door vluchtelingen,
 
 187
 00:12:50,078 --> 00:12:52,330
-I think they use it on SOS Mediterranee
+volgens mij gebruiken ze het op SOS Mediterranee
 
 188
 00:12:53,090 --> 00:12:56,452
-and Bibliothèques sans Frontières also installed the app alongside their other tools.
+en Bibliothèques sans Frontières heeft de app ook geïnstalleerd naast hun andere werktuigen.
 
 189
 00:12:57,232 --> 00:12:59,168
-So that’s how I work, I develop and disseminate something,
+Dus dat is hoe ik werk, ik ontwikkel en verspreid iets,
 
 190
 00:12:59,424 --> 00:13:01,044
-either it gathers interest or doesn’t, I’m just testing things out
+en het wordt opgepikt of niet, ik test gewoon dingen uit
 
 191
 00:13:01,234 --> 00:13:04,476
-and if it doesn’t there are a thousand other projects to develop.
+en als het niet wordt opgepikt zijn er nog duizend andere projecten om te ontwikkelen.
 
 192
 00:13:05,316 --> 00:13:08,193
-So that’s the kind of things I’m trying to develop increasingly.
+Dus dat zijn het soort dingen die ik steeds meer probeer te ontwikkelen.
 
 193
 00:13:08,322 --> 00:13:11,355
-I think I have been a bit of a maverick my whole career,
+Ik denk dat ik mijn hele carrière een beetje een andersdenkende ben geweest,
 
 194
 00:13:11,356 --> 00:13:14,180
-I’ve always whether it’s in architecture, not enjoying
+ik was altijd — of het nu in architectuur, ik hield niet van
 
 195
 00:13:14,307 --> 00:13:16,442
-or believing any economic models to which we built
+of geloofde niet dat de economische modellen die we hebben gebouwd
 
 196
 00:13:17,126 --> 00:13:21,204
-whether it was commercial projects I was given in industrial design and
+of het nu commerciële projecten waren die ik kreeg tijdens industrieel ontwerp en
 
 197
 00:13:21,333 --> 00:13:23,064
-working around these briefs.
+om die instructies heen te werken.
 
 198
 00:13:23,367 --> 00:13:26,229
-I think I’ve always been
+Ik denk dat ik altijd gemotiveerd
 
 199
 00:13:27,005 --> 00:13:30,122
-motivated by the lack of something in the world
+ben geweest door het gebrek aan iets in de wereld
 
 200
 00:13:30,123 --> 00:13:33,350
-that I felt I should, you know, the need for
+dat ik voelde dat ik zou moeten, je weet wel, de behoefte aan
 
 201
 00:13:33,429 --> 00:13:36,00
-privacy and security are issues that are or have and always will be important.
+privacy en veiligheid zijn zaken die nu en vroeger en altijd wel belangrijk zullen zijn.
 
 202
 00:13:39,152 --> 00:13:41,349
