@@ -32,6 +32,10 @@ If you're not familiar with git, but still want to translate some files, you can
   * [ ] chapters-gr.srt
   * [x] side-text-gr.srt (thanks to [drivebass](https://github.com/drivebass))
   * [ ] subtitles-gr.srt
+- [ ] Portuguese
+  * [x] chapters-pt.srt (thanks to [jmcoutinho](https://github.com/jmcoutinho))
+  * [x] side-text-pt.srt (thanks to [jmcoutinho](https://github.com/avajadi))
+  * [ ] subtitles-pt.srt
 - [ ] Swedish
   * [x] chapters-sv.srt (thanks to [avajadi](https://github.com/avajadi))
   * [x] side-text-sv.srt (thanks to [avajadi](https://github.com/avajadi))
