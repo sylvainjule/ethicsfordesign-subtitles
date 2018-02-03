@@ -88,127 +88,127 @@ a tecnologia e os produtos tecnológicos.
 
 24
 00:01:13,198 --> 00:01:15,283
-You have a device where the signal comes in
+Há um dispositivo que recebe um sinal
 
 25
 00:01:15,699 --> 00:01:17,035
-but then that broadcast you
+mas que depois transmite 
 
 26
 00:01:17,036 --> 00:01:18,912
-a low frequency into the mouth
+uma baixa frequência para a boca
 
 27
 00:01:19,329 --> 00:01:21,022
-and it translated into
+e que se traduz
 
 28
 00:01:22,123 --> 00:01:22,957
-a vibration
+numa vibração
 
 29
 00:01:23,458 --> 00:01:25,235
-into the inner ear and it’s perceived as
+no ouvido interno e que é percebida como
 
 30
 00:01:26,211 --> 00:01:27,629
-sound streaming, a streaming sound.
+um fluxo sonoro, uma transmição de som.
 
 31
 00:01:28,004 --> 00:01:29,047
-The possibilities are endless,
+As possibilidades são infinitas,
 
 32
 00:01:29,048 --> 00:01:32,687
-prime ministers could receive secret guidance from their special advisors,
+os primeiros ministros podiam receber orientações secretas dos seus assessores especiais,
 
 33
 00:01:33,218 --> 00:01:36,102
-football coaches could pass tactical instructions to their players
+treinadores de futebol podiam passar instruções táticas aos seus jogadores
 
 34
 00:01:36,888 --> 00:01:38,056
-and no one will ever know.
+e ninguém ia descobrir.
 
 35
 00:01:38,098 --> 00:01:39,599
-Imagine the guy on the stock market,
+Imagina alguém do mercado de ações,
 
 36
 00:01:39,891 --> 00:01:43,269
-if he’s in the theater, if he’s in the cinema, if he’s sleepy in bed, if he’s on the beach
+se estiver no teatro, se estiver no cinema, se estiver a dormir na cama, se estiver na praia,
 
 37
 00:01:44,270 --> 00:01:47,899
-the stock rumors information about a companies collapsing and so on
+a informação sobre rumores de ações de empresas a falir e por aí fora
 
 38
 00:01:48,191 --> 00:01:49,776
-could reach him immediately and he could react to it.
+podia chegar-lhe imediatamente e ele podia reagir.
 
 39
 00:01:50,030 --> 00:01:53,00
-I’ve started thinking about Mo's project of energy independence
+Comecei a pensar sobre o projeto de Mo sobre a independência energética
 
 40
 00:01:53,05 --> 00:01:55,09
-and I’ve starting looking at the madeiran landscape.
+e comecei a olhar para a paisagem da Madeira.
 
 41
 00:01:55,10 --> 00:01:58,05
-You can’t see it too much throught the way the lens is pointing
+Não se consegue ver muito na direção para que a lente está a apontar
 
 42
 00:01:58,06 --> 00:02:00,995
-but where I’m looking I can see these huge cliffsides,
+mas para aonde estou a olhar consigo ver estes enormes penhascos,
 
 43
 00:02:01,07 --> 00:02:03,02
-Madeira is extremely vertical.
+a Madeira é extremamente vertical.
 
 44
 00:02:03,735 --> 00:02:07,085
-So I started wondering what Mo's project could be in Madeira
+Portanto comecei a pensar no que o projeto de Mo poderia ser na Madeira
 
 45
 00:02:07,544 --> 00:02:11,506
-and very quickly came up with this idea of the gravity battery.
+e muito rapidamente surgiu esta ideia da bateria gravítica.
 
 46
 00:02:13,174 --> 00:02:16,386
-So essentially in a nutshell, the gravity battery,
+Essencialmente, em poucas palavras, a bateria gravítica
 
 47
 00:02:17,470 --> 00:02:22,475
-it’s a device that works as a storage medium
+é um dispositivo que funciona como um meio de armazenamento.
 
 48
 00:02:23,017 --> 00:02:25,19
-so you still use your solar panels or wind turbines,
+Ou seja, ainda usas os teus painéis solares ou turbinas eólicas,
 
 49
 00:02:25,20 --> 00:02:29,315
-any renewable energy generation technique, but that energy
+qualquer técnica de geração de energia renovável. Mas essa energia
 
 50
 00:02:29,758 --> 00:02:33,319
-is generated if it’s sunshine often when people are at work or away from home,
+é gerada se estiver sol, geralmente quando as pessoas estão a trabalhar ou fora de casa,
 
 51
 00:02:33,611 --> 00:02:34,696
-when they don’t need the power.
+quando não precisam da energia.
 
 52
 00:02:35,363 --> 00:02:37,907
-The only solution to that right now is to sell it back to the grid,
+A única solução, neste momento, é vendê-la de volta à rede,
 
 53
 00:02:38,408 --> 00:02:40,869
-so that’s the owners of the infrastructure,
+que são os proprietários da infraestrutura,
 
 54
 00:02:41,512 --> 00:02:46,124
-and year on year on year they’ve been reducing the price that they buy back for, making it unviable.
+e ano após ano após ano após ano têm reduzido o preço a que a compram, tornando isto inviável.
 
 55
 00:02:47,000 --> 00:02:51,629
