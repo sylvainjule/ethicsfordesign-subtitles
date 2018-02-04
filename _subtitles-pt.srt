@@ -360,11 +360,11 @@ que se define como um laboratório de pesquisa-ação sobre politicas públicas 
 
 92
 00:06:08,771 --> 00:06:13,872
-Por politicas públicas queremos dizer todos os artefactos, serviços e todos os processos que são
+Por politicas públicas entendam-se todos os artefactos, serviços e todos os processos que são
 
 93
 00:06:14,374 --> 00:06:18,044
-proposto pelas autoridades públicas, portanto, o estado e as autoridades locais,
+proposto pelas autoridades públicas, portanto o estado e as autoridades locais,
 
 94
 00:06:18,795 --> 00:06:23,674
@@ -372,27 +372,27 @@ para facilitar a vida de um cidadão francês enquanto cidadão.
 
 95
 00:06:36,020 --> 00:06:39,649
-This mission dates back to the creation of the association
+Portanto este é um programa que temos desde a criação da associação
 
 96
 00:06:40,149 --> 00:06:46,823
-which aims at holding surgeries, immersing ourselves in a public facility, which could be a school, a train station, a hospital
+e que visa simplesmente fazer permanências. Imergimo-nos em instituições públicas, o que pode ser uma escola secundária, uma estação, um hospital
 
 97
 00:06:47,271 --> 00:06:48,741
-and we live there.
+e habitamos o local.
 
 98
 00:06:49,450 --> 00:06:53,621
-Our team being made up of sociologists, architects, designers and sometimes artists.
+Somos uma equipa pequena composta de sociólogos, arquitetos, designers e por vezes artistas plásticos.
 
 99
 00:06:53,996 --> 00:06:58,000
-We live on site and we try and understand what is not working in that public facility
+Habitamos os locais e tentamos perceber o que não funciona nesse serviço público,
 
 100
 00:06:58,334 --> 00:06:59,085
-what the problem is.
+em que ponto bloqueia.
 
 101
 00:07:00,086 --> 00:07:03,682
