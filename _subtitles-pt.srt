@@ -212,143 +212,143 @@ e ano após ano após ano após ano têm reduzido o preço a que a compram, torn
 
 55
 00:02:47,000 --> 00:02:51,629
-With the gravity battery what we allow people to do is to use this solar energy to lift a mass
+Com a bateria gravítica o que permitimos que as pessoas façam é usar esta energia solar para erguer uma massa
 
 56
 00:02:52,505 --> 00:02:56,551
-into the air and with a lot of the cliffsides in the madeiran communities that can be
+no ar, e com vários dos penhascos das comunidades da Madeira isso pode ser
 
 57
 00:02:57,093 --> 00:03:01,931
-anything from 10-14 all the way through 500 meters of verticality.
+qualquer coisa desde 10-14 até 500 metros de verticalidade.
 
 58
 00:03:01,933 --> 00:03:06,769
-So the more height you have the more time you have to drop the mass and the more energy you can essentially store.
+Então quanto mais altura tiveres, mais tempo tens para soltar a massa e mais energia consegues armazenar, essencialmente.
 
 59
 00:03:08,062 --> 00:03:11,941
-So you lift the mass during the daytime and then when you need the energy you come home from work,
+Ergues a massa durante o dia e depois quando precisas de energia ao chegar do trabalho,
 
 60
 00:03:12,400 --> 00:03:17,030
-it’s dark, there’s no sunshine anymore you can release the mass it falls through space,
+está escuro, já não há sol e podes largar a massa para que ela caia pelo espaço,
 
 61
 00:03:17,822 --> 00:03:21,576
-via a gearbox, turning a generator to generate electricity.
+através de uma caixa de velocidades, que roda um gerador para produzir eletricidade.
 
 62
 00:03:22,327 --> 00:03:23,560
-It’s all open source,
+É tudo *open source*,
 
 63
 00:03:24,003 --> 00:03:28,625
-so we’re removing the role of big corporations of large manufacturing plants,
+estamos a remover o papél das grandes corporações de grandes plantas fabrís,
 
 64
 00:03:29,000 --> 00:03:34,505
-we're making it quite easy to build, so the current version is using a motorcycle engine
+estamos a mante-la fácil de construir, a versão atual usa um motor de mota
 
 65
 00:03:35,089 --> 00:03:37,217
-that we found in a local breaker’s yard, it’s very cheap,
+que encontrámos numa socata local, é muito barato,
 
 66
 00:03:37,434 --> 00:03:40,803
-so we’re appropriating the motorcycle gearbox
+estamos a reapropriar a caixa de velocidades da mota
 
 67
 00:03:41,804 --> 00:03:43,556
-because they’re very accurate and already made
+porque já são muito exatos e já estão construidos
 
 68
 00:03:43,932 --> 00:03:47,227
-and then we just play around with the gearing and play around with the mass,
+e depois só brincamos com as mudanças e brincamos com a massa,
 
 69
 00:03:47,946 --> 00:03:51,689
-play around with the drop speed and we can adapt it to many differents domestic products.
+brincamos com a velocidade de queda e podemos adaptar isto a vários produtos domésticos.
 
 70
 00:04:21,655 --> 00:04:25,736
-in Nimes we have coined the term "inhabitability" of a world.
+Em Nîmes usamos o termo de habitabilidade do mundo,
 
 71
 00:04:26,490 --> 00:04:29,602
-We say that design can attempt
+dizemos que o design se pode prestar
 
 72
 00:04:30,228 --> 00:04:33,940
-to maintain or augment
+a manter ou aumentar
 
 73
 00:04:34,857 --> 00:04:38,569
-the world’s "inhabitability" for its inhabitants, men and women.
+a habitabilidade do mundo para os seus habitantes e as suas habitantes.
 
 74
 00:04:39,112 --> 00:04:42,949
-We interpret the verb "inhabit" on several levels.
+Portanto devemos compreender a palavra habitar a vários níveis.
 
 75
 00:04:43,389 --> 00:04:45,994
-The primary level is obviously material,
+Evidentemente, o primeiro nível é o nível material
 
 76
 00:04:47,161 --> 00:04:56,379
-meaning inhabiting a space sheltered from weather conditions, etc. I won’t dwell on this level.
+portanto isto significa viver numa casa ao abrigo dos riscos climatéricos, etc. nisto não insisto.
 
 77
 00:04:56,921 --> 00:05:01,175
-Then you have inhabitability from a vital perspective,
+Depois há a habitabilidade do ponto de vista vital,
 
 78
 00:05:01,884 --> 00:05:03,261
-where you need to stay healthy,
+é necessário que nos mantenhamos saudáveis
 
 79
 00:05:03,393 --> 00:05:06,586
-so in a way the inhabitability
+portanto isto é um pouco a habitabilidade
 
 80
 00:05:06,897 --> 00:05:07,961
-of your organic
+do seu corpo orgânico
 
 81
 00:05:08,715 --> 00:05:10,756
-and biological body.
+e biológico.
 
 82
 00:05:12,530 --> 00:05:16,699
-Then we speak of psychosocial inhabitability,
+De seguida falamos da habitabilidade psicossocial
 
 83
 00:05:17,276 --> 00:05:20,735
-where you need to live with other inhabitants, men and women,
+portanto neste ponto é necessário conviver com outros habitantes e outras habitantes
 
 84
 00:05:21,933 --> 00:05:23,840
-and here again it is not always an easy thing to do.
+portanto, de novo, nem sempre é fácil.
 
 85
 00:05:24,615 --> 00:05:30,204
-Lastly there is an ultimate interpretation of inhabitability  I sometimes call spiritual or cultural,
+E finalmente há uma última habitabilidade a que às vezes chamo espiritual ou cultural,
 
 86
 00:05:31,372 --> 00:05:35,126
-which means: really inhabiting as a human being and not as an animal
+que é: habitar verdadeiramente enquanto ser humano e não enquanto animal
 
 87
 00:05:35,293 --> 00:05:40,757
-and therefore it is the human being’s ability to create a cultural world
+e que é portanto a habilidade de o ser humano poder criar um mundo cultural
 
 88
 00:05:41,360 --> 00:05:44,886
-that is pleasant to live in, grow in and flourish in,
+em que seja bom viver e desenvolver e florescer.
 
 89
 00:05:45,678 --> 00:05:48,945
-and so it is at that level that we interpret inhabitability.
+Portanto é neste sentido que entendemos a habitabilidade.
 
 90
 00:05:58,880 --> 00:06:02,987
