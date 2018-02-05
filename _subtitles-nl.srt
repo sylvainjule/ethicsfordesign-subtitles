@@ -800,219 +800,219 @@ privacy en veiligheid zijn zaken die nu en vroeger en altijd wel belangrijk zull
 
 202
 00:13:39,152 --> 00:13:41,349
-But we are at a time where we have more and more
+Maar we leven in een tijd waarin er meer en meer
 
 203
 00:13:42,094 --> 00:13:45,195
-devices, products and services connected to the internet,
+apparaten, producten en diensten verbonden zijn met het internet,
 
 204
 00:13:45,456 --> 00:13:48,218
-more organisations connected to the web as well
+ook meer organisaties verbonden zijn met het internet,
 
 205
 00:13:48,418 --> 00:13:53,156
-and there’s more personal data being produced than collected
+en er wordt meer persoonlijke data geproduceerd en verzameld
 
 206
 00:13:53,194 --> 00:13:55,440
-and right now we are in a position where,
+en op dit moment zitten we in een positie waarin,
 
 207
 00:13:56,454 --> 00:14:00,022
-as users we have little to no control of any of that.
+we als gebruikers niet of nauwelijks controle hebben over dat alles.
 
 208
 00:14:00,263 --> 00:14:02,284
-There is an opportunity I think
+Ik denk dat er een opportuniteit is
 
 209
 00:14:02,359 --> 00:14:06,205
-for design to come in and to rebalance some of that,
+voor design om hierop in te gaan en het evenwicht een beetje te herstellen,
 
 210
 00:14:06,303 --> 00:14:10,367
-to start thinking about how we can design services that empower people.
+om na te gaan denken over hoe we diensten kunnen ontwerpen die de controle teruggeeft aan mensen.
 
 211
 00:14:11,029 --> 00:14:12,053
-So I’ve started IF
+Dus ik ben IF begonnen
 
 212
 00:14:12,309 --> 00:14:17,111
-really out of frustration that privacy and security were not being looked at
+echt uit frustratie dat men niet omkeek naar privacy en veiligheid
 
 213
 00:14:17,471 --> 00:14:19,275
-in any meaningful way
+op een betekenisvolle manier
 
 214
 00:14:20,012 --> 00:14:21,313
-in organisations a few years ago,
+in organisaties een paar jaar geleden,
 
 215
 00:14:22,095 --> 00:14:25,194
-now I think the landscape has changed quite considerably,
+nu denk ik dat de situatie aanzienlijk veranderd is,
 
 216
 00:14:25,333 --> 00:14:28,176
-I think the political landscape has pushed some of that,
+ik denk dat het politieke landschap daar deels voor heeft gezorgd,
 
 217
 00:14:28,456 --> 00:14:32,058
-but more and more when I talk to people about what I do
+maar vaker en vaker als ik met mensen praat over wat ik doe
 
 218
 00:14:32,059 --> 00:14:33,211
-rather than them going:
+in plaats van dat ze zeggen:
 
 219
 00:14:34,099 --> 00:14:35,460
-“why would you do that”, “why is that interesting”,
+“waarom zou je dat doen, “waarom is dat interessant”,
 
 220
 00:14:36,394 --> 00:14:40,462
-they’re like “that’s so important I’m so glad to find someone who’s actually looking at this".
+zeggen ze “dat is zo belangrijk, ik ben zo blij om iemand te vinden die hier werkelijk mee bezig is".
 
 221
 00:14:41,402 --> 00:14:46,124
-Privacy is a cornerstone of freedom,
+Privacy is een hoeksteen van vrijheid,
 
 222
 00:14:46,425 --> 00:14:49,469
-without question the digital era in
+zonder twijfel zal het digitale tijdperk in
 
 223
 00:14:50,287 --> 00:14:54,029
-in communication technologies will heighten concern
+communicatietechnologiën in toenemende mate zorgen baren
 
 224
 00:14:54,248 --> 00:14:57,150
-about the sensitivity of personal information
+over de gevoeligheid van persoonlijke informatie
 
 225
 00:14:57,390 --> 00:15:01,212
-that can be collected or disclosed about individual citizens
+die verzameld of vrijgegeven kan worden over individuele burgers
 
 226
 00:15:01,394 --> 00:15:04,473
-and the ever increasing pervasiveness
+en de steeds toenemende indringendheid
 
 227
 00:15:05,214 --> 00:15:06,439
-of such data collection.
+van zulke dataverzameling.
 
 228
 00:15:17,219 --> 00:15:20,106
-In any job you’ll find some people go too far,
+In elke sector zul je mensen vinden die te ver gaan,
 
 229
 00:15:21,301 --> 00:15:24,299
-we speak of aggressive therapy in health
+we hebben het over eindeloos doordokteren in de gezondheidszorg,
 
 230
 00:15:24,300 --> 00:15:27,324
-that’s a professional act going too far,
+dat is een professionele daad die te ver gaat,
 
 231
 00:15:28,045 --> 00:15:29,389
-are there similar excesses in design ?
+zijn er soortgelijke buitensporigheden in design?
 
 232
 00:15:29,390 --> 00:15:34,087
-Of course there are, designers are no more perfect than anyone else,
+Natuurlijk zijn die er, ontwerpers zijn net zo min perfects als ieder ander,
 
 233
 00:15:34,322 --> 00:15:36,429
-therefore they are subject to the same temptations.
+en daarom onderworpen aan dezelfde verleidingen.
 
 234
 00:15:37,085 --> 00:15:39,472
-The main one being the artist’s temptation,
+De belangrijkste is de verleiding van de kunstenaar,
 
 235
 00:15:40,411 --> 00:15:43,312
-the artist’s temptation to be arrogant,
+de verleiding van de kunstenaar om arrogant te zijn,
 
 236
 00:15:44,453 --> 00:15:46,374
-the temptation to sign their name,
+de verleiding om hun werk te ondertekenen,
 
 237
 00:15:47,314 --> 00:15:52,075
-the temptation to be on the glossy cover of a magazine,
+de verleiding om op de voorkant van een glossy tijdschrift te staan,
 
 238
 00:15:53,097 --> 00:15:56,138
-the temptation to be a celebrity, nothing less.
+de verleiding om een beroemdheid te zijn, zonder meer.
 
 239
 00:15:56,279 --> 00:15:57,237
-This notion
+Dit idee
 
 240
 00:15:58,186 --> 00:16:00,220
-that great designers can be celebrities
+dat uitmuntende ontwerpers beroemdheden kunnen zijn
 
 241
 00:16:00,460 --> 00:16:03,001
-because they're putting more shit into the world,
+omdat ze meer rommel de wereld in brengen
 
 242
 00:16:04,036 --> 00:16:07,183
-yes Design is for me a very problematic industry.
+ja, design is voor mij een heel problematische sector.
 
 243
 00:16:08,066 --> 00:16:11,105
-What other industry makes celebrities of people
+Welke andere sector maakt beroemdheden van mensen
 
 244
 00:16:12,082 --> 00:16:14,447
-designing things only a few can afford.
+die spullen ontwerpen die maar enkelen zich kunnen veroorloven.
 
 245
 00:16:15,327 --> 00:16:17,072
-Designer as an author
+De ontwerper als auteur
 
 246
 00:16:18,126 --> 00:16:18,387
-whose
+wiens
 
 247
 00:16:20,016 --> 00:16:22,434
-perspective is just great and should
+kijk gewoonweg geweldig is en die
 
 248
 00:16:23,476 --> 00:16:27,334
-do their work out of their genius creativity.
+hun werk maken vanuit hun geniale creativiteit.
 
 249
 00:16:27,335 --> 00:16:31,215
-There is all sorts of myths about designer’s creativity that
+Er zijn allerlei soorten mythes over de creativiteit van ontwerpers
 
 250
 00:16:32,310 --> 00:16:37,158
-leave the designers interested in people, in field research kind of
+die de ontwerpers die geïnteresseerd zijn in mensen, in veldwerk,
 
 251
 00:16:38,226 --> 00:16:39,361
-of partly out of the picture.
+buiten beschouwing laten.
 
 252
 00:16:39,362 --> 00:16:42,120
-It’s not necessarily true for all the designers but
+Het geldt niet noodzakelijk voor alle ontwerpers maar
 
 253
 00:16:42,121 --> 00:16:44,281
-I think there is a tendency
+ik denk dat er een tendens heerst
 
 254
 00:16:45,061 --> 00:16:49,384
-for a lot of commercial designers to not be interested in
+onder veel commerciële ontwerpers om niet geïnteresseerd te zijn in
 
 255
 00:16:50,132 --> 00:16:54,286
-actual people but more about their perspective and the myth about people.
+de werkelijke mensen, maar meer in hun kijk en de mythe over mensen.
 
 256
 00:16:54,507 --> 00:16:56,447
