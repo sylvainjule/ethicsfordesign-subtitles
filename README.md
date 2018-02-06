@@ -39,7 +39,7 @@ If you're not familiar with git, but still want to translate some files, you can
 - [ ] Swedish
   * [x] chapters-sv.srt (thanks to [avajadi](https://github.com/avajadi))
   * [x] side-text-sv.srt (thanks to [avajadi](https://github.com/avajadi))
-  * [ ] subtitles-sv.srt (n°2-23 are translated, thanks to [avajadi](https://github.com/avajadi))
+  * [ ] subtitles-sv.srt (n°2-23 thanks to [avajadi](https://github.com/avajadi), n°23-309 thanks to [matsragnar](https://github.com/matsragnar))
 
 
 
