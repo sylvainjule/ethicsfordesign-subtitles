@@ -24,7 +24,7 @@ för att försöka sälja produkter jag inte är särkilt förtjust i
 
 8
 00:00:27,191 --> 00:00:30,129
-Så när jag var 29 sökta jag till
+Så när jag var 29 sökte jag till
 
 9
 00:00:30,130 --> 00:00:33,209
@@ -88,611 +88,616 @@ teknologi och teknologiska produkter.
 
 24
 00:01:13,198 --> 00:01:15,283
-You have a device where the signal comes in
+Du har en enhet där signalen kommer in
 
 25
 00:01:15,699 --> 00:01:17,035
-but then that broadcast you
+men sen sänder den till dig
 
 26
 00:01:17,036 --> 00:01:18,912
-a low frequency into the mouth
+en låg frekvens in i munnen
 
 27
 00:01:19,329 --> 00:01:21,022
-and it translated into
+och denna översätts till
 
 28
 00:01:22,123 --> 00:01:22,957
-a vibration
+en vibration
 
 29
 00:01:23,458 --> 00:01:25,235
-into the inner ear and it’s perceived as
+in i innerörat och den uppfattas som
 
 30
 00:01:26,211 --> 00:01:27,629
-sound streaming, a streaming sound.
+ljud som strömmar, ett strömmande ljud.
 
 31
 00:01:28,004 --> 00:01:29,047
 The possibilities are endless,
+Möjligheterna är oändliga,
 
 32
 00:01:29,048 --> 00:01:32,687
-prime ministers could receive secret guidance from their special advisors,
+en premiärminister kan ta emot hemlig vägledning från speciella rådgivare,
 
 33
 00:01:33,218 --> 00:01:36,102
-football coaches could pass tactical instructions to their players
+fotbollstränare kan förmedla taktiskta instruktioner till sina spelare
 
 34
 00:01:36,888 --> 00:01:38,056
-and no one will ever know.
+och ingen kommer någonsin att veta detta.
 
 35
 00:01:38,098 --> 00:01:39,599
 Imagine the guy on the stock market,
+Föreställ dig en kille på aktiemarknaden,
 
 36
 00:01:39,891 --> 00:01:43,269
-if he’s in the theater, if he’s in the cinema, if he’s sleepy in bed, if he’s on the beach
+om han är på teater, om han är på bio, om han ligger i sängen och sover, om han är på stranden
 
 37
 00:01:44,270 --> 00:01:47,899
-the stock rumors information about a companies collapsing and so on
+rykten från börsen om företag som kraschar och så
 
 38
 00:01:48,191 --> 00:01:49,776
-could reach him immediately and he could react to it.
+kan nå honom omedelbart och han kan reagera på detta.
 
 39
 00:01:50,030 --> 00:01:53,00
-I’ve started thinking about Mo's project of energy independence
+Jag har börjat tänka på Mo's projekt om energioberoende
 
 40
 00:01:53,05 --> 00:01:55,09
-and I’ve starting looking at the madeiran landscape.
+och jag har börjat titta på Madeiras landskap.
 
 41
 00:01:55,10 --> 00:01:58,05
 You can’t see it too much throught the way the lens is pointing
+Det går inte att se så mycket av det på grund av hur kameralinsen är riktad 
 
 42
 00:01:58,06 --> 00:02:00,995
-but where I’m looking I can see these huge cliffsides,
+men åt det hållet jag tittar kan jag se dessa enorma bergssidor,
 
 43
 00:02:01,07 --> 00:02:03,02
-Madeira is extremely vertical.
+Madeira är extremt vertikalt.
 
 44
 00:02:03,735 --> 00:02:07,085
-So I started wondering what Mo's project could be in Madeira
+Så jag började fundera på vad Mo's projekt kunde vara i Maderia.
 
 45
 00:02:07,544 --> 00:02:11,506
-and very quickly came up with this idea of the gravity battery.
+och fick snabbt den här idén om gravitationsbatteriet.
 
 46
 00:02:13,174 --> 00:02:16,386
-So essentially in a nutshell, the gravity battery,
+Så huvudsakligen, i ett nötskal, är gravitationsbatteriet
 
 47
 00:02:17,470 --> 00:02:22,475
-it’s a device that works as a storage medium
+en enhet som fungerar som ett lagringsmedium
 
 48
 00:02:23,017 --> 00:02:25,19
-so you still use your solar panels or wind turbines,
+så att du fortfarande kan använda solceller och vindturbiner,
 
 49
 00:02:25,20 --> 00:02:29,315
-any renewable energy generation technique, but that energy
+vilket förnybar energigenerande teknik som helst, men denna energi
 
 50
 00:02:29,758 --> 00:02:33,319
-is generated if it’s sunshine often when people are at work or away from home,
+genereras om solen skiner, ofta när människor arbetar och inte är hemma,
 
 51
 00:02:33,611 --> 00:02:34,696
-when they don’t need the power.
+när de inte behöver elförsörjning.
 
 52
 00:02:35,363 --> 00:02:37,907
-The only solution to that right now is to sell it back to the grid,
+Den enda lösningen på detta för närvarande är att sälja tillbaka energin till nätet,
 
 53
 00:02:38,408 --> 00:02:40,869
-so that’s the owners of the infrastructure,
+alltså till ägarna av infrastrukturen,
 
 54
 00:02:41,512 --> 00:02:46,124
-and year on year on year they’ve been reducing the price that they buy back for, making it unviable.
+och år efter år har de sänkt priset som de köper tillbaka energi för, vilket gör det hela ogenomförbart.
 
 55
 00:02:47,000 --> 00:02:51,629
-With the gravity battery what we allow people to do is to use this solar energy to lift a mass
+Med gravitationsbatteriet gör vi det möjligt för människor att använda solenergi till att lyfta en massa
 
 56
 00:02:52,505 --> 00:02:56,551
-into the air and with a lot of the cliffsides in the madeiran communities that can be
+upp i luften, och med den stora mängden av bergssidor som finns i samhällen på Madeira kan det vara
 
 57
 00:02:57,093 --> 00:03:01,931
-anything from 10-14 all the way through 500 meters of verticality.
+allt mellan 10-14, hela vägen upp till 500 meter av vertikalitet.
 
 58
 00:03:01,933 --> 00:03:06,769
-So the more height you have the more time you have to drop the mass and the more energy you can essentially store.
+Så ju större höjd du har, desto mer tid har du att släppa massan och därigenom kan du lagra mer energi.
 
 59
 00:03:08,062 --> 00:03:11,941
-So you lift the mass during the daytime and then when you need the energy you come home from work,
+Du lyfter massan under dagtid och när du kommer hem från arbetet behöver du energi,
 
 60
 00:03:12,400 --> 00:03:17,030
-it’s dark, there’s no sunshine anymore you can release the mass it falls through space,
+det är mörkt, solen har gått ner och du kan släppa massan som faller genom rymden,
 
 61
 00:03:17,822 --> 00:03:21,576
-via a gearbox, turning a generator to generate electricity.
+via en växellåda, vrider en generator som genererar elektricitet.
 
 62
 00:03:22,327 --> 00:03:23,560
-It’s all open source,
+Allt är öppen källkod,
 
 63
 00:03:24,003 --> 00:03:28,625
-so we’re removing the role of big corporations of large manufacturing plants,
+så vi tar bort aktörer som stora företag och tillverkningsindustri,
 
 64
 00:03:29,000 --> 00:03:34,505
-we're making it quite easy to build, so the current version is using a motorcycle engine
+vi skapar något som är lätt att bygga, den nuvarande versionen använder en motorcykelmotor
 
 65
 00:03:35,089 --> 00:03:37,217
-that we found in a local breaker’s yard, it’s very cheap,
+som vi hittade på en lokal bilskrot, den är mycket billig,
 
 66
 00:03:37,434 --> 00:03:40,803
-so we’re appropriating the motorcycle gearbox
+så vi använder motorcykelns växellåda
 
 67
 00:03:41,804 --> 00:03:43,556
-because they’re very accurate and already made
+eftersom den är mycket precis och redan byggd
 
 68
 00:03:43,932 --> 00:03:47,227
-and then we just play around with the gearing and play around with the mass,
+och sen testar och leker vi lite med utväxlingen och med massan,
 
 69
 00:03:47,946 --> 00:03:51,689
-play around with the drop speed and we can adapt it to many differents domestic products.
+experimenterar med fallhastigheten och vi kan anpassa det till många olika hushållsprodukter. 
 
 70
 00:04:21,655 --> 00:04:25,736
-in Nimes we have coined the term "inhabitability" of a world.
+I Nimes har vi myntat uttrycket "beboelighet" hos en värld.
 
 71
 00:04:26,490 --> 00:04:29,602
-We say that design can attempt
+Vi kan säga att design kan försöka
 
 72
 00:04:30,228 --> 00:04:33,940
-to maintain or augment
+bibehålla eller förstärka
 
 73
 00:04:34,857 --> 00:04:38,569
-the world’s "inhabitability" for its inhabitants, men and women.
+världens "beboelighet" för sina invånare, män och kvinnor.
 
 74
 00:04:39,112 --> 00:04:42,949
-We interpret the verb "inhabit" on several levels.
+Vi tolkar verbet "bebo" på flera nivåer.
 
 75
 00:04:43,389 --> 00:04:45,994
-The primary level is obviously material,
+Den primära nivån är uppenbarligen materiell,
 
 76
 00:04:47,161 --> 00:04:56,379
-meaning inhabiting a space sheltered from weather conditions, etc. I won’t dwell on this level.
+och innebär att bebo en rymd, skyddad från väderförhållanden etc. Jag kommer inte att uppehålla mig vid denna nivå.
 
 77
 00:04:56,921 --> 00:05:01,175
-Then you have inhabitability from a vital perspective,
+Sen har vi beboelighet från ett livsnödvändigt perspektiv,
 
 78
 00:05:01,884 --> 00:05:03,261
-where you need to stay healthy,
+där vi behöver behålla hälsan,
 
 79
 00:05:03,393 --> 00:05:06,586
-so in a way the inhabitability
+på ett sätt alltså beboeligheten 
 
 80
 00:05:06,897 --> 00:05:07,961
-of your organic
+av din organiska
 
 81
 00:05:08,715 --> 00:05:10,756
-and biological body.
+och biologiska kropp.
 
 82
 00:05:12,530 --> 00:05:16,699
-Then we speak of psychosocial inhabitability,
+Sen talar vi om psykosocial beboelighet,
 
 83
 00:05:17,276 --> 00:05:20,735
-where you need to live with other inhabitants, men and women,
+där vi behöver leva med andra invånare, män och kvinnor,
 
 84
 00:05:21,933 --> 00:05:23,840
-and here again it is not always an easy thing to do.
+och igen, detta är inte en enkel sak att göra.
 
 85
 00:05:24,615 --> 00:05:30,204
-Lastly there is an ultimate interpretation of inhabitability  I sometimes call spiritual or cultural,
+Till sist finns en slutlig tolkning av beboelighet som jag ibland kallar spirituell eller kulturell,
 
 86
 00:05:31,372 --> 00:05:35,126
-which means: really inhabiting as a human being and not as an animal
+vilket innebär: att verkligen bebo som en mänsklig varelse och inte som ett djur
 
 87
 00:05:35,293 --> 00:05:40,757
-and therefore it is the human being’s ability to create a cultural world
+och därför finns den mänskliga varelsens förmåga att skapa en kulturell värld
 
 88
 00:05:41,360 --> 00:05:44,886
-that is pleasant to live in, grow in and flourish in,
+som är behaglig att leva i, att växa och frodas i,
 
 89
 00:05:45,678 --> 00:05:48,945
-and so it is at that level that we interpret inhabitability.
+och det alltså är på denna nivå som vi tolkar beboelighet.
 
 90
 00:05:58,880 --> 00:06:02,987
-My name is Laura Pandelle, I work as a designer for an association called La 27e région
+Jag heter Laura Pandelle och jag arbetar som designer för en sammanslutning som heter *La 27e région*
 
 91
 00:06:03,988 --> 00:06:08,618
-and we define ourselves as laboratory for action-research on French public policy.
+och vi definierar oss själva som ett laboratorium för aktionsforskning om fransk offentlig politik.
 
 92
 00:06:08,771 --> 00:06:13,872
-By public policy we mean all the artefacts, services and all the processes that are
+Med offentlig politik menar vi alla artefakter, tjänster och processer som är
 
 93
 00:06:14,374 --> 00:06:18,044
-put in place by the public power, i.e. the state and local authorities,
+införda av den allmänna makten, alltså av stat och lokala myndigheter,
 
 94
 00:06:18,795 --> 00:06:23,674
-to help citizen’s lives as citizens.
+för att stödja medborgarnas liv, som medborgare.
 
 95
 00:06:36,020 --> 00:06:39,649
-This mission dates back to the creation of the association
+Det här uppdraget grundlades när sammanslutningen skapades
 
 96
 00:06:40,149 --> 00:06:46,823
-which aims at holding surgeries, immersing ourselves in a public facility, which could be a school, a train station, a hospital
+och syftar till att skapa kanaler, att fördjupa oss själva i offentliga faciliteter, t.ex. en skola, en tågstation, ett sjukhus
 
 97
 00:06:47,271 --> 00:06:48,741
-and we live there.
+och vi lever där.
 
 98
 00:06:49,450 --> 00:06:53,621
-Our team being made up of sociologists, architects, designers and sometimes artists.
+Vårt team består av socioliger, arkitekter, designer och ibland konstnärer.
 
 99
 00:06:53,996 --> 00:06:58,000
-We live on site and we try and understand what is not working in that public facility
+Vi bor på platsen och försöker förstå vad som inte fungerar med en viss offentlig facilitet,
 
 100
 00:06:58,334 --> 00:06:59,085
-what the problem is.
+vad problemet är.
 
 101
 00:07:00,086 --> 00:07:03,682
-Are there situations when people become aggressive or violent in some facilities,
+Finns det situationer när människor blir aggresiva eller våldsamma,
 
 102
 00:07:04,132 --> 00:07:07,468
-are there stressed people or complaints,
+finns det stressade människor eller klagomål, 
 
 103
 00:07:07,718 --> 00:07:11,347
-are there tensions between professionals, a lack of understanding, of signage.
+finns det spänningar mellan anställda, brist på förståelse, brist på skyltning? 
 
 104
 00:07:11,666 --> 00:07:17,121
-We need to live there, meet with people, spend time with them and ask questions to all local stakeholders
+Vi behöver leva där, möta människor, tillbringa tid med dem och ställa frågor till alla lokala intressenter
 
 105
 00:07:17,603 --> 00:07:21,607
-and then, once we’ve made the diagnosis through this experience
+och sedan, när vi med stöd i erfarenheten har ställt en diagnos,
 
 106
 00:07:23,109 --> 00:07:27,530
-and through our questioning of user’s expertise rather than that of decision-makers,
+och genom att ta tillvara användarnas expertis snarare än beslutsfattarnas,
 
 107
 00:07:28,489 --> 00:07:32,243
-we can act, suggest and test some solutions while being on site.
+kan vi agera, föreslå och testa lösningar medan vi fortfarande är kvar på plats.
 
 108
 00:07:38,416 --> 00:07:40,452
-This table started with a detail.
+Det här bordet startade med en detalj
 
 109
 00:07:40,718 --> 00:07:43,911
-I discovered a small metal part
+Jag hittade en lite metalldel
 
 110
 00:07:44,310 --> 00:07:47,341
-in the courtyard of my grandparents
+på mina farföräldrars gård
 
 111
 00:07:49,260 --> 00:07:51,220
-and that metal part was turned
+och den metalldelen var vriden
 
 112
 00:07:52,930 --> 00:07:55,931
-to give more stability to a specific function.
+för att ge mer stabilitet till en specifik funktion.
 
 113
 00:07:56,419 --> 00:07:58,895
-So normally you have a metal,
+I normala fall har du metall,
 
 114
 00:08:00,104 --> 00:08:02,648
-a metal part that is just straight like that,
+en meltallbit som bara är rak sådär,
 
 115
 00:08:04,692 --> 00:08:07,278
-it brings no stability in this direction
+den ger ingen stabilitet i den här riktningen
 
 116
 00:08:08,875 --> 00:08:13,910
-because it’s like a paper, a sheet of paper which is like that
+eftersom den är som papper, ett pappersark som är sådär
 
 117
 00:08:14,869 --> 00:08:17,436
-but a lot of stability in this direction,
+men mycket stabilitet i den här riktningen,
 
 118
 00:08:19,582 --> 00:08:20,875
-and if you turn it,
+och om du vrider den,
 
 119
 00:08:21,501 --> 00:08:25,129
-it brings three-dimension, it becomes more stable.
+så ger den tredimentionaltiet, den blir mer stabil.
 
 120
 00:08:27,194 --> 00:08:28,549
-*Works that Work* is a magazine,
+*Works that Work* är en tidskrift,
 
 121
 00:08:29,842 --> 00:08:33,935
-my background is design and I noticed that I don’t read many design magazines,
+min bakgrund är design och jag noterade att inte läste många designtidskrifter,
 
 122
 00:08:34,722 --> 00:08:35,515
-for various reasons.
+av olika skäl.
 
 123
 00:08:36,098 --> 00:08:39,143
-I think the biggest reason is that they often stay in a bubble,
+Jag tror att det främsta skälet är att de ofta stannar i en bubbla,
 
 124
 00:08:39,923 --> 00:08:43,105
-they’re written by designers for designers
+de är skrivna av designers, för designers 
 
 125
 00:08:43,689 --> 00:08:45,566
-and they exclude a larger public.
+och de utesluter en större publik.
 
 126
 00:08:46,943 --> 00:08:51,531
-You can really see that the most-specialised magazine becomes the more elitist
+Det går att se att de mest specialiserade tidskrifterna blir de mest elitistiska
 
 127
 00:08:51,532 --> 00:08:54,075
-or excluding other public
+eller exkluderar en annan läsekrets
 
 128
 00:08:54,700 --> 00:08:59,205
-and designers think that their work is relevant to wider audience.
+och designers tror att deras arbete är relevan för en bredare publik.
 
 129
 00:08:59,830 --> 00:09:02,291
-Designers believe that their work can change the world,
+Designers tror att deras arbete kan förändra världen,
 
 130
 00:09:03,000 --> 00:09:09,103
-they believe that their work applies to all level of society and different walks of life
+de tror att deras arbete är giltigt för alla samhällsnivåer och olika samhällsklasser
 
 131
 00:09:09,427 --> 00:09:13,365
-but in practice discussions in design remain very isolated.
+men i praktiken förblir diskussioner om design mycket isolerade.
 
 132
 00:09:15,346 --> 00:09:21,069
-So I wanted to see if there was a possibility to create a publication which was about design but not for designers
+Så jag vill se om det fanns en möjlighet att skapa en publikation som handlade om design, men inte för designers
 
 133
 00:09:21,449 --> 00:09:23,402
-that talks about the virtues,
+som handlade om förtjänsterna, 
 
 134
 00:09:25,091 --> 00:09:27,432
-that talks about the purpose, that talks more about
+som handlade om syftet, som handlade mer om
 
 135
 00:09:28,192 --> 00:09:30,345
-ideas than appearances.
+idéer än om utseende.
 
 136
 00:09:31,394 --> 00:09:36,303
-I have to say that the magazine succeeded for me because my brother reads it and he finds it relevant,
+Jag måste säga att tidskriften för mig har lyckats eftersom min bror läser den och tycker att den är relevant,
 
 137
 00:09:36,304 --> 00:09:37,156
-he finds that
+han tycker att
 
 138
 00:09:37,430 --> 00:09:41,038
-it doesn’t contain jargon, it doesn’t talk about how things look like
+den inte innehåller jargong, den handlar inte om hur saker ser ut
 
 139
 00:09:41,039 --> 00:09:43,279
-but it talks about very simple basic things:
+utan den handlar om enkla, grundläggande saker:
 
 140
 00:09:43,399 --> 00:09:47,081
 how you can improve a quality of life on differents places,
+hur en kan förbättra livskvalitet på olika platser,
 
 141
 00:09:48,075 --> 00:09:52,264
-they are very practical things, like how one can solve traffic situations without
+det är mycket praktiska saker, som hur en kan lösa trafiksituationer utan att
 
 142
 00:09:52,424 --> 00:09:53,464
-bringing traffic signs,
+tillföra trafikskyltar,
 
 143
 00:09:53,465 --> 00:09:55,273
-really basic things like how
+verkligt grundläggande saker som hur
 
 144
 00:09:56,366 --> 00:09:59,187
-globalisation happened because of simple
+globaliseringen kunde ske genom en enkel
 
 145
 00:10:00,255 --> 00:10:01,468
-improvement of logistics.
+förbättring av logistik.
 
 146
 00:10:08,241 --> 00:10:09,412
-When we started *Works that Work*
+När vi startade *Works that Work*
 
 147
 00:10:10,432 --> 00:10:15,095
-it was clear that we wanted to find the most direct way to get to the readers
+var det tydlgit att vi ville hitta den mest direkta vägen till läsarna
 
 148
 00:10:15,229 --> 00:10:17,256
-to cut anything which is in between
+att skära bort allt som låg imellan
 
 149
 00:10:18,416 --> 00:10:22,027
-and also the magazine is really funded by readers not by someone else
+och även att tidskriften verkligen finansieras av läsare, inte av någon annan,
 
 150
 00:10:22,028 --> 00:10:24,219
-there’s no external sources of funding.
+det finns inga externa finansieringskällor.
 
 151
 00:10:25,119 --> 00:10:29,101
-*Works that Work* wants to examine often ignored areas of design.
+*Works that Work* vill undersöka designområden som ofta ignoreras.
 
 152
 00:10:31,166 --> 00:10:35,144
-In the spirit of this aim we also intend to bypass traditional distribution networks
+I detta syftes anda försöker vi också kringgå traditionella distributionsnätverk
+
 
 153
 00:10:35,404 --> 00:10:38,286
-which typically take the largest part of the cover price,
+som vanligtvis tar den största andelen av lösnummerpriset,
 
 154
 00:10:38,287 --> 00:10:42,348
-as well as control where the publication will be sold and at what price.
+och dessutom kontrollerar var publikationen kommer att sälja och till vilket pris.
 
 155
 00:10:43,468 --> 00:10:46,470
-Instead we would like to deepen our relationship with our readers
+Vi vill istället fördjupa relationen till våra läsare
 
 156
 00:10:46,471 --> 00:10:50,370
-and make them partners in this enterprise, we call this social distribution.
+och göra dem till partners i detta företag, vi kallar detta *social distribution*.
 
 157
 00:10:51,432 --> 00:10:56,137
-So we have a so-called readers clubs where people will just get stacks of magazine,
+Därför har vi så kallade bokklubbar där människor helt enkelt får en bunt tidskrifter,
 
 158
 00:10:56,294 --> 00:10:57,055
-for their friends,
+till sina vänner,
 
 159
 00:10:57,375 --> 00:11:03,057
-and in return we can give them the magazine for the price which is normally for the distributors,
+och i gengäld kan vi ge dem tidskriften för det pris som distributören normal betalar, 
 
 160
 00:11:03,092 --> 00:11:04,178
-so they’re getting it for half-price
+så de får den för halva priset.
 
 161
 00:11:04,398 --> 00:11:06,039
-so it’ a win-win situation.
+så det är en win-win situation.
 
 162
 00:11:06,299 --> 00:11:08,260
-We created the most direct connection with the reader
+Vi skapade den mest direkta kopplingen med läsaren
 
 163
 00:11:08,460 --> 00:11:13,283
-and they get rewarded because we bypass all the distribution chain.
+och de belönades eftersom vi kringgår hela distributionskedjan.
 
 164
 00:11:13,463 --> 00:11:17,425
-Designers are not just about creating a new object or a new product or a new service,
+Designers arbete handlar inte bara om att skapa ett nytt objekt eller en ny produkt eller en ny tjänst, 
 
 165
 00:11:18,205 --> 00:11:22,075
-it’s thinking about this object in the context of people’s life
+det är att tänka om detta objekt i kontexten av människors liv
 
 166
 00:11:22,212 --> 00:11:26,449
-with consequences, with problems, with limits, with opportunities with drawbacks
+med konsekvenser, med problem, med begränsningar, med möjligheter, med nackdelar
 
 167
 00:11:27,329 --> 00:11:31,031
-and the more the designers anticipate those things
+och ju mer en designer föregriper dessa saker
 
 168
 00:11:33,012 --> 00:11:35,013
-the better it would be because they would
+desto bättre blir det eftersom de då skulle
 
 169
 00:11:35,333 --> 00:11:38,254
-realign or re-adjust their projects.
+justera eller anpassa sina projekt.
 
 170
 00:11:42,316 --> 00:11:45,058
-Well, Refugeye is a project I developped internally
+*Refugeye* är ett projekt som jag utvecklat internt
 
 171
 00:11:45,358 --> 00:11:47,379
-it’s a very simple project, it’s an app
+det är ett mycket enkelt projekt, det är en app
 
 172
 00:11:48,359 --> 00:11:53,182
-that works from a smartphone and which enables simplified communication between refugees
+som fungerar i en smartphone och som möjliggör förenklad kommunikation mellan flyktingar
 
 173
 00:11:53,293 --> 00:11:58,264
-citizens and organisations, charities etc. through pictogrammes.
+medborgare och organisationer, välgörenhetsorganiationer etc. genom piktogram.
 
 174
 00:11:59,084 --> 00:12:02,266
-The interface is very simple, it’s an interface in which there is a group of pictogrammes, of symbols,
+Gränssnittet är mycket enkelt, det är ett gränssnitt där det finns en grupp av piktogram, eller symboler,
 
 175
 00:12:03,006 --> 00:12:07,188
-I can search in lots of different languages, in farsi, english
+jag kan söka på många olika språk, på farsi, engelska,
 
 176
 00:12:08,289 --> 00:12:10,250
@@ -700,535 +705,539 @@ cyrillic and russian, you name it.
 
 177
 00:12:11,210 --> 00:12:16,253
-And then I can drag the pictogrammes I have chosen onto my phone and they show up in big,
+Sen kan jag dra piktogrammet jag valt till min telefon och sen visa det stort,
 
 178
 00:12:16,369 --> 00:12:20,074
-I can number them in order of priority, I can circle them, crossed them out, write over them.
+Jag kan numrera dem i prioritetsordning, jag kan ringa in dem, korsa över dem, skriva över dem.
 
 179
 00:12:21,095 --> 00:12:22,407
-And that way, without words,
+Och på så vis, utan ord,
 
 180
 00:12:23,256 --> 00:12:30,001
-I can explain concepts that can be difficult or sensitive, about censorship, fleeing one’s country
+kan jag förklara begrepp som kan vara svåra eller känsliga, om censur, att fly från sitt land,
 
 181
 00:12:31,080 --> 00:12:32,360
-sexuality, torture etc.
+sexualitet, tortyr etc.
 
 182
 00:12:32,361 --> 00:12:36,422
-so quite a lot of concepts that can be difficult and complex to discuss.
+så många begrepp som kan vara svåra och komplexa att diskutera.
 
 183
 00:12:37,041 --> 00:12:41,141
-I financed it myself, I conceived it from insights, user-tests etc.
+Jag finansierade det själv, jag skapade det från insikter, användartester etc.
 
 184
 00:12:41,142 --> 00:12:42,247
-so I really followed a specific process
+så jag följde verkligen en specifik process
 
 185
 00:12:43,085 --> 00:12:46,167
-and then I transferred everything to an open-source platform, I freed the project as much as I could
+och sen överförde jag allt till en plattform för öppen källkod, jag gjorde projektet så fritt som jag kunde
 
 186
 00:12:46,367 --> 00:12:49,332
-and to day it is being used by refugees,
+och det används av flyktingar idag,
 
 187
 00:12:50,078 --> 00:12:52,330
-I think they use it on SOS Mediterranee
+jag tror de använder det på *SOS Mediterranee*
 
 188
 00:12:53,090 --> 00:12:56,452
-and Bibliothèques sans Frontières also installed the app alongside their other tools.
+och *Bibliothèques sans Frontières* har också installerat appen tillsammans med sina andra verktyg.
+
 
 189
 00:12:57,232 --> 00:12:59,168
-So that’s how I work, I develop and disseminate something,
+Så det är så jag arbetar, jag utvecklar och sprider någonting,
 
 190
 00:12:59,424 --> 00:13:01,044
-either it gathers interest or doesn’t, I’m just testing things out
+oavsett om det väcker intresse eller inte, jag bara testar saker
 
 191
 00:13:01,234 --> 00:13:04,476
-and if it doesn’t there are a thousand other projects to develop.
+och om det inte väcker intresse finns det tusen andra projekt att utveckla.
 
 192
 00:13:05,316 --> 00:13:08,193
-So that’s the kind of things I’m trying to develop increasingly.
+Så det är den sortens saker jag alltmer försöker utveckla. 
 
 193
 00:13:08,322 --> 00:13:11,355
-I think I have been a bit of a maverick my whole career,
+Jag tror att jag har varit något av en ensamvarg hela min karriär,
 
 194
 00:13:11,356 --> 00:13:14,180
-I’ve always whether it’s in architecture, not enjoying
+jag har alltid, antingen det handlar om arkitektur, inte tyckt om
 
 195
 00:13:14,307 --> 00:13:16,442
-or believing any economic models to which we built
+eller trott någon ekonomisk modell mot vilken vi byggt
 
 196
 00:13:17,126 --> 00:13:21,204
-whether it was commercial projects I was given in industrial design and
+oavsett om det varit kommersiella projekt som givits till mig i industridesign och 
 
 197
 00:13:21,333 --> 00:13:23,064
-working around these briefs.
+arbetat runt dessa instruktioner.
 
 198
 00:13:23,367 --> 00:13:26,229
-I think I’ve always been
+Jag tror att jag alltid har
 
 199
 00:13:27,005 --> 00:13:30,122
-motivated by the lack of something in the world
+motiverats av bristen på någonting i världen
 
 200
 00:13:30,123 --> 00:13:33,350
-that I felt I should, you know, the need for
+som jag känt jag borde, du vet, behovet av
 
 201
 00:13:33,429 --> 00:13:36,00
-privacy and security are issues that are or have and always will be important.
+privatliv och säkerhet är problem, eller har varit och kommer alltid att vara viktiga.
 
 202
 00:13:39,152 --> 00:13:41,349
-But we are at a time where we have more and more
+Men vi är vid en tidpunkt när vi har fler och fler
 
 203
 00:13:42,094 --> 00:13:45,195
-devices, products and services connected to the internet,
+enheter, produkter och tjänster uppkopplade till internet,
 
 204
 00:13:45,456 --> 00:13:48,218
-more organisations connected to the web as well
+fler organisationer anslutna till webben också
 
 205
 00:13:48,418 --> 00:13:53,156
-and there’s more personal data being produced than collected
+och mer personlig data blir producerad än insamlad
 
 206
 00:13:53,194 --> 00:13:55,440
-and right now we are in a position where,
+och just nu är vi i ett läge där,
 
 207
 00:13:56,454 --> 00:14:00,022
-as users we have little to no control of any of that.
+vi som användare har liten eller ingen kontroll på något av det där.
 
 208
 00:14:00,263 --> 00:14:02,284
-There is an opportunity I think
+Det finns en möjlighet tror jag
 
 209
 00:14:02,359 --> 00:14:06,205
-for design to come in and to rebalance some of that,
+för design att komma in och återbalansera en del av det där,
 
 210
 00:14:06,303 --> 00:14:10,367
-to start thinking about how we can design services that empower people.
+att börja tänka på hur vi kan designa tjänster som stärker människor.
 
 211
 00:14:11,029 --> 00:14:12,053
-So I’ve started IF
+Så jag har startat *IF*
 
 212
 00:14:12,309 --> 00:14:17,111
-really out of frustration that privacy and security were not being looked at
+egentligen av frustration över att integritet och säkerhet inte uppmärsammades
 
 213
 00:14:17,471 --> 00:14:19,275
-in any meaningful way
+på ett meningsfullt sätt
 
 214
 00:14:20,012 --> 00:14:21,313
-in organisations a few years ago,
+i organisationer för några år sedan,
 
 215
 00:14:22,095 --> 00:14:25,194
-now I think the landscape has changed quite considerably,
+nu menar jag att landskapet har förändrats i stor utsträckning,
 
 216
 00:14:25,333 --> 00:14:28,176
-I think the political landscape has pushed some of that,
+jag tror att det politiska landskapet har flyttat fram en det av det där,
 
 217
 00:14:28,456 --> 00:14:32,058
-but more and more when I talk to people about what I do
+men mer och mer när jag talar med människor om vad jag gör
 
 218
 00:14:32,059 --> 00:14:33,211
-rather than them going:
+istället för att säga:
+
 
 219
 00:14:34,099 --> 00:14:35,460
-“why would you do that”, “why is that interesting”,
+“varför gör du detta”, “varför är det intressant”,
 
 220
 00:14:36,394 --> 00:14:40,462
-they’re like “that’s so important I’m so glad to find someone who’s actually looking at this".
+säger de: “det där är så viktigt, jag är så glad att hitta någon som faktisk tittar på detta".
 
 221
 00:14:41,402 --> 00:14:46,124
-Privacy is a cornerstone of freedom,
+Integritet och privatliv är en av frihetes grundvalar, 
 
 222
 00:14:46,425 --> 00:14:49,469
-without question the digital era in
+utan tvivel kommer den digitala eran
 
 223
 00:14:50,287 --> 00:14:54,029
-in communication technologies will heighten concern
+i kommunikationsteknologi att höja oron
 
 224
 00:14:54,248 --> 00:14:57,150
-about the sensitivity of personal information
+över känsligheten i personlig information
 
 225
 00:14:57,390 --> 00:15:01,212
-that can be collected or disclosed about individual citizens
+som kan bli insamlad och blottad om individuella medborgare
 
 226
 00:15:01,394 --> 00:15:04,473
-and the ever increasing pervasiveness
+och den ständigt ökande genomslagskraften
 
 227
 00:15:05,214 --> 00:15:06,439
-of such data collection.
+av sådan datainsamling.
 
 228
 00:15:17,219 --> 00:15:20,106
-In any job you’ll find some people go too far,
+I vilket yrke som helst kan du finna människor som går för långt,
 
 229
 00:15:21,301 --> 00:15:24,299
-we speak of aggressive therapy in health
+jag talar om aggresiv medecinsk terapi 
 
 230
 00:15:24,300 --> 00:15:27,324
-that’s a professional act going too far,
+det är en yrkesmässig handling som går för långt,
 
 231
 00:15:28,045 --> 00:15:29,389
-are there similar excesses in design ?
+finns det motsvarande överskridande inom design?
 
 232
 00:15:29,390 --> 00:15:34,087
-Of course there are, designers are no more perfect than anyone else,
+Naturligtvis finns det det, designers är inte mer perfekta än andra,
 
 233
 00:15:34,322 --> 00:15:36,429
-therefore they are subject to the same temptations.
+eftersom de utsätts för samma lockelser.
 
 234
 00:15:37,085 --> 00:15:39,472
-The main one being the artist’s temptation,
+Den främsta är konstnärens lockelse,
 
 235
 00:15:40,411 --> 00:15:43,312
-the artist’s temptation to be arrogant,
+konstnärens lockelse att vara arrogant,
 
 236
 00:15:44,453 --> 00:15:46,374
-the temptation to sign their name,
+lockelsen att signera med sitt namn,
 
 237
 00:15:47,314 --> 00:15:52,075
-the temptation to be on the glossy cover of a magazine,
+the temptationto be on the glossy cover of a magazine,
+lockelsen att vara på en tidskrifts glansiga omslag, 
 
 238
 00:15:53,097 --> 00:15:56,138
-the temptation to be a celebrity, nothing less.
+lockelsen att vara en kändis, varken mer eller mindre.
 
 239
 00:15:56,279 --> 00:15:57,237
-This notion
+Denna uppfattning,
 
 240
 00:15:58,186 --> 00:16:00,220
-that great designers can be celebrities
+att stora designers kan vara kändisar
 
 241
 00:16:00,460 --> 00:16:03,001
-because they're putting more shit into the world,
+för att de har tillfört världen mer skit,
 
 242
 00:16:04,036 --> 00:16:07,183
-yes Design is for me a very problematic industry.
+ja, *Design* är för mig en mycket problematisk industri.
 
 243
 00:16:08,066 --> 00:16:11,105
-What other industry makes celebrities of people
+Vilken annan industri gör kändisar av människor
 
 244
 00:16:12,082 --> 00:16:14,447
-designing things only a few can afford.
+som designar saker som bara ett fåtal har råd med?
 
 245
 00:16:15,327 --> 00:16:17,072
-Designer as an author
+Designer som en upphovsman
 
 246
 00:16:18,126 --> 00:16:18,387
-whose
+vilkens
 
 247
 00:16:20,016 --> 00:16:22,434
-perspective is just great and should
+perspektiv bara är fantastiskt och skulle 
 
 248
 00:16:23,476 --> 00:16:27,334
-do their work out of their genius creativity.
+göra sina verk utifrån sin geniala kreativitet.
 
 249
 00:16:27,335 --> 00:16:31,215
-There is all sorts of myths about designer’s creativity that
+Det finns många myter om designers kreativiet som 
 
 250
 00:16:32,310 --> 00:16:37,158
-leave the designers interested in people, in field research kind of
+lämnar de designers som är intresserade av människor, av fältarbete, på ett sätt
 
 251
 00:16:38,226 --> 00:16:39,361
-of partly out of the picture.
+delvis utanför bilden.
 
 252
 00:16:39,362 --> 00:16:42,120
-It’s not necessarily true for all the designers but
+Det är inte nödvändigtvis sant för alla designers men
 
 253
 00:16:42,121 --> 00:16:44,281
-I think there is a tendency
+jag tror att det finns en tendens
 
 254
 00:16:45,061 --> 00:16:49,384
-for a lot of commercial designers to not be interested in
+att många kommersiella designers inte är intresserade av
 
 255
 00:16:50,132 --> 00:16:54,286
-actual people but more about their perspective and the myth about people.
+riktiga människor utan mer av sina perspektiv och myter om människor.
 
 256
 00:16:54,507 --> 00:16:56,447
-About the dangers related to Design,
+Avseende risker med design,
 
 257
 00:16:58,053 --> 00:16:58,468
-I think it is
+tror jag det är
 
 258
 00:16:59,230 --> 00:17:01,109
-the empowerment of design.
+designen möljliggörande.
 
 259
 00:17:02,130 --> 00:17:07,012
-Well the things that could affect design is design answering to marketing
+Sakerna som kan påverka design är design som påverkas av marknadsföring
 
 260
 00:17:07,142 --> 00:17:09,179
-or to other types of forces.
+eller av andra typer av krafter.
 
 261
 00:17:10,073 --> 00:17:12,255
-A bit like when you talk about green-washing,
+Lite som när du talar om green-washing,
 
 262
 00:17:14,135 --> 00:17:16,357
-I’m wary of design that would be used as human-washing,
+jag är vaksam mot design som skulle kunna användas som human-washing,
 
 263
 00:17:17,117 --> 00:17:22,239
-where all of a sudden all companies, even the worst ones, become ethical, social, politically engaged, altruistic, etc.
+where all of a sudden all compnies, even the worst ones, become ethical, social, politically engaged, altruistic, etc.
+där plötsligt alla företag, även de värsta, blir etiska, sociala, politiskt engagerade, altruistiska etc.
 
 264
 00:17:22,438 --> 00:17:27,250
-And if design colludes with this type of highjacking
+Och om design är i maskopi med en sån typ av kidnappning
 
 265
 00:17:30,283 --> 00:17:33,120
-then I think design becomes a weapon to manipulate others.
+så tror jag att design blir ett vapen för att manipulera andra.
 
 266
 00:17:33,325 --> 00:17:35,466
-Gosh I think design has got a lot of challenges
+Oj, jag tror att design har en mängd utmaningar
 
 267
 00:17:36,166 --> 00:17:40,419
-because for many organisations they don’t even realise that design should be at the table for these meetings, right
+eftersom många organisationer, de inser inte ens att design borde vara en fråga vid dessa möten, eller hur?
 
 268
 00:17:41,065 --> 00:17:45,032
-So not only you’re talking about ethics, you’re also talking about design should be here,
+Så du talar inte bara om etik, du talar också om att design borde vara här,
 
 269
 00:17:45,190 --> 00:17:48,046
-like we have a legitimate reason to be
+vi har legitima skäl att vara
 
 270
 00:17:48,292 --> 00:17:51,073
-in this conversation, as part of this decision.
+med i det här samtalet, som den del av det här beslutet.
 
 271
 00:17:51,393 --> 00:17:54,375
-So we’re in many places still
+Så på många ställen är vi inte
 
 272
 00:17:55,502 --> 00:18:00,138
-not being considered as important in these companies.
+bedömda som viktiga i dessa företag.
 
 273
 00:18:00,300 --> 00:18:01,028
-Having said that,
+Med det sagt,
 
 274
 00:18:01,298 --> 00:18:03,474
-when you bring ethics into the conversation
+när du tar upp etik i samtalet
 
 275
 00:18:03,475 --> 00:18:07,280
-I think the challenges designers face is that
+tror jag att de utmaningar som designers står inför är
 
 276
 00:18:07,281 --> 00:18:09,362
-technology has been moving incredibly quickly,
+att teknologin har rört sig otroligt snabbt,
 
 277
 00:18:10,122 --> 00:18:11,423
-if you’ve not been keeping up, yet,
+om du inte har hängt med hittills,
 
 278
 00:18:12,177 --> 00:18:15,145
-like you need to start looking at that right now
+så behöver du börja titta på det omedelbart
 
 279
 00:18:15,325 --> 00:18:17,266
-because you’ve got a lot to learn
+för du har en massa att lära dig
 
 280
 00:18:17,446 --> 00:18:21,203
-and I think that’s not meant to sound scary or, like, threatening,
+och jag tror inte det är menat att låta skrämmande eller hotfullt,
 
 281
 00:18:21,448 --> 00:18:26,090
-if this means something to you, you need to dedicate some time to it and you need to
+om detta betyder något för dig så måste du avsätta lite tid till det och du behöver
 
 282
 00:18:27,030 --> 00:18:29,032
-get talking to people who understand:
+börja prata med människor som förstår:
 
 283
 00:18:29,133 --> 00:18:31,255
-backend systems, how that works,
+backend system, hur det fungerar,
 
 284
 00:18:31,473 --> 00:18:34,334
-get talking to economists about the information economy,
+börja prata med ekonomer om informationsekonomin,
 
 285
 00:18:35,054 --> 00:18:37,416
-form some opinions, form some useful opinions anyway
+forma några åsikter, forma i alla fall några användbara åsikter i alla fall
 
 286
 00:18:38,216 --> 00:18:39,036
-about that stuff.
+om de här sakerna.
 
 287
 00:18:39,037 --> 00:18:41,157
-So I think there’s challenges
+S jag menar att det finns utmaningar
 
 288
 00:18:42,065 --> 00:18:45,199
-this world has been moving and changing very quickly
+den här världen har rört sig och förändrat sig mycket snabbt
 
 289
 00:18:46,060 --> 00:18:49,375
-and if you’re not keeping up it’s quite a gap to jump.
+och om du inte hänger med blir det en stor klyfta att hoppa över.
 
 290
 00:18:50,140 --> 00:18:53,423
-It’s the only way we can practice responsible design I think
+Jag tror att det enda sättet på vilket vi kan praktisera ansvarsfull design
 
 291
 00:18:54,063 --> 00:18:57,345
-is through understanding the complexity of the world in which we’re operating.
+är genom att förstå komplexiteten i den värld som vi rör oss i.
 
 292
 00:18:58,205 --> 00:19:01,127
-The problem with design at the moment it reduces that complexity,
+Problemet med design för närvarande är att den reducerar denna komplexitet,
 
 293
 00:19:01,128 --> 00:19:03,108
-it simplifies it and makes it banal,
+den simplifierar och gör det banalt,
 
 294
 00:19:03,348 --> 00:19:07,370
-because it has this very very simple goal of making good products.
+eftersom den har det här mycket, mycket enkla målet att skapa bra produkter.
 
 295
 00:19:09,031 --> 00:19:10,331
-Define good is the problem,
+Att definiera *bra* är problemet,
 
 296
 00:19:11,001 --> 00:19:12,252
-design better is the problem
+att designa bättre är problemet,
 
 297
 00:19:12,253 --> 00:19:13,455
-and I think this is the problem with design,
+och jag tror att detta är problemet med design,
 
 298
 00:19:13,456 --> 00:19:17,094
-it’s got a very naive view of what it’s good and what is preferable.
+den har en mycket naiv syn på vad som är bra och vad som är önskvärt.
 
 299
 00:19:25,318 --> 00:19:29,083
-We use these two words often but do we really know what they mean?
+Vi använder dess två ord ofta men förstår vi verkligen vad de betyder?
 
 300
 00:19:29,461 --> 00:19:32,462
-Morality focuses on absolute right and wrong,
+Moral fokuserar på absolut rätt och fel.
 
 301
 00:19:33,182 --> 00:19:36,284
-it defines what is forbidden, encouraged or permitted.
+det definierar vad som är förbjudet, vad som uppmuntras eller är tillåtet.
 
 302
 00:19:37,164 --> 00:19:40,085
-Of course, it always depends on the era and social context,
+Naturligtvis beror detta på tidsepoken och social kontext,
 
 303
 00:19:40,326 --> 00:19:45,208
-for example, Christian morality was not the same in the 11th century or the 20th century
+till exempel, kristen moral var inte densamma på 1000-talet eller 1900-talet
 
 304
 00:19:46,008 --> 00:19:48,009
-and varied between European countries.
+och varierade mellan Europas länder.
 
 305
 00:19:48,410 --> 00:19:52,231
-Ethics is the fundamental thought behind what it means to act well
+Etik är den fundamentala tanken bakom vad det innebär att agera bra
 
 306
 00:19:52,432 --> 00:19:54,112
-for you and for others.
+för dig själv och andra.
 
 307
 00:19:54,473 --> 00:19:57,254
-This means that ethics does not say what is right or wrong,
+Det betyder att etik inte säger något om vad som är rätt eller fel,
 
 308
 00:19:57,434 --> 00:20:00,455
-rather, it shows you the road you should take to live better.
+snarare visar den på vägen du ska går för att leva bättre.
 
 309
 00:20:01,456 --> 00:20:04,237
-There are three main theories to explain an “ethical” act:
+Det finns tre centrala teorier som förklarar en “etisk” handling:
 
 310
 00:20:05,358 --> 00:20:11,000
