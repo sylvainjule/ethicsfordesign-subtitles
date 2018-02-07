@@ -1878,315 +1878,316 @@ upplever vördnad.
 
 470
 00:31:12,287 --> 00:31:16,708
-It’s more about like will those be moving us towards what you want to be moved towards.
+Det handlar mer om, liksom kommer dessa att flytta oss mot vad du vill bli flyttad mot.  
 
 471
 00:31:16,958 --> 00:31:23,274
-Will they, as Aldous Huxley put it, helping us be irrational in a reasonable way.
+Kommer de, som Aldous Huxley uttryckte det, hjälpa oss att bli irrationella på ett rimligt vis.
 
 472
 00:31:23,631 --> 00:31:26,515
-Is the system fundamentally on our side is the question ultimately.
+Kommer systemet i grunden att vara på vår sida, blir den slutgiltiga frågan.
 
 473
 00:31:41,723 --> 00:31:45,075
-Actually right now I’m working on projects that are totally
+Just nu arbetar jag faktiskt med projekt som helt och hållet är
 
 474
 00:31:45,778 --> 00:31:47,790
-against my own ethical,
+mot min egen etiska,
 
 475
 00:31:50,199 --> 00:31:51,200
-what I studied before.
+vad jag studerade tidigare.
 
 476
 00:31:53,453 --> 00:31:59,626
-One of the recent projects I had to work on was a robot delivering pizza,
+Ett av de senaste projekten jag behövde jobba med var en robot som levererade pizza,
 
 477
 00:32:00,137 --> 00:32:02,629
-in Pizza Hut+ in Shanghai.
+för Pizza Hut+ i Shanghai.
 
 478
 00:32:05,973 --> 00:32:09,469
-You develop this robot or you participate in its development,
+Du utvecklar den här roboten eller du deltar i utvecklingen av den,
 
 479
 00:32:09,470 --> 00:32:11,930
-you know it will affect a lot of people,
+du vet att den kommer att påverka många människor,
 
 480
 00:32:11,931 --> 00:32:16,684
-a lot of people in China cannot afford to have good studies
+många människor i Kina har inte råd med bra studier 
 
 481
 00:32:16,935 --> 00:32:19,146
-and they rely on
+och de förlitar sig på,
 
 482
 00:32:20,521 --> 00:32:23,316
-to feed their families, on small jobs such as waiter.
+för att föda sina familjer, på små jobb som t.ex. servitör.
 
 483
 00:32:23,691 --> 00:32:25,985
-And you know that this robot,
+Och du vet att den där roboten,
 
 484
 00:32:26,687 --> 00:32:31,532
-when it will go on the market it will make people lose a lot of jobs
+när den kommer ut på marknaden kommer den att göra att människor förlorar många jobb
 
 485
 00:32:32,784 --> 00:32:35,870
-but then if I don't do it myself I don't get a salary.
+men om jag inte själv gör den, får inte jag någon lön.
 
 486
 00:32:40,041 --> 00:32:43,039
-And that’s why it’s an important thing about ethics,
+Och det är därför det är viktig sak med etik,
 
 487
 00:32:43,040 --> 00:32:45,964
-a lot of designers speak about ethics,
+många designers talar om etik,
 
 488
 00:32:47,840 --> 00:32:50,984
-sure maybe they have some kind of ethical belief and so on but
+visst, kanske har de någon sorts etisk övertygelse och så vidare men
 
 489
 00:32:52,553 --> 00:32:57,642
-how far are you going to sacrifice yourself to really apply your own ethical belief,
+hur långt går du för att offra dig själv för att verkligen tillämpa din egen etiska övertygelse,
 
 490
 00:32:58,351 --> 00:33:01,062
-and that’s I think a big issue in the design field.
+och det tror jag är en stor fråga i designområdet.
 
 491
 00:33:01,392 --> 00:33:04,917
-Perhaps the canonical example here is the bench
+Kanske det kanoniska exemplet här är bänken
 
 492
 00:33:06,442 --> 00:33:11,823
-that is supposed to prevent people living on the streets to sleep on.
+som är tänkt att förhindra människor som lever på gatan att sova på.
 
 493
 00:33:12,891 --> 00:33:17,078
-When I did this project about designers and ethnography
+När jag gjorde det här projektet om designers och etnografi
 
 494
 00:33:18,371 --> 00:33:22,709
-I interviewed a designer working for the public transport company in Paris
+intervjuade jag en designer som arbetade för företaget som sköter kollektivtrafiken i Paris
 
 495
 00:33:23,459 --> 00:33:25,586
-and he told that “yeah I had to design that bench,
+och han sa “ja, jag behövde designa den där bänken,
 
 496
 00:33:26,212 --> 00:33:29,340
-I was asked to design on which people could not sleep
+jag uppmanades att designa på vilken människor inte kunde sova
 
 497
 00:33:30,049 --> 00:33:32,468
-so they wouldn't be bums on the bench”
+så att det inte skulle finnas uteliggare på bänken”
 
 498
 00:33:32,941 --> 00:33:37,223
-ok that’s kind of tricky in terms of your ethics,
+ok, det där är ganska knepigt i termer av din etik,
 
 499
 00:33:37,737 --> 00:33:38,558
-what do you think about that?
+vad tänker du om det?
 
 500
 00:33:38,559 --> 00:33:40,682
-“So yeah well I had two options either
+“Så, ja nåja jag hade två val, antingen
 
 501
 00:33:41,894 --> 00:33:44,272
-I did it or I was just fired”.
+gjorde jag det eller så fick jag bara sparken”.
 
 502
 00:33:44,814 --> 00:33:48,901
-That’s the kind of boundary of extreme limit
+Det där är den sortens beggränsning eller extrem gräns
 
 503
 00:33:48,902 --> 00:33:52,037
-in which where do designers sit,
+i vilken där designers befinner sig,
 
 504
 00:33:52,280 --> 00:33:55,742
-can they exert their strategic perspective
+kan de utöva sina strategiska perspektiv
 
 505
 00:33:56,367 --> 00:33:58,797
-or are they just not allowed to do much more than
+eller är de helt enkelt inte tillåtna att göra mycket mer
 
 506
 00:33:59,866 --> 00:34:02,206
-saying yes ok I’m gonna do this bench.
+än att säga ja, ok jag kommer att göra den här bänken.
 
 507
 00:34:02,957 --> 00:34:05,880
-It’s a hard choice, again like it’s easier for me now,
+Det är ett svårt val, igen det är liksom lättare för mig nu,
 
 508
 00:34:07,336 --> 00:34:10,339
-of course in the beginning it’s more difficult because you’re more dependent,
+så klart i början är det svårare eftersom du är mer beroende,
 
 509
 00:34:10,340 --> 00:34:13,634
-we have enough work now so I can be more selective.
+vi har tillräckligt med jobb nu så jag kan vara mer selektiv.
 
 510
 00:34:14,302 --> 00:34:18,505
-In the beginning I was lucky that
+I början var det tur för mig att
 
 511
 00:34:19,892 --> 00:34:23,144
-we’re coming from cultural sector where there is less difficult choices,
+vi kommer från ett kulturellt område där valen inte är lika svåra,
 
 512
 00:34:24,771 --> 00:34:29,150
-now over time I can make these choices now after 15 or 17 years of working
+nu, över tid kan jag göra dessa val, nu efter 15 eller 17 års arbete
 
 513
 00:34:29,483 --> 00:34:32,487
-because you built a position to be this place.
+eftersom du byggt en ställning för att vara på den här platsen.
 
 514
 00:34:33,196 --> 00:34:36,532
-I think every choice you make kind of come back to you sooner or later,
+Jag tror att varje val du gör liksom kommer tillbaka till dig förr eller senare,
 
 515
 00:34:36,908 --> 00:34:40,119
-if you engage with some kind of strange product
+om du engagerar dig i någon konstig produkt
 
 516
 00:34:40,870 --> 00:34:44,332
-it will come back to you as well, you’ll get more of it, the simple principle here that,
+kommer den att komma tillbaka till dig också, du kommer att få mer av det, den enkla principen här att,
 
 517
 00:34:44,749 --> 00:34:46,209
-whatever you do you get more of it.
+vad du än gör får du mer av det.
 
 518
 00:34:46,709 --> 00:34:48,294
-So if you start something you don’t agree with it
+Så om du börjar men något som du inte kommer överens med
 
 519
 00:34:48,294 --> 00:34:51,902
-you’ll probably get more of the same questions to do it again and again
+kommer du förmodligen få mer av samma sak, frågor om att göra det igen och igen
 
 520
 00:34:51,903 --> 00:34:55,369
-and people become experts in doing this kind of things.
+och människor blir experter på att göra såna här saker.
 
 521
 00:34:55,676 --> 00:34:57,136
-Then there is also the whole process
+Sen är det också hela processen med
 
 522
 00:34:57,720 --> 00:35:00,800
-of taking a step back and of being able to say no
+att ta ett steg tillbaka och att kunna säga nej
 
 523
 00:35:01,432 --> 00:35:06,479
-or to reformulate commissions that we judge non ethical
+eller att omformulera uppdrag som vi bedömer som oetiska
 
 524
 00:35:06,896 --> 00:35:10,108
-or contradictory, or not helpful to citizens.
+eller motsägelsefulla, eller inte hjälpsamma för medborgare.
 
 525
 00:35:11,067 --> 00:35:13,736
-And when that’s the case I’d say each designer will know
+Och när detta inträffar menar jag att varje designer kommer att veta
 
 526
 00:35:14,237 --> 00:35:18,241
-where they position themselves between their economic survival
+var de positionerar sig mellan sin ekonomiska överlevnad
 
 527
 00:35:19,266 --> 00:35:21,744
-and their desire to… or rather their professional activism,
+och sitt behov av... eller snarare sin professionella aktivism
 
 528
 00:35:21,994 --> 00:35:26,207
-and whether they will focus more on the commissioner or on the user.
+och om de kommer att fokusera mer på uppdragsgivaren än på användaren.
 
 529
 00:35:41,252 --> 00:35:44,684
-Design so often happens in this vaccuum,
+Design sker så ofta i det här vacuumet,
 
 530
 00:35:45,143 --> 00:35:48,146
-where we spend all of our time thinking about form,
+där vi tillbringar all vår tid med att tänka på form,
 
 531
 00:35:48,563 --> 00:35:52,191
-materiality, of fonction, of how we interact with a thing
+materialitet, på funktion, på hur vi interagerar med ett ting
 
 532
 00:35:52,192 --> 00:35:55,611
-but always almost in this bubble.
+men alltid, nästan i den här bubblan.
 
 533
 00:35:56,529 --> 00:35:59,949
-We think about very really rarely what’s outside of this bubble
+Vi tänker, verkligen mycket sällan på vad som finns utanför den här bubblan,
 
 534
 00:36:00,324 --> 00:36:03,202
-about the real lives, about the real systems in which people live
+på de riktiga liven, på de verkliga system som människor lever i
 
 535
 00:36:04,453 --> 00:36:06,956
-and as a consequence this is where problems lie.
+och en konsekvens av detta är var problemen finns.
 
 536
 00:36:08,124 --> 00:36:11,919
-Because we have to think about the world in which our products exist
+Eftersom vi behöver fundera över världen som våra produkter existerar i
 
 537
 00:36:12,253 --> 00:36:15,381
-and there is as much complexity that we can possibly cope with
+och det finns så mycket komplexitet som vi någonsin kan hantera
 
 538
 00:36:16,132 --> 00:36:18,094
-because they’re incredibly complicated.
+för att de är oerhört komplicerade.
 
 539
 00:36:19,886 --> 00:36:22,471
-And I came across this very recently this exact problem
+Och jag stötte på detta helt nyligen, exakt detta problem
 
 540
 00:36:23,681 --> 00:36:24,724
-in a conversation with
+i ett samtal med
 
 541
 00:36:25,892 --> 00:36:31,022
-probably one of the most talented designers I know, product designer,
+förmodligen en av de mest talangfulla designers jag känner till, produktdesigner,
 
 542
 00:36:31,814 --> 00:36:34,013
-he’s been practicing for a small company in London
+han har arbetat för ett litet företag i London
 
 543
 00:36:35,193 --> 00:36:37,695
-since we graduated from the RCA, we were in the same year.
+sen vi examinerades från RCA, vi gick där samma år.
 
 544
 00:36:38,321 --> 00:36:44,535
-He’s just taken a job at Amazon as a kind of higher product designer
+Han har just börjat ett jobb för Amazon som en sorts högre produktdesigner
 
 545
 00:36:45,411 --> 00:36:49,457
-and I was just talking with him about this idea of ethics and responsibility
+och jag pratade bara med honom om den här idén om etik och ansvar
 
 546
 00:36:49,458 --> 00:36:51,209
 because I’m slightly
+för jag är lite
 
 547
 00:36:52,835 --> 00:36:56,088
-concerned about some of the things Amazon is currently doing.
+bekymrad över en del av de saker som Amazon håller på med för närvarande.
 
 548
 00:36:56,195 --> 00:36:57,119
@@ -2194,307 +2195,309 @@ Alexa,
 
 549
 00:36:58,841 --> 00:37:00,218
-would you lie to me?
+skulle du ljuga för mig?
 
 550
 00:37:01,467 --> 00:37:03,158
-I always try to tell the truth,
+Jag försöker alltid tala sanning,
 
 551
 00:37:03,679 --> 00:37:07,516
-I’m not always right but I will never intentionally lie to you or anyone else
+jag har inte alltid rätt men jag kommer aldrig att medvetet ljuga för dig eller någon annan.
 
 552
 00:37:09,101 --> 00:37:11,536
-For him he was shocked that I could be questioning
+För honom var det chockerande att jag kunde ifrågasätta
 
 553
 00:37:12,188 --> 00:37:13,487
-the value of what he's doing.
+värdet av vad han håller på med.
 
 554
 00:37:13,940 --> 00:37:17,360
-He thinks he’s contributing amazing things to the world
+Han tänker att han bidrar med fantastiska saker till världen
 
 555
 00:37:17,361 --> 00:37:19,237
-but he’s thinking on his scale,
+men han tänker enligt sin måttstock,
 
 556
 00:37:20,196 --> 00:37:22,698
-he’s thinking about the beautiful products that he makes
+han tänker på de vackra produkterna han skapar
 
 557
 00:37:23,074 --> 00:37:25,433
-and this is the danger within design.
+och detta är faran inom design.
 
 558
 00:37:33,628 --> 00:37:35,253
-If you rethink things from the bottom
+Om du omprövar saker från grunden
 
 559
 00:37:35,628 --> 00:37:38,256
-then you could completely do something different
+så kan du göra något helt och hållet annorlunda
 
 560
 00:37:38,756 --> 00:37:40,091
-and the magazine is at the,
+och tidskriften är vid,
 
 561
 00:37:41,175 --> 00:37:43,993
-the financing, the distribution, the production, everything
+finansieringen, distributionen, produktionen, allt
 
 562
 00:37:45,513 --> 00:37:47,224
-it felt like ok if we’re doing a new magazine,
+det kändes liksom ok, om vi gör en ny tidskrift
 
 563
 00:37:47,515 --> 00:37:51,560
-we don't have to inherit any existing old platforms or plans,
+behöver vi inte ärva någon existerande gammal plattform eller plan,
 
 564
 00:37:51,852 --> 00:37:53,095
-we can just do it from scratch.
+vi kan bara göra det från scratch.
 
 565
 00:37:54,182 --> 00:37:56,176
-I find it’s very important
+Jag tycker att det är mycket viktigt
 
 566
 00:37:56,181 --> 00:38:00,736
-to make designers understand the value of the humanities and social sciences
+att få designers att förstå värdet av humaniora och samhällsvetenskap
 
 567
 00:38:01,570 --> 00:38:04,907
-by showing for instance that if you look at history
+genom att t.ex. visa att om du tittar på teknologins
 
 568
 00:38:05,950 --> 00:38:08,096
-of technologies for instance, of this sort of products
+historia, t.ex. på den här sortens produkter
 
 569
 00:38:08,619 --> 00:38:10,955
-it can show you that things have been different in the past.
+kan det visa dig att saker har varit annorlunda förr.
 
 570
 00:38:11,247 --> 00:38:14,542
-So by using this understanding what have been different in the past
+Så genom att använda den här förståelsen för vad som varit annorlunda förr,
 
 571
 00:38:15,042 --> 00:38:19,964
-it’s a way to make designers aware that things should be different in the future
+det är ett sätt att uppmärksamma designers på att saker bör bli annorlunda i framtiden
 
 572
 00:38:20,172 --> 00:38:23,551
-and that you can maybe adapt more ethical choices.
+och att du kan kanske göra mer etiska val.
 
 573
 00:38:23,801 --> 00:38:24,760
-So that’s for history,
+Så, det var historia,
 
 574
 00:38:25,032 --> 00:38:27,972
-Anthropology, it shows that in different cultures,
+Antropologin, den visar att i olika kulturer,
 
 575
 00:38:28,431 --> 00:38:30,786
-in different places, in different territories in the world,
+på olika platser, i olika territorier i världen,
 
 576
 00:38:31,126 --> 00:38:34,838
-there are different ways to live and by showing that
+finns det olika sätt att leva och att visa detta
 
 577
 00:38:35,646 --> 00:38:40,485
-that’s also a way to question a design brief, question product, question existing services.
+är också ett sätt att ifrågasätta en design brief, ifrågasätta en produkt, ifrågasätt tjänster.
 
 578
 00:38:40,841 --> 00:38:43,654
-So I take this kind of example of history:
+Så jag tar den här sortens historiska exempel:
 
 579
 00:38:44,405 --> 00:38:45,937
-how things have been different in the past,
+hur saker har varit annorlunda förr,
 
 580
 00:38:46,365 --> 00:38:48,808
-anthropology: how things are different elsewhere,
+antropologi: hur saker är annorlunda någon annanstans,
 
 581
 00:38:49,243 --> 00:38:52,413
-as a way, well, as a sort of metaphor
+som ett sätt, som en sorts metafor
 
 582
 00:38:53,497 --> 00:38:55,583
-to think about how design education should
+att tänka om hur designutbildning kunde
 
 583
 00:38:56,042 --> 00:39:00,880
-open mindset and not necessarily make designers
+öppna tankesätt och inte nödvändigvis få designers
 
 584
 00:39:01,127 --> 00:39:04,008
-answer to the client question in a way
+att svara på kundens frågor, på ett sätt
 
 585
 00:39:04,884 --> 00:39:06,483
-it would be a sort of status quo.
+som skulle vara en sorts status quo.
 
 586
 00:39:07,470 --> 00:39:10,447
-We need to have like an open mind if you want
+Vi behöver ha ett öppet sinne om vi vill
 
 587
 00:39:11,057 --> 00:39:13,917
-to live in a more habitable near-future world.
+leva i en mer beboelig värld i den nära framtiden.
 
 588
 00:39:24,195 --> 00:39:25,904
-We do need I believe
+Vi behöver, tror jag
 
 589
 00:39:26,614 --> 00:39:30,242
-more organizations to start talking about and opening up
+flera organisationer som börjar tala om, och öppna upp
 
 590
 00:39:30,618 --> 00:39:33,454
-some of the patterns that they are exploring and creating,
+en del av de mönster som de utforskar och skapar,
 
 591
 00:39:33,746 --> 00:39:38,250
-because we’ve got a window of opportunity right now to come up with some ethical patterns
+eftersom vi har ett öppning för möjlighet just nu att komma på några etiska mönster
 
 592
 00:39:38,542 --> 00:39:41,420
-whether that be about privacy or security or transparency
+oavsett om de handlar om integritet eller säkerhet eller transparens
 
 593
 00:39:41,921 --> 00:39:44,965
-for people, for generations to come to copy.
+för människor, för kommande generationer att kopiera.
 
 594
 00:39:45,883 --> 00:39:49,720
-Like if you think about a payment window for credit card on an online service
+Om du t.ex. tänker på ett fönster för kreditkortbetalning på en webbtjänst
 
 595
 00:39:50,137 --> 00:39:56,811
-and if i ask you right now to design me a credit card service
+och jag ber dig att just nu designa en kreditkorttjänst till mig
 
 596
 00:39:57,103 --> 00:40:00,398
-you’ll picture the one you used last week and kind of copy that.
+skulle du föreställa dig den du använde förra veckan och liksom kopiera allt det.
 
 597
 00:40:00,981 --> 00:40:03,150
-Designers are really good at copying each other
+Designers är jättebra på att kopiera varandra
 
 598
 00:40:03,734 --> 00:40:07,530
-but when it comes to ethics I don’t think we’ve got any blueprints to copy.
+men när det handlar om etik tror jag inte att vi har några ritningar att kopiera.
 
 599
 00:40:08,322 --> 00:40:11,951
-So I think we have a window of opportunity, a very exciting opportunity,
+Så jag menar att vi har en öppning för en möjlighet, en mycket spännande möjlighet,
 
 600
 00:40:12,326 --> 00:40:15,496
-to make some of these patterns and guidelines for people to follow
+att skapa några av dessa mönster och riktlinjer som människor kan följa
 
 601
 00:40:15,996 --> 00:40:19,041
-so I think that’s a really big challenge because without these patterns,
+jag tror att det är en verkligt stor utmaning eftersom utan dessa mönster,
 
 602
 00:40:19,375 --> 00:40:22,086
-it’s more expensive, it’s more time-consuming
+blir det mycket mer kostsamt, det är mer tidsödande
 
 603
 00:40:23,337 --> 00:40:25,172
-to bring ethics into your work
+att föra in etik i ditt arbete
 
 604
 00:40:25,423 --> 00:40:26,924
-and that doesn't mean you shouldn't do it
+och det betyder inte att du inte ska göra det
 
 605
 00:40:27,258 --> 00:40:29,176
-but it’s just that the barriers are there
+men det är bara det att barriärerna är där
 
 606
 00:40:29,718 --> 00:40:31,637
-and there’s more obstacles to get past.
+och det finns fler hinder att ta sig förbi.
 
 607
 00:40:33,200 --> 00:40:36,725
-And I think that the more difficult the context
+Och jag tror att ju svårare kontexten är
 
 608
 00:40:37,351 --> 00:40:41,023
-the more resistant to a critical approach to design
+och ju mer motstånd mot ett kritisk förhållande till design
 
 609
 00:40:41,355 --> 00:40:42,648
-the more interesting it is.
+desto mer intressant blir det.
 
 610
 00:40:43,399 --> 00:40:46,694
-Because if you manage to influence a large company
+För om du klarar att påverka ett stort företag
 
 611
 00:40:46,902 --> 00:40:49,655
-which is very difficult to negotiate,
+som är mycket svårt att klara av, 
 
 612
 00:40:50,114 --> 00:40:55,077
-if you manage to influence them 1% or 2% in the first year,
+om du klarar att påverka dem 1% eller 2% det första året,
 
 613
 00:40:55,744 --> 00:40:57,496
-in five years time you’ve done that much,
+efter fem är har du gjort så här mycket,
 
 614
 00:40:58,164 --> 00:41:02,001
-that’s huge, and you feel that with a little bit of influence
+det är stort och du känner att med bara en liten påverkan
 
 615
 00:41:02,001 --> 00:41:05,212
-you can do a lot to a big outfit so find this interesting.
+kan du göra mycket så jag tycker det är intressant.
 
 616
 00:41:06,213 --> 00:41:09,008
-So what happens if design starts to happen locally
+Så vad händer om design börjar göras lokalt
 
 617
 00:41:09,009 --> 00:41:12,094
-the way we’re talking about consuming energy locally.
+på det sättet vi talar om när vi talar om att konsumera energi lokalt.
 
 618
 00:41:13,012 --> 00:41:16,281
-So this is the principle in the gravity battery, the energy being something local,
+Det är principen i gravitationsbatteriet, att energin är någonting lokalt,
 
 619
 00:41:16,724 --> 00:41:19,727
-being through the wall, so you can see the energy that you’re consuming
+så att du kan se energin som du förbrukar
 
 620
 00:41:20,227 --> 00:41:23,314
-but also to design a product that can be done locally.
+men också att designa en produkt som kan byggas lokalt.
 
 621
 00:41:23,689 --> 00:41:25,930
 So local manufacturers, local skills,
+Så lokala tillverkare, lokal kompetens
 
 622
 00:41:26,734 --> 00:41:28,861
-using local crafts people perhaps,
+användande av lokala hantverkare kanske,
 
 623
 00:41:30,779 --> 00:41:33,365
-it’s very much the whole idea of open source hardware
+det är till stor del hela idén om öppen hårdvara
 
 624
 00:41:34,116 --> 00:41:35,074
 of sharing knowledge,
+om att dela kunskap,
 
 625
 00:41:35,075 --> 00:41:38,621
