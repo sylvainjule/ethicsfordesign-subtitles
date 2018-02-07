@@ -1683,48 +1683,49 @@ att säga att den här produkten kommer att bli fantastisk men det kan bli fel p
 
 421
 00:27:37,656 --> 00:27:40,326
-When I was working at Google in the US
 När jag arbetade för Google i USA
 
 422
 00:27:40,747 --> 00:27:44,376
-I had this realisation that
+fick jag den här insikten att
 
 423
 00:27:44,992 --> 00:27:48,124
-there is more technology in my life than ever before
+det finns mer teknologi i mitt liv än någonsin förut
 
 424
 00:27:49,292 --> 00:27:53,171
-but for some reasons that felt harder to do all the things I wanted to do with myself.
+men av någon anledning kändes det svårare att göra alla de saker jag ville göra med mig själv.
 
 425
 00:27:53,512 --> 00:27:57,008
 I felt like there was something fundamentally off in that situation
+Jag kände som om det var något fundamentalt fel med den situationen
 
 426
 00:27:57,413 --> 00:27:59,824
-because if technology is for anything
+eftersom om teknologi är till för något
 
 427
 00:28:00,261 --> 00:28:03,725
-it seems like it’s for helping us live better, do the things you want to do better
+så verkar det som om den hjälper oss att leva bättre, att göra de saker du vill göra bättre,
 
 428
 00:28:04,006 --> 00:28:06,510
-achieve our goals, live by our values.
+uppnå våra mål, leva efter våra värderingar.
 
 429
 00:28:06,725 --> 00:28:10,139
-I’m thinking of Bruno Latour, who was describing
+Jag tänker på Bruno Latour, som beskrev
 
 430
 00:28:10,769 --> 00:28:16,611
-several ways in which technical objects prescribe our behaviour.
+en mängd sätt på vilka tekniska objekt påbjuder vårt beteende.
 
 431
 00:28:17,737 --> 00:28:20,736
 You have the objects that force you, that will force you to act as do the underground turnstiles,
+Du har objekten som styr dig, som kommer att styra dig att agera som 
 
 432
 00:28:21,825 --> 00:28:26,788
