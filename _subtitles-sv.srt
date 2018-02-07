@@ -116,7 +116,6 @@ ljud som strömmar, ett strömmande ljud.
 
 31
 00:01:28,004 --> 00:01:29,047
-The possibilities are endless,
 Möjligheterna är oändliga,
 
 32
@@ -133,7 +132,6 @@ och ingen kommer någonsin att veta detta.
 
 35
 00:01:38,098 --> 00:01:39,599
-Imagine the guy on the stock market,
 Föreställ dig en kille på aktiemarknaden,
 
 36
@@ -158,7 +156,6 @@ och jag har börjat titta på Madeiras landskap.
 
 41
 00:01:55,10 --> 00:01:58,05
-You can’t see it too much throught the way the lens is pointing
 Det går inte att se så mycket av det på grund av hur kameralinsen är riktad 
 
 42
@@ -947,7 +944,6 @@ lockelsen att signera med sitt namn,
 
 237
 00:15:47,314 --> 00:15:52,075
-the temptationto be on the glossy cover of a magazine,
 lockelsen att vara på en tidskrifts glansiga omslag, 
 
 238
@@ -1052,7 +1048,6 @@ jag är vaksam mot design som skulle kunna användas som human-washing,
 
 263
 00:17:17,117 --> 00:17:22,239
-where all of a sudden all compnies, even the worst ones, become ethical, social, politically engaged, altruistic, etc.
 där plötsligt alla företag, även de värsta, blir etiska, sociala, politiskt engagerade, altruistiska etc.
 
 264
