@@ -1514,7 +1514,6 @@ och det är behovet som leder företag till denna nivå.
 
 379
 00:24:46,152 --> 00:24:49,014
-The role of the designer is to follow or influence this tendency,
 Designerns roll är att följa eller påverka denna tendens,
 
 380
@@ -1527,7 +1526,7 @@ Så varje gång vi har blivit ledda längs en särskild stig
 
 382
 00:24:55,338 --> 00:24:59,018
-har vi alltid försökt, inte att byta stig och skapa en spricka,
+har vi alltid försökt, inte att byta stig och skapa en brytning,
 
 383
 00:24:59,118 --> 00:25:02,440
@@ -1551,7 +1550,7 @@ våra team har förändrats fullständigt
 
 388
 00:25:14,210 --> 00:25:21,092
-för att om du vill skapa bra design i en organisation, oavsett dess område eller storlek,
+för om du vill skapa bra design i en organisation, oavsett dess område eller storlek,
 
 389
 00:25:21,469 --> 00:25:24,062
@@ -1579,15 +1578,15 @@ av ansvarighet i projekt som är precis vad vi letar efter.
 
 395
 00:25:44,948 --> 00:25:47,337
-Om du ser på historisk på desginens roll,
+Om du ser historisk på desginens roll,
 
 396
 00:25:47,573 --> 00:25:51,633
-är design är en tjänstebaserad disciplin
+är design en tjänstebaserad disciplin
 
 397
 00:25:52,092 --> 00:25:55,512
-och det är därför designers arbetar där pengarna kommer från,
+och det är därför designers arbetar där pengarna finns,
 
 398
 00:25:56,221 --> 00:25:58,598
@@ -1619,7 +1618,7 @@ för att öka konsumismen.
 
 405
 00:26:26,263 --> 00:26:28,670
-De flest designer som arbetar med nya produkter,
+De flesta designers som arbetar med nya produkter,
 
 406
 00:26:29,462 --> 00:26:32,757
@@ -1659,7 +1658,7 @@ design är verkligen vid hjärtat av detta.
 
 415
 00:27:06,583 --> 00:27:09,169
-Så om jag arbetar för ett företag och jag utvecklar en ny produkt,
+Om jag arbetar för ett företag och jag utvecklar en ny produkt,
 
 416
 00:27:09,262 --> 00:27:12,047
@@ -1699,12 +1698,11 @@ men av någon anledning kändes det svårare att göra alla de saker jag ville g
 
 425
 00:27:53,512 --> 00:27:57,008
-I felt like there was something fundamentally off in that situation
 Jag kände som om det var något fundamentalt fel med den situationen
 
 426
 00:27:57,413 --> 00:27:59,824
-eftersom om teknologi är till för något
+eftersom, om teknologi är till för något
 
 427
 00:28:00,261 --> 00:28:03,725
@@ -1724,160 +1722,159 @@ en mängd sätt på vilka tekniska objekt påbjuder vårt beteende.
 
 431
 00:28:17,737 --> 00:28:20,736
-You have the objects that force you, that will force you to act as do the underground turnstiles,
-Du har objekten som styr dig, som kommer att styra dig att agera som 
+Du har objekten som styr dig, som kommer att styra dig att agera, som tunnebanespärrarna gör,
 
 432
 00:28:21,825 --> 00:28:26,788
-you have the objects that will persuade us to act like speed cameras on roads
+du har objekten som kommer att övertyga oss att agera, som hastighetskameror vid vägar,
 
 433
 00:28:27,372 --> 00:28:32,961
-and the objects that will seduce us or influence our behaviour without any rational reason.
+och objekten som kommer att förföra oss eller påverka vårt beteende utan någon rationell anledning.
 
 434
 00:28:33,670 --> 00:28:43,054
-For instance a road that is straight for kilometers on end will incite us to drive faster,
+Till exempel, en väg som är rak i flera kilometer kommer att sporra oss att köra fortare,
 
 435
 00:28:44,271 --> 00:28:47,475
-this is not a rational influence on our behaviour.
+detta är inte en rationell påverkan på vårt beteende.
 
 436
 00:28:48,143 --> 00:28:49,894
-You can see now I’ve no hands on the wheel,
+Du kan se nu att jag inte har någon hand på ratten,
 
 437
 00:28:51,354 --> 00:28:54,232
-so it does not require a constant nag or anything like that.
+så den behöver inte en konstant justering eller något sånt.
 
 438
 00:28:54,816 --> 00:28:57,028
-Like if you go to a secondary school right now,
+Om du går till en gymnasieskola nu idag,
 
 439
 00:28:58,236 --> 00:29:02,031
-everyone out of lessons is like this,
+så gör alla som inte har lektion såhär,
 
 440
 00:29:02,708 --> 00:29:03,825
-and scrolling,
+och scrollar,
 
 441
 00:29:04,659 --> 00:29:07,676
-and the endorphins people experience from
+och endorfinerna som människor upplever från
 
 442
 00:29:08,079 --> 00:29:10,582
-the rush of likes they get for a selfie.
+ruset av likes de får för en selfie,
 
 443
 00:29:10,583 --> 00:29:16,129
-I mean I’m being really critical and also I’m broadbrush about it
+jag menar, jag är verkligen kritisk men också ospecifik om det
 
 444
 00:29:16,755 --> 00:29:18,214
-but someone designed that
+men någon designade det där
 
 445
 00:29:18,715 --> 00:29:20,967
-and someone designed the experience that they’re going through,
+och någon designade upplevelsen som de har,
 
 446
 00:29:21,301 --> 00:29:23,178
-someone designed the likes.
+någon designade likesen.
 
 447
 00:29:23,845 --> 00:29:29,493
-And they have been in board meetings, and presentations and user research sessions,
+Och de har varit på styrelsemöten, och presentationer och användarundersökningar,
 
 448
 00:29:29,976 --> 00:29:32,353
-understanding the effect that has on people
+och förstått effekten det har på människor
 
 449
 00:29:33,354 --> 00:29:37,192
-but yet that the kind of design work we’re pushing out right now.
+men ändå, att den sortens designarbete som vi lämnar ut idag.
 
 450
 00:29:38,046 --> 00:29:40,965
-In the political situation
+I den politiska situationen,
 
 451
 00:29:41,634 --> 00:29:44,115
-in the political situation we find ourselves in right now,
+i den politiska situation vi befinner oss i just nu,
 
 452
 00:29:44,741 --> 00:29:49,496
-I think it would be wrong for designers to continue,
+menar jag att det vore fel av designers att fortsätta
 
 453
 00:29:50,079 --> 00:29:53,666
-designing experiences for digital solipsism,
+designa upplevelser för digital solipsism,
 
 454
 00:29:53,667 --> 00:29:58,613
-this idea that we are alone in the world with our piece of technology and we have no impact.
+den här idén att vi är ensamma i världen med vår teknologienhet och att vi inte kan påverka. 
 
 455
 00:29:58,963 --> 00:29:59,586
-For instance
+Till exempel
 
 456
 00:30:01,925 --> 00:30:04,755
-in infinite newsfeed like on twitter or facebook,
+ett oändligt nyhetsflöde, som på twitter eller facebook,
 
 457
 00:30:06,362 --> 00:30:09,923
-what the psychological mechanism there is the same that is used with slot machines.
+den psykologiska mekanismen där är densamma som används med spelautomater.
 
 458
 00:30:09,924 --> 00:30:11,959
-It’s a kind of randomising of the reward,
+Det är en sorts slumpmässig belöning,
 
 459
 00:30:14,048 --> 00:30:18,233
-because if you think about an infinite feed it’s just a constant never ending stream of rewards to be had,
+för om du funderar på ett oändlig flöde är det bara en konstant, aldrig sinande ström av belöningar att få,
 
 460
 00:30:19,216 --> 00:30:20,443
-informational rewards
+informationsmässiga belöningar
 
 461
 00:30:22,153 --> 00:30:26,698
-and when you scroll down, pull down the refresh, you’re sort of pulling the lever on a slot machine.
+och när du scollar ner, drar ner och uppdaterar, så är det ungefär som att dra i spaken på en enarmad bandit. 
 
 462
 00:30:41,714 --> 00:30:45,176
-Basically by sort of privileging our impulses over our intentions,
+I grund och botten, genom att tillåta våra impulser gå före våra intentioner,
 
 463
 00:30:46,177 --> 00:30:48,329
-things like infinite feeds,
+sånt som oändliga flöden,
 
 464
 00:30:49,507 --> 00:30:53,101
-they select for us a certain set of impulsive reactions
+de väljer ut en viss uppsättning impulsiva reaktioner åt oss
 
 465
 00:30:53,351 --> 00:30:55,270
-and I think in politics outrage is a huge one.
+och jag tror, i politik är upprördhet en stor sådan.
 
 466
 00:30:55,895 --> 00:30:59,816
-But of course they are others that are eventually positive like I think the feeling of awe
+Men självklart finns andra som så småningom är positiva, som känslan av vördnad
 
 467
 00:31:00,567 --> 00:31:02,838
-or cuteness, or cute kitty photos,
+eller gullighet, eller gulliga kattbilder,
 
 468
 00:31:06,364 --> 00:31:09,450
-but I think it’s not the question will we be outraged or will we be
+men jag tror inte det är frågan om vi kommer att bli upprörda eller om vi
 
 469
 00:31:10,702 --> 00:31:11,911
-having experiences of awe.
+upplever vördnad.
 
 470
 00:31:12,287 --> 00:31:16,708
