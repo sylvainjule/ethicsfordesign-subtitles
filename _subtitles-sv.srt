@@ -2182,7 +2182,6 @@ och jag pratade bara med honom om den här idén om etik och ansvar
 
 546
 00:36:49,458 --> 00:36:51,209
-because I’m slightly
 för jag är lite
 
 547
@@ -2303,11 +2302,11 @@ på olika platser, i olika territorier i världen,
 
 576
 00:38:31,126 --> 00:38:34,838
-finns det olika sätt att leva och att visa detta
+finns det olika sätt att leva, och att visa detta
 
 577
 00:38:35,646 --> 00:38:40,485
-är också ett sätt att ifrågasätta en design brief, ifrågasätta en produkt, ifrågasätt tjänster.
+är också ett sätt att ifrågasätta en design brief, ifrågasätta en produkt, ifrågasätta tjänster.
 
 578
 00:38:40,841 --> 00:38:43,654
@@ -2339,7 +2338,7 @@ att svara på kundens frågor, på ett sätt
 
 585
 00:39:04,884 --> 00:39:06,483
-som skulle vara en sorts status quo.
+som skulle vara ett sorts status quo.
 
 586
 00:39:07,470 --> 00:39:10,447
@@ -2347,7 +2346,7 @@ Vi behöver ha ett öppet sinne om vi vill
 
 587
 00:39:11,057 --> 00:39:13,917
-leva i en mer beboelig värld i den nära framtiden.
+leva i en mer beboelig värld i den närmaste framtiden.
 
 588
 00:39:24,195 --> 00:39:25,904
@@ -2363,7 +2362,7 @@ en del av de mönster som de utforskar och skapar,
 
 591
 00:39:33,746 --> 00:39:38,250
-eftersom vi har ett öppning för möjlighet just nu att komma på några etiska mönster
+eftersom vi har en öppning för möjligheter just nu att komma på några etiska mönster
 
 592
 00:39:38,542 --> 00:39:41,420
@@ -2379,7 +2378,7 @@ Om du t.ex. tänker på ett fönster för kreditkortbetalning på en webbtjänst
 
 595
 00:39:50,137 --> 00:39:56,811
-och jag ber dig att just nu designa en kreditkorttjänst till mig
+och jag ber dig att just nu designa en kreditkorttjänst till mig,
 
 596
 00:39:57,103 --> 00:40:00,398
@@ -2427,7 +2426,7 @@ och det finns fler hinder att ta sig förbi.
 
 607
 00:40:33,200 --> 00:40:36,725
-Och jag tror att ju svårare kontexten är
+Och jag tror att ju svårare kontexten
 
 608
 00:40:37,351 --> 00:40:41,023
@@ -2483,7 +2482,6 @@ men också att designa en produkt som kan byggas lokalt.
 
 621
 00:41:23,689 --> 00:41:25,930
-So local manufacturers, local skills,
 Så lokala tillverkare, lokal kompetens
 
 622
@@ -2501,291 +2499,295 @@ om att dela kunskap,
 
 625
 00:41:35,075 --> 00:41:38,621
-a lot of the maker labs or maker spaces are talking about this stuff.
+många maker labs eller maker spaces diskuterar de här sakerna.
 
 626
 00:41:39,121 --> 00:41:41,499
-you know I think there’s a number of things designers can do,
+Du vet, jag tror att det finns ett antal saker en designer kan göra,
 
 627
 00:41:42,666 --> 00:41:45,085
-one of the first thing is kind of just awareness
+en av de första sakerna är bara en sorts medvetenhet
 
 628
 00:41:45,169 --> 00:41:46,879
 that there is a problem.
+om att det finns ett problem.
 
 629
 00:41:47,755 --> 00:41:50,925
-There’s is a lot of optimism in the tech industry,
+Det finns en hel del optimism i teknikindustrin,
 
 630
 00:41:50,926 --> 00:41:52,398
-a lot of it is well justified,
+mycket av den är berättigad
 
 631
 00:41:53,010 --> 00:41:54,220
-but a lot of it is I think
+men mycket av den är, tror jag,
 
 632
 00:41:56,055 --> 00:41:58,307
-not as sensitive to
+inte så känslig för
 
 633
 00:41:59,037 --> 00:42:02,019
-what in economic terms you can called externalities of the design.
+vad som i ekonomiska termer kan kallas bieffekterna av designen.
 
 634
 00:42:02,645 --> 00:42:05,481
 So things like distraction would be one of these things
+Så saker som distraktion skulle kunna vara en av dessa saker
 
 635
 00:42:06,941 --> 00:42:08,234
 whether that’s a minor annoyance or
+oavsett om det är en liten irritation eller
 
 636
 00:42:09,485 --> 00:42:12,571
-a habit that you develop over time that keeps you from being able to reach your goals.
+en vana som du utvecklar över tid som hindrar dig från att klara av att nå dina mål.
 
 637
 00:42:13,447 --> 00:42:16,951
-The reason designers don't really see this it’s we don't measure them,
+Anledningen till att designers inte riktigt ser detta är att vi inte mäter dem,
 
 638
 00:42:17,409 --> 00:42:20,454
-it’s kind of like pollution was in the environmental mouvement.
+det är lite som föroreningar var för miljörörelsen.
+
 
 639
 00:42:21,121 --> 00:42:22,706
-We knew that stuff was getting dumped into rivers,
+Vi visste att grejor blev dumpade i floder,
 
 640
 00:42:22,915 --> 00:42:25,918
-we knew there was some kind of harm to the environment
+vi visste att det utgjorde någon sorts fara för miljön
 
 641
 00:42:27,253 --> 00:42:29,046
-but it wasn't until we started measuring it and quantifying it
+men det var inte förrän vi började mäta och kvantifiera det
 
 642
 00:42:29,588 --> 00:42:31,048
-then we could actually talk about it and hold
+som vi faktiskt kunde prata om det och ställa
 
 643
 00:42:32,341 --> 00:42:33,553
-the people doing the polluting to account.
+människorna som förorenade till ansvar för det.
 
 644
 00:42:34,301 --> 00:42:35,553
-And I think it’s a similar situation here
+Och jag tror det här är en liknande situation
 
 645
 00:42:35,761 --> 00:42:40,599
-where we kind have a vague notion that there is something wrong
+där vi liksom har en vag känsla av att någonting är fel
 
 646
 00:42:40,933 --> 00:42:43,185
-in a deep way with distraction
+på ett djupgående sätt med distrakton
 
 647
 00:42:43,644 --> 00:42:45,354
-and the way in which we get habituated into
+och på sättet vi blir habituerade till att
 
 647
 00:42:47,315 --> 00:42:49,487
-being how we don't want to be.
+vara på ett sätt som vi inte vill vara på.
 
 648
 00:42:50,317 --> 00:42:52,903
-But I think we’re still at the very beginning
+Men jag tror att vi fortfarande är i början
 
 649
 00:42:53,571 --> 00:42:55,030
-of figuring out how to talk about that and measure it,
+av att räkna ut hur vi kan prata om det och mäta det,
 
 650
 00:42:55,197 --> 00:42:56,282
-but I think once we do
+men jag tror att när vi väl gör det
 
 651
 00:42:57,199 --> 00:42:59,827
-I think the goal ought to be doing for
+menar jag att målet bör vara att göra för
 
 652
 00:43:00,661 --> 00:43:03,414
-our mental environment what we did for the physical environment
+vår mentala miljö det som vi gjorde för vår fysiska miljö
 
 653
 00:43:03,539 --> 00:43:04,748
-with the environmental movement.
+med miljörörelsen.
 
 654
 00:43:06,000 --> 00:43:07,960
-So I think that involves then
+Så jag tror att det innefattar
 
 655
 00:43:08,586 --> 00:43:11,422
-new responsibilities on the part of companies and designers
+nya ansvarsområden för företag och designers
 
 656
 00:43:12,256 --> 00:43:16,239
-to not just measure the value that they’re getting
+att inte bara mäta värdet de får ut
 
 657
 00:43:17,136 --> 00:43:19,096
-but the value they’re giving to people but then also
+utan också värdet de ger till människor, men också
 
 658
 00:43:19,972 --> 00:43:23,267
-the potential harms or negative effect that the design is causing.
+den potentiella skada eller negativa effekt som designen orsakar.
 
 659
 00:43:24,602 --> 00:43:25,477
-At first sight
+Vid första anblick
 
 660
 00:43:25,728 --> 00:43:29,023
-there doesn't seem to be much relationship between farming and industry,
+verkar det inte finnas många relationer mellan lantbruk och industri,
 
 661
 00:43:29,523 --> 00:43:30,941
-but industry produces pollution,
+men industrin skapar föroreningar,
 
 662
 00:43:31,275 --> 00:43:32,518
-and pollution affects crops,
+och föroreningar påverkar skörden,
 
 663
 00:43:33,444 --> 00:43:36,655
-so a change in industry affects farming by pollution.
+så en förändring i industrin påverkar lantbruk genom föroreningar.
 
 664
 00:43:37,364 --> 00:43:41,452
-The man-made world consists of a whole complex of subtle relationships like that
+Den mänskliga världen består av en stor sammansättning av såna subtila relationer,
 
 665
 00:43:42,202 --> 00:43:43,203
-change one thing
+ändra på en sak
 
 666
 00:43:43,495 --> 00:43:45,998
-and it sets up a slow and complicated chain reaction.
+och det sätter igång en långsam och komplicerad kedjereaktion.
 
 667
 00:43:47,166 --> 00:43:50,210
-Understanding is really, is in a way the key,
+Förståelse är verkligen, är egentligen nyckeln,
 
 668
 00:43:50,919 --> 00:43:52,348
-like if you understand things,
+om du förstår saker,
 
 669
 00:43:53,005 --> 00:43:54,465
-you respect things,
+så respekterar du saker,
 
 670
 00:43:54,965 --> 00:43:56,383
-and if you respect things then,
+och om du respekterar saker
 
 671
 00:44:00,804 --> 00:44:02,039
-you take care about things
+tar du hand om saker
 
 672
 00:44:03,807 --> 00:44:07,019
-and then everything's not fine
+och då är inte allt bra
 
 673
 00:44:07,686 --> 00:44:08,472
-but better.
+men bättre.
 
 674
 00:44:09,146 --> 00:44:11,148
-Virtuous ethics revolve around the qualities
+Dygdetik kretsar runt de kvaliteter
 
 675
 00:44:12,024 --> 00:44:14,068
-that a good designer
+som en bra designer
 
 676
 00:44:14,735 --> 00:44:16,820
-should integrate
+bör integrera,
 
 677
 00:44:18,864 --> 00:44:20,366
-should control or 
+bör kontrollera eller
 
 678
 00:44:22,451 --> 00:44:23,410
-should apply
+bör implementera
 
 679
 00:44:24,244 --> 00:44:25,663
-in order to do a good job,
+för att göra ett bra arbete,
 
 680
 00:44:26,206 --> 00:44:31,126
-except of course the virtue of professional competence and mastering design practice,
+utom förstås förmågan till professionell kompetens och att behärska designpraktik,
 
 681
 00:44:32,044 --> 00:44:33,045
-these are important
+är dessa viktiga
 
 682
 00:44:33,629 --> 00:44:35,214
-but not sufficient.
+men inte tillräckliga.
 
 683
 00:44:36,340 --> 00:44:39,385
-I have difficulty framing recommendations for others,
+Jag har svårt att formulera rekommendationer till andra,
 
 684
 00:44:39,843 --> 00:44:41,804
-again it’s the same with any piece of advice,
+det är likadant med alla typer av råd,
 
 685
 00:44:42,346 --> 00:44:45,683
-I think the best piece of advice is like to be sceptical of other people’s advice
+jag tror att det bästa rådet är att vara skeptisk till andra människors råd,
 
 686
 00:44:46,308 --> 00:44:50,229
-because I think nowadays there’s too much information available everywhere
+eftersom jag tror att nuförtiden finns det för mycket information tillgänglig överallt
 
 687
 00:44:50,688 --> 00:44:52,606
-and everyone is providing clear-cut answers
+och alla tillhandahåller entydiga svar
 
 688
 00:44:53,023 --> 00:44:55,943
-like how to do things, there’s books on how to do that how to do this.
+om hur du ska göra saker, det finns böcker om hur du ska göra det ena och det andra.
 
 689
 00:44:56,610 --> 00:44:59,697
-You can see ten tips to improve whatever,
+Du kan hitta tio tips för att förbättra vadsomhelst,
 
 690
 00:45:00,531 --> 00:45:03,450
-from your sex life to your design skills to whatever,
+från ditt sexliv till dina designförmågor till vadsomhelst,
 
 691
 00:45:04,076 --> 00:45:07,287
-I think people should stop paying attention to these things
+jag tycker att människor ska sluta uppmärksamma dessa saker
 
 692
 00:45:07,579 --> 00:45:09,415
-and start paying attention to themselves.
+och börja uppmärksamma sig själva.
 
 693
 00:45:10,416 --> 00:45:12,292
-So I think developing sceptical attitude
+Så jag menar att utveckla en skeptisk attityd
 
 694
 00:45:12,418 --> 00:45:15,254
-towards other people’s advice because it’s not relevant
+mot andra människors råd, för att det inte är relevant
 
 695
 00:45:15,379 --> 00:45:16,171
-is a key.
+är en nyckel.
 
 696
 00:45:16,559 --> 00:45:18,382
