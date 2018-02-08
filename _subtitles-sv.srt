@@ -136,7 +136,7 @@ Föreställ dig en kille på aktiemarknaden,
 
 36
 00:01:39,891 --> 00:01:43,269
-om han är på teater, om han är på bio, om han ligger i sängen och sover, om han är på stranden
+om han är på teater, om han är på bio, om han ligger i sängen och sover, om han är på stranden,
 
 37
 00:01:44,270 --> 00:01:47,899
@@ -156,7 +156,7 @@ och jag har börjat titta på Madeiras landskap.
 
 41
 00:01:55,10 --> 00:01:58,05
-Det går inte att se så mycket av det på grund av hur kameralinsen är riktad 
+Det går inte att se så mycket av det på grund av hur kameran är riktad 
 
 42
 00:01:58,06 --> 00:02:00,995
@@ -188,7 +188,7 @@ så att du fortfarande kan använda solceller och vindturbiner,
 
 49
 00:02:25,20 --> 00:02:29,315
-vilket förnybar energigenerande teknik som helst, men denna energi
+vilken förnybar energigenererande teknik som helst, men denna energi
 
 50
 00:02:29,758 --> 00:02:33,319
@@ -256,7 +256,7 @@ som vi hittade på en lokal bilskrot, den är mycket billig,
 
 66
 00:03:37,434 --> 00:03:40,803
-så vi använder motorcykelns växellåda
+vi använder motorcykelns växellåda
 
 67
 00:03:41,804 --> 00:03:43,556
@@ -272,7 +272,7 @@ experimenterar med fallhastigheten och vi kan anpassa det till många olika hush
 
 70
 00:04:21,655 --> 00:04:25,736
-I Nimes har vi myntat uttrycket "beboelighet" hos en värld.
+I Nimes har vi myntat uttrycket *beboelighet* hos en värld.
 
 71
 00:04:26,490 --> 00:04:29,602
@@ -284,11 +284,11 @@ bibehålla eller förstärka
 
 73
 00:04:34,857 --> 00:04:38,569
-världens "beboelighet" för sina invånare, män och kvinnor.
+världens *beboelighet* för sina invånare, män och kvinnor.
 
 74
 00:04:39,112 --> 00:04:42,949
-Vi tolkar verbet "bebo" på flera nivåer.
+Vi tolkar verbet *bebo* på flera nivåer.
 
 75
 00:04:43,389 --> 00:04:45,994
@@ -336,7 +336,7 @@ Till sist finns en slutlig tolkning av beboelighet som jag ibland kallar spiritu
 
 86
 00:05:31,372 --> 00:05:35,126
-vilket innebär: att verkligen bebo som en mänsklig varelse och inte som ett djur
+vilket innebär att verkligen bebo som en mänsklig varelse och inte som ett djur
 
 87
 00:05:35,293 --> 00:05:40,757
@@ -384,11 +384,11 @@ och vi lever där.
 
 98
 00:06:49,450 --> 00:06:53,621
-Vårt team består av socioliger, arkitekter, designer och ibland konstnärer.
+Vårt team består av socioliger, arkitekter, designer och ibland visuella konstnärer.
 
 99
 00:06:53,996 --> 00:06:58,000
-Vi bor på platsen och försöker förstå vad som inte fungerar med en viss offentlig facilitet,
+Vi bor på platsen och försöker förstå vad som inte fungerar med en viss offentlig service,
 
 100
 00:06:58,334 --> 00:06:59,085
@@ -424,11 +424,11 @@ kan vi agera, föreslå och testa lösningar medan vi fortfarande är kvar på p
 
 108
 00:07:38,416 --> 00:07:40,452
-Det här bordet startade med en detalj
+Det här bordet startade med en detalj.
 
 109
 00:07:40,718 --> 00:07:43,911
-Jag hittade en lite metalldel
+Jag hittade en lite metallbit
 
 110
 00:07:44,310 --> 00:07:47,341
@@ -436,7 +436,7 @@ på mina farföräldrars gård
 
 111
 00:07:49,260 --> 00:07:51,220
-och den metalldelen var vriden
+och den metallbiten var vriden
 
 112
 00:07:52,930 --> 00:07:55,931
@@ -492,7 +492,7 @@ de är skrivna av designers, för designers
 
 125
 00:08:43,689 --> 00:08:45,566
-och de utesluter en större publik.
+och de utesluter en större läsekrets.
 
 126
 00:08:46,943 --> 00:08:51,531
@@ -504,7 +504,7 @@ eller exkluderar en annan läsekrets
 
 128
 00:08:54,700 --> 00:08:59,205
-och designers tror att deras arbete är relevan för en bredare publik.
+och designers tycker att deras arbete är relevant för en bredare publik.
 
 129
 00:08:59,830 --> 00:09:02,291
@@ -512,7 +512,7 @@ Designers tror att deras arbete kan förändra världen,
 
 130
 00:09:03,000 --> 00:09:09,103
-de tror att deras arbete är giltigt för alla samhällsnivåer och olika samhällsklasser
+de tycker att deras arbete är giltigt för alla samhällsnivåer och olika samhällsklasser
 
 131
 00:09:09,427 --> 00:09:13,365
@@ -520,7 +520,7 @@ men i praktiken förblir diskussioner om design mycket isolerade.
 
 132
 00:09:15,346 --> 00:09:21,069
-Så jag vill se om det fanns en möjlighet att skapa en publikation som handlade om design, men inte för designers
+Så jag ville se om det fanns en möjlighet att skapa en publikation som handlade om design, men inte för designers
 
 133
 00:09:21,449 --> 00:09:23,402
@@ -552,7 +552,6 @@ utan den handlar om enkla, grundläggande saker:
 
 140
 00:09:43,399 --> 00:09:47,081
-how you can improve a quality of life on differents places,
 hur en kan förbättra livskvalitet på olika platser,
 
 141
@@ -581,11 +580,11 @@ När vi startade *Works that Work*
 
 147
 00:10:10,432 --> 00:10:15,095
-var det tydlgit att vi ville hitta den mest direkta vägen till läsarna
+var det tydlgit att vi ville hitta den mest direkta vägen till läsarna,
 
 148
 00:10:15,229 --> 00:10:17,256
-att skära bort allt som låg imellan
+att skära bort allt som låg emellan
 
 149
 00:10:18,416 --> 00:10:22,027
@@ -610,7 +609,7 @@ som vanligtvis tar den största andelen av lösnummerpriset,
 
 154
 00:10:38,287 --> 00:10:42,348
-och dessutom kontrollerar var publikationen kommer att sälja och till vilket pris.
+och dessutom kontrollerar var publikationen kommer att säljas och till vilket pris.
 
 155
 00:10:43,468 --> 00:10:46,470
@@ -622,7 +621,7 @@ och göra dem till partners i detta företag, vi kallar detta *social distributi
 
 157
 00:10:51,432 --> 00:10:56,137
-Därför har vi så kallade bokklubbar där människor helt enkelt får en bunt tidskrifter,
+Därför har vi så kallade läsklubbar där människor helt enkelt får en bunt tidskrifter,
 
 158
 00:10:56,294 --> 00:10:57,055
@@ -674,7 +673,7 @@ justera eller anpassa sina projekt.
 
 170
 00:11:42,316 --> 00:11:45,058
-*Refugeye* är ett projekt som jag utvecklat internt
+*Refugeye* är ett projekt som jag utvecklat internt,
 
 171
 00:11:45,358 --> 00:11:47,379
@@ -682,7 +681,7 @@ det är ett mycket enkelt projekt, det är en app
 
 172
 00:11:48,359 --> 00:11:53,182
-som fungerar i en smartphone och som möjliggör förenklad kommunikation mellan flyktingar
+som fungerar i en smartphone och som möjliggör förenklad kommunikation mellan flyktingar,
 
 173
 00:11:53,293 --> 00:11:58,264
@@ -698,7 +697,7 @@ jag kan söka på många olika språk, på farsi, engelska,
 
 176
 00:12:08,289 --> 00:12:10,250
-cyrillic and russian, you name it.
+krylliska och ryska, vad som helst.
 
 177
 00:12:11,210 --> 00:12:16,253
@@ -722,11 +721,11 @@ sexualitet, tortyr etc.
 
 182
 00:12:32,361 --> 00:12:36,422
-så många begrepp som kan vara svåra och komplexa att diskutera.
+många begrepp som kan vara svåra och komplexa att diskutera.
 
 183
 00:12:37,041 --> 00:12:41,141
-Jag finansierade det själv, jag skapade det från insikter, användartester etc.
+Jag finansierade det hela själv, jag skapade det från insikter, användartester etc.
 
 184
 00:12:41,142 --> 00:12:42,247
@@ -775,11 +774,11 @@ jag har alltid, antingen det handlar om arkitektur, inte tyckt om
 
 195
 00:13:14,307 --> 00:13:16,442
-eller trott någon ekonomisk modell mot vilken vi byggt
+eller trott på någon ekonomisk modell mot vilken vi byggt
 
 196
 00:13:17,126 --> 00:13:21,204
-oavsett om det varit kommersiella projekt som givits till mig i industridesign och 
+oavsett om det varit kommersiella projekt som givits till mig i industridesign, och 
 
 197
 00:13:21,333 --> 00:13:23,064
@@ -795,11 +794,11 @@ motiverats av bristen på någonting i världen
 
 200
 00:13:30,123 --> 00:13:33,350
-som jag känt jag borde, du vet, behovet av
+som jag känt att jag borde, du vet, behoven av
 
 201
 00:13:33,429 --> 00:13:36,00
-privatliv och säkerhet är problem, eller har varit och kommer alltid att vara viktiga.
+privatliv och säkerhet är problematiska, eller har varit och kommer alltid att vara viktiga.
 
 202
 00:13:39,152 --> 00:13:41,349
@@ -859,16 +858,15 @@ nu menar jag att landskapet har förändrats i stor utsträckning,
 
 216
 00:14:25,333 --> 00:14:28,176
-jag tror att det politiska landskapet har flyttat fram en det av det där,
+jag tror att det politiska landskapet har flyttat fram en del av det där,
 
 217
 00:14:28,456 --> 00:14:32,058
-men mer och mer när jag talar med människor om vad jag gör
+men oftare och oftare när jag talar med människor om vad jag gör
 
 218
 00:14:32,059 --> 00:14:33,211
 istället för att säga:
-
 
 219
 00:14:34,099 --> 00:14:35,460
@@ -976,7 +974,7 @@ som designar saker som bara ett fåtal har råd med?
 
 245
 00:16:15,327 --> 00:16:17,072
-Designer som en upphovsman
+Designern som en upphovsman
 
 246
 00:16:18,126 --> 00:16:18,387
@@ -996,7 +994,7 @@ Det finns många myter om designers kreativiet som
 
 250
 00:16:32,310 --> 00:16:37,158
-lämnar de designers som är intresserade av människor, av fältarbete, på ett sätt
+lämnar de designers som är intresserade av människor, av fältarbete, på ett sätt,
 
 251
 00:16:38,226 --> 00:16:39,361
@@ -1016,7 +1014,7 @@ att många kommersiella designers inte är intresserade av
 
 255
 00:16:50,132 --> 00:16:54,286
-riktiga människor utan mer av sina perspektiv och myter om människor.
+riktiga människor utan mer av sina perspektiv och av myter om människor.
 
 256
 00:16:54,507 --> 00:16:56,447
@@ -1028,7 +1026,7 @@ tror jag det är
 
 258
 00:16:59,230 --> 00:17:01,109
-designen möljliggörande.
+designens möljliggörande.
 
 259
 00:17:02,130 --> 00:17:07,012
@@ -1052,7 +1050,7 @@ där plötsligt alla företag, även de värsta, blir etiska, sociala, politiskt
 
 264
 00:17:22,438 --> 00:17:27,250
-Och om design är i maskopi med en sån typ av kidnappning
+Och om design är i maskopi med en sån typ av kapning
 
 265
 00:17:30,283 --> 00:17:33,120
@@ -1080,7 +1078,7 @@ med i det här samtalet, som den del av det här beslutet.
 
 271
 00:17:51,393 --> 00:17:54,375
-Så på många ställen är vi inte
+På många ställen är vi fortfarande inte
 
 272
 00:17:55,502 --> 00:18:00,138
@@ -1128,7 +1126,7 @@ börja prata med människor som förstår:
 
 283
 00:18:29,133 --> 00:18:31,255
-backend system, hur det fungerar,
+backend-system, hur det fungerar,
 
 284
 00:18:31,473 --> 00:18:34,334
@@ -1136,7 +1134,7 @@ börja prata med ekonomer om informationsekonomin,
 
 285
 00:18:35,054 --> 00:18:37,416
-forma några åsikter, forma i alla fall några användbara åsikter i alla fall
+forma några åsikter, forma några användbara åsikter i alla fall
 
 286
 00:18:38,216 --> 00:18:39,036
@@ -1144,7 +1142,7 @@ om de här sakerna.
 
 287
 00:18:39,037 --> 00:18:41,157
-S jag menar att det finns utmaningar
+Så jag menar att det finns utmaningar,
 
 288
 00:18:42,065 --> 00:18:45,199
@@ -1160,7 +1158,7 @@ Jag tror att det enda sättet på vilket vi kan praktisera ansvarsfull design
 
 291
 00:18:54,063 --> 00:18:57,345
-är genom att förstå komplexiteten i den värld som vi rör oss i.
+är genom att förstå komplexiteten i den värld som vi agerar i.
 
 292
 00:18:58,205 --> 00:19:01,127
@@ -1192,7 +1190,7 @@ den har en mycket naiv syn på vad som är bra och vad som är önskvärt.
 
 299
 00:19:25,318 --> 00:19:29,083
-Vi använder dess två ord ofta men förstår vi verkligen vad de betyder?
+Vi använder dessa två ord ofta men förstår vi verkligen vad de betyder?
 
 300
 00:19:29,461 --> 00:19:32,462
@@ -1204,7 +1202,7 @@ det definierar vad som är förbjudet, vad som uppmuntras eller är tillåtet.
 
 302
 00:19:37,164 --> 00:19:40,085
-Naturligtvis beror detta på tidsepoken och social kontext,
+Naturligtvis beror detta på tidsepoken och på social kontext,
 
 303
 00:19:40,326 --> 00:19:45,208
@@ -1216,7 +1214,7 @@ och varierade mellan Europas länder.
 
 305
 00:19:48,410 --> 00:19:52,231
-Etik är den fundamentala tanken bakom vad det innebär att agera bra
+Etik är den fundamentala tanken bakom vad det innebär att agera väl
 
 306
 00:19:52,432 --> 00:19:54,112
@@ -1304,7 +1302,7 @@ som bara är relevanta för en individ eller social grupp vid en given tidpunkt.
 
 327
 00:21:08,185 --> 00:21:10,449
-Först och främst tänker jag på etik som en process,
+Först och främst ser jag etik som en process,
 
 328
 00:21:11,369 --> 00:21:14,291
@@ -1312,7 +1310,7 @@ Jag menar att det är en process genom vilken vi
 
 329
 00:21:15,131 --> 00:21:18,064
-liksom kan förstå hur världen borde vara.
+liksom kommer till förståelse för hur världen borde vara.
 
 330
 00:21:18,253 --> 00:21:21,454
@@ -1324,7 +1322,7 @@ jag tror att etik visar oss, såhär borde saker vara.
 
 332
 00:21:26,159 --> 00:21:30,018
-Så jag tror att det finns en hel del samklang med design,
+Jag tror att det finns en hel del samklang med design,
 
 333
 00:21:30,158 --> 00:21:34,020
@@ -1340,7 +1338,7 @@ omfattningen av etik.
 
 336
 00:21:39,295 --> 00:21:42,410
-På frågan om ‘bra’ vet vi att ett datorprogram är ett bra sådant,
+På frågan om ‘bra’ vet vi om ett datorprogram är ett bra sådant,
 
 337
 00:21:43,024 --> 00:21:45,306
@@ -1440,7 +1438,6 @@ vilka etiska regler behöver du tillämpa för dem?
 
 361
 00:23:07,225 --> 00:23:11,327
-And here it was more a design question
 Och här var det mer en designfråga
 
 362
@@ -1449,7 +1446,7 @@ eftersom du måste fråga vilken typ av etik du kommer att implementera i den h�
 
 363
 00:23:19,291 --> 00:23:24,093
-och vem kommer att bestämma vilken etik ska vara inne i denna bil,
+och vem kommer att bestämma vilken etik ska finnas inne i denna bil,
 
 364
 00:23:25,093 --> 00:23:27,216
@@ -1481,7 +1478,7 @@ så all etik kommer att anpassas till en kontext som Kina.
 
 371
 00:24:22,161 --> 00:24:24,061
-Så detta var om autonoma fordon men
+Detta om autonoma fordon men
 
 372
 00:24:24,196 --> 00:24:27,043
@@ -1490,7 +1487,6 @@ om vi tittar på produkter som helhet var det mer som om
 373
 00:24:27,323 --> 00:24:31,105
 hur någonting så subjektivt som etik kan vara
-
 
 374
 00:24:31,345 --> 00:24:34,287
@@ -1734,7 +1730,7 @@ och objekten som kommer att förföra oss eller påverka vårt beteende utan nå
 
 434
 00:28:33,670 --> 00:28:43,054
-Till exempel, en väg som är rak i flera kilometer kommer att sporra oss att köra fortare,
+Till exempel, en väg som är alldeles rak i flera kilometer kommer att sporra oss att köra fortare,
 
 435
 00:28:44,271 --> 00:28:47,475
@@ -1746,7 +1742,7 @@ Du kan se nu att jag inte har någon hand på ratten,
 
 437
 00:28:51,354 --> 00:28:54,232
-så den behöver inte en konstant justering eller något sånt.
+så den behöver inte någon konstant justering eller något sånt.
 
 438
 00:28:54,816 --> 00:28:57,028
@@ -1794,7 +1790,7 @@ och förstått effekten det har på människor
 
 449
 00:29:33,354 --> 00:29:37,192
-men ändå, att den sortens designarbete som vi lämnar ut idag.
+men ändå, att den sortens designarbete som vi gör idag.
 
 450
 00:29:38,046 --> 00:29:40,965
@@ -1826,7 +1822,7 @@ ett oändligt nyhetsflöde, som på twitter eller facebook,
 
 457
 00:30:06,362 --> 00:30:09,923
-den psykologiska mekanismen där är densamma som används med spelautomater.
+den psykologiska mekanismen där är densamma som används i spelautomater.
 
 458
 00:30:09,924 --> 00:30:11,959
@@ -1878,7 +1874,7 @@ upplever vördnad.
 
 470
 00:31:12,287 --> 00:31:16,708
-Det handlar mer om, liksom kommer dessa att flytta oss mot vad du vill bli flyttad mot.  
+Det handlar mer om, liksom kommer detta att flytta oss mot vad du vill bli flyttad mot.  
 
 471
 00:31:16,958 --> 00:31:23,274
@@ -1926,7 +1922,7 @@ och de förlitar sig på,
 
 482
 00:32:20,521 --> 00:32:23,316
-för att föda sina familjer, på små jobb som t.ex. servitör.
+för att försörja sina familjer, på små jobb som t.ex. servitör.
 
 483
 00:32:23,691 --> 00:32:25,985
@@ -1934,7 +1930,7 @@ Och du vet att den där roboten,
 
 484
 00:32:26,687 --> 00:32:31,532
-när den kommer ut på marknaden kommer den att göra att människor förlorar många jobb
+när den kommer ut på marknaden kommer den att orsaka att människor förlorar många jobb
 
 485
 00:32:32,784 --> 00:32:35,870
@@ -1982,7 +1978,7 @@ och han sa “ja, jag behövde designa den där bänken,
 
 496
 00:33:26,212 --> 00:33:29,340
-jag uppmanades att designa på vilken människor inte kunde sova
+jag uppmanades att designa en bänk på vilken människor inte kunde sova
 
 497
 00:33:30,049 --> 00:33:32,468
@@ -2006,11 +2002,11 @@ gjorde jag det eller så fick jag bara sparken”.
 
 502
 00:33:44,814 --> 00:33:48,901
-Det där är den sortens beggränsning eller extrem gräns
+Det där är den sortens begränsning eller extrem gräns
 
 503
 00:33:48,902 --> 00:33:52,037
-i vilken där designers befinner sig,
+vid vilken där designers befinner sig,
 
 504
 00:33:52,280 --> 00:33:55,742
@@ -2042,7 +2038,7 @@ I början var det tur för mig att
 
 511
 00:34:19,892 --> 00:34:23,144
-vi kommer från ett kulturellt område där valen inte är lika svåra,
+jobben kom från ett kulturell område där valen inte är lika svåra,
 
 512
 00:34:24,771 --> 00:34:29,150
@@ -2086,7 +2082,7 @@ Sen är det också hela processen med
 
 522
 00:34:57,720 --> 00:35:00,800
-att ta ett steg tillbaka och att kunna säga nej
+att ta ett steg tillbaka och att kunna säga nej,
 
 523
 00:35:01,432 --> 00:35:06,479
@@ -2122,11 +2118,11 @@ där vi tillbringar all vår tid med att tänka på form,
 
 531
 00:35:48,563 --> 00:35:52,191
-materialitet, på funktion, på hur vi interagerar med ett ting
+materialitet, på funktion, på hur vi interagerar med ting
 
 532
 00:35:52,192 --> 00:35:55,611
-men alltid, nästan i den här bubblan.
+men alltid, nästan som i en bubbla.
 
 533
 00:35:56,529 --> 00:35:59,949
@@ -2174,7 +2170,7 @@ sen vi examinerades från RCA, vi gick där samma år.
 
 544
 00:36:38,321 --> 00:36:44,535
-Han har just börjat ett jobb för Amazon som en sorts högre produktdesigner
+Han har just börjat ett jobb för Amazon som en sorts hög produktdesigner
 
 545
 00:36:45,411 --> 00:36:49,457
@@ -2494,7 +2490,6 @@ det är till stor del hela idén om öppen hårdvara
 
 624
 00:41:34,116 --> 00:41:35,074
-of sharing knowledge,
 om att dela kunskap,
 
 625
@@ -2511,7 +2506,6 @@ en av de första sakerna är bara en sorts medvetenhet
 
 628
 00:41:45,169 --> 00:41:46,879
-that there is a problem.
 om att det finns ett problem.
 
 629
@@ -2692,7 +2686,7 @@ tar du hand om saker
 
 672
 00:44:03,807 --> 00:44:07,019
-och då är inte allt bra
+och då är inte allt nödvändigtvis bra
 
 673
 00:44:07,686 --> 00:44:08,472
@@ -2780,7 +2774,7 @@ Jag menar att utveckla en skeptisk attityd
 
 694
 00:45:12,418 --> 00:45:15,254
-mot andra människors råd, för att det inte är relevant
+mot andra människors råd, för att de inte är relevanta,
 
 695
 00:45:15,379 --> 00:45:16,171
@@ -2860,9 +2854,7 @@ med vilka sociala och kulturella skillnader,
 
 714
 00:46:20,986 --> 00:46:24,948
-on what proportion of land.
-sur quelle largeur de territoire
-
+i vilken geografisk proportion.
 
 715
 00:46:25,324 --> 00:46:27,366
@@ -2946,7 +2938,6 @@ vad jag tror på.
 
 735
 00:47:26,635 --> 00:47:29,680
-On the blog we’ve got
 På bloggen har vi,
 
 736
@@ -2955,7 +2946,7 @@ det är nästan ett manifest men Philippe Starck finns med i en av våra utmanin
 
 737
 00:47:36,353 --> 00:47:38,730
-det är att bli kvitt uttryckslöst designskitsnack.
+som är att bli kvitt uttryckslöst designskitsnack.
 
 738
 00:47:39,648 --> 00:47:43,485
@@ -2991,7 +2982,7 @@ men det är en som verkligen är viktig för mig just nu.
 
 746
 00:48:08,886 --> 00:48:12,097
-Jag tror att designers som är intresserade av etik
+Jag tror att för designers som är intresserade av etik
 
 747
 00:48:12,514 --> 00:48:13,640
@@ -3091,7 +3082,7 @@ många tänker på etik som en bromspedal för innovation,
 
 771
 00:49:31,385 --> 00:49:34,564
-de säger att det är bara ännu en ruta att kryssa i ett dokument,
+de säger att det är bara ännu en ruta att bocka av i ett dokument,
 
 772
 00:49:34,565 --> 00:49:35,514
@@ -3139,7 +3130,7 @@ ledning, produktion och animering<br/>Gauthier Roussilhe<br/>översättning<br/>
 
 783
 00:50:19,945 --> 00:50:24,944
-ljud postproduktion och mix<br/>Miroslav Pilon<br/>voiceover<br/>Victoria Stephens<br/>musiksammanställning<br/>Sébastien Robert
+ljud, postproduktion och mix<br/>Miroslav Pilon<br/>voiceover<br/>Victoria Stephens<br/>musiksammanställning<br/>Sébastien Robert
 
 784
 00:50:24,945 --> 00:50:29,944
