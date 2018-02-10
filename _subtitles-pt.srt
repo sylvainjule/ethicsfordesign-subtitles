@@ -474,131 +474,131 @@ cria três dimensões, torna-se mais estável.
 
 120
 00:08:27,194 --> 00:08:28,549
-*Works that Work* is a magazine,
+*Works that Work* é uma revista,
 
 121
 00:08:29,842 --> 00:08:33,935
-my background is design and I noticed that I don’t read many design magazines,
+a minha formação é em design e reparei que não leio revistas de design,
 
 122
 00:08:34,722 --> 00:08:35,515
-for various reasons.
+por várias razões.
 
 123
 00:08:36,098 --> 00:08:39,143
-I think the biggest reason is that they often stay in a bubble,
+Acho que a maior razão é que normalmente se fecham numa bolha,
 
 124
 00:08:39,923 --> 00:08:43,105
-they’re written by designers for designers
+são escritas por designers para designers
 
 125
 00:08:43,689 --> 00:08:45,566
-and they exclude a larger public.
+e excluem um público mais alargado.
 
 126
 00:08:46,943 --> 00:08:51,531
-You can really see that the most-specialised magazine becomes the more elitist
+Consegues mesmo ver que a revista mais especializada se torna a mais elitista
 
 127
 00:08:51,532 --> 00:08:54,075
-or excluding other public
+ou exclui outro público
 
 128
 00:08:54,700 --> 00:08:59,205
-and designers think that their work is relevant to wider audience.
+e os designers acreditam que o seu trabalho é relevante para uma audiência mais abrangente.
 
 129
 00:08:59,830 --> 00:09:02,291
-Designers believe that their work can change the world,
+Os designers acreditam que o seu trabalho pode mudar o mundo,
 
 130
 00:09:03,000 --> 00:09:09,103
-they believe that their work applies to all level of society and different walks of life
+acreditam que o seu trabalho se aplica a todos os níveis da sociedade e a diferentes estratos sociais
 
 131
 00:09:09,427 --> 00:09:13,365
-but in practice discussions in design remain very isolated.
+mas na prática o discurso do design mantém-se muito isolado.
 
 132
 00:09:15,346 --> 00:09:21,069
-So I wanted to see if there was a possibility to create a publication which was about design but not for designers
+Portanto queria ver se era possível criar uma publicação que fosse sobre design mas não para designers.
 
 133
 00:09:21,449 --> 00:09:23,402
-that talks about the virtues,
+Que falasse das virtudes,
 
 134
 00:09:25,091 --> 00:09:27,432
-that talks about the purpose, that talks more about
+que falasse do propósito, que falasse mais sobre
 
 135
 00:09:28,192 --> 00:09:30,345
-ideas than appearances.
+ideias que aparências.
 
 136
 00:09:31,394 --> 00:09:36,303
-I have to say that the magazine succeeded for me because my brother reads it and he finds it relevant,
+Devo dizer que a revista teve sucesso para mim porque o meu irmão a lê e acha-a relevante,
 
 137
 00:09:36,304 --> 00:09:37,156
-he finds that
+acha que
 
 138
 00:09:37,430 --> 00:09:41,038
-it doesn’t contain jargon, it doesn’t talk about how things look like
+não tem gíria, não fala da aparência das coisas
 
 139
 00:09:41,039 --> 00:09:43,279
-but it talks about very simple basic things:
+mas sim de coisas simples e básicas:
 
 140
 00:09:43,399 --> 00:09:47,081
-how you can improve a quality of life on differents places,
+como se pode melhorar a qualidade de vida em diferentes sítios,
 
 141
 00:09:48,075 --> 00:09:52,264
-they are very practical things, like how one can solve traffic situations without
+são coisas muito práticas. Por exemplo, como se poderiam resolver situações de trânsito sem
 
 142
 00:09:52,424 --> 00:09:53,464
-bringing traffic signs,
+instalar sinais de trânsito,
 
 143
 00:09:53,465 --> 00:09:55,273
-really basic things like how
+coisas mesmo básicas como
 
 144
 00:09:56,366 --> 00:09:59,187
-globalisation happened because of simple
+como a globalização aconteceu devido a simples
 
 145
 00:10:00,255 --> 00:10:01,468
-improvement of logistics.
+desenvolvimentos logísticos.
 
 146
 00:10:08,241 --> 00:10:09,412
-When we started *Works that Work*
+Quando começámos a *Works that Work*
 
 147
 00:10:10,432 --> 00:10:15,095
-it was clear that we wanted to find the most direct way to get to the readers
+era claro que queríamos arranjar a forma mais direta de chegar aos leitores,
 
 148
 00:10:15,229 --> 00:10:17,256
-to cut anything which is in between
+cortar todos os intermediários
 
 149
 00:10:18,416 --> 00:10:22,027
-and also the magazine is really funded by readers not by someone else
+e tambm que a revista fosse financiada pelos leitores e não por outras pessoas
 
 150
 00:10:22,028 --> 00:10:24,219
-there’s no external sources of funding.
+Não há fontes externas de financiamento.
 
 151
 00:10:25,119 --> 00:10:29,101
-*Works that Work* wants to examine often ignored areas of design.
+*Works that Work* examina as áreas do design que normalmente são ignoradas.
 
 152
 00:10:31,166 --> 00:10:35,144
