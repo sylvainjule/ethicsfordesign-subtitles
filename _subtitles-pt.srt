@@ -751,55 +751,55 @@ me disseram que a utilizavam, a *Bibliothèques sans Frontières* também a inst
 
 189
 00:12:57,232 --> 00:12:59,168
-So that’s how I work, I develop and disseminate something,
+Portanto aqui trabalho assim: divulgo,
 
 190
 00:12:59,424 --> 00:13:01,044
-either it gathers interest or doesn’t, I’m just testing things out
+funciona ou não funciona, testo, e pronto se funcionar ótimo,
 
 191
 00:13:01,234 --> 00:13:04,476
-and if it doesn’t there are a thousand other projects to develop.
+se não funcionar há mil e um projetos por desenvolver.
 
 192
 00:13:05,316 --> 00:13:08,193
-So that’s the kind of things I’m trying to develop increasingly.
+É o género de coisa que tento desenvolver mais e mais.
 
 193
 00:13:08,322 --> 00:13:11,355
-I think I have been a bit of a maverick my whole career,
+Acho que tenho sido um bocadinho dicidente durante toda a minha carreira,
 
 194
 00:13:11,356 --> 00:13:14,180
-I’ve always whether it’s in architecture, not enjoying
+tenho sempre... quer seja em arquitetura, não apreciar
 
 195
 00:13:14,307 --> 00:13:16,442
-or believing any economic models to which we built
+ou acreditar qualquer modelo económico no qual construimos,
 
 196
 00:13:17,126 --> 00:13:21,204
-whether it was commercial projects I was given in industrial design and
+quer tenham sido projetos comerciais que me deram em design industrial e
 
 197
 00:13:21,333 --> 00:13:23,064
-working around these briefs.
+ao trabalhar à volta desses *briefs*.
 
 198
 00:13:23,367 --> 00:13:26,229
-I think I’ve always been
+Acho que fui sempre
 
 199
 00:13:27,005 --> 00:13:30,122
-motivated by the lack of something in the world
+motivada pela falta de algo no mundo
 
 200
 00:13:30,123 --> 00:13:33,350
-that I felt I should, you know, the need for
+que eu sentia... a necessidade de
 
 201
 00:13:33,429 --> 00:13:36,00
-privacy and security are issues that are or have and always will be important.
+privacidade e segurança são questões que são ou foram e serão ser sempre importantes.
 
 202
 00:13:39,152 --> 00:13:41,349
