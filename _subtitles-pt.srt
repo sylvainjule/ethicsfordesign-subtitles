@@ -803,107 +803,107 @@ privacidade e segurança são questões que são ou foram e serão ser sempre im
 
 202
 00:13:39,152 --> 00:13:41,349
-But we are at a time where we have more and more
+Mas hoje em dia temos cada vez mais
 
 203
 00:13:42,094 --> 00:13:45,195
-devices, products and services connected to the internet,
+dispositivos, produtos e serviços ligados à internet,
 
 204
 00:13:45,456 --> 00:13:48,218
-more organisations connected to the web as well
+assim como mais organizações ligadas à internet
 
 205
 00:13:48,418 --> 00:13:53,156
-and there’s more personal data being produced than collected
+e são gerados e agregados mais dados pessoais.
 
 206
 00:13:53,194 --> 00:13:55,440
-and right now we are in a position where,
+E neste momento estamos numa posição em que,
 
 207
 00:13:56,454 --> 00:14:00,022
-as users we have little to no control of any of that.
+enquanto utilizadores, temos pouco controlo sobre tudo isso.
 
 208
 00:14:00,263 --> 00:14:02,284
-There is an opportunity I think
+Penso que há uma oportunidade
 
 209
 00:14:02,359 --> 00:14:06,205
-for design to come in and to rebalance some of that,
+para o design atuar e repôr o equilíbrio em alguns pontos,
 
 210
 00:14:06,303 --> 00:14:10,367
-to start thinking about how we can design services that empower people.
+para começar a pensar sobre como podemos desenhar serviços que aumentem o poder das pessoas.
 
 211
 00:14:11,029 --> 00:14:12,053
-So I’ve started IF
+Por isso fundei a *IF*
 
 212
 00:14:12,309 --> 00:14:17,111
-really out of frustration that privacy and security were not being looked at
+precisamente pela frustração de a segurança e a privacidade não serem vistas
 
 213
 00:14:17,471 --> 00:14:19,275
-in any meaningful way
+de uma forma significante
 
 214
 00:14:20,012 --> 00:14:21,313
-in organisations a few years ago,
+nas organizações, há uns anos.
 
 215
 00:14:22,095 --> 00:14:25,194
-now I think the landscape has changed quite considerably,
+Acho que a situação mudou consideravelmente, últimamente.
 
 216
 00:14:25,333 --> 00:14:28,176
-I think the political landscape has pushed some of that,
+Acho que a situação política teve alguma influência nisso,
 
 217
 00:14:28,456 --> 00:14:32,058
-but more and more when I talk to people about what I do
+mas cada vez mais, quando falo com pessoas,
 
 218
 00:14:32,059 --> 00:14:33,211
-rather than them going:
+em vez de me dizerem:
 
 219
 00:14:34,099 --> 00:14:35,460
-“why would you do that”, “why is that interesting”,
+“porque havias de fazer isso?”, “há interesse nisso?”,
 
 220
 00:14:36,394 --> 00:14:40,462
-they’re like “that’s so important I’m so glad to find someone who’s actually looking at this".
+dizem “isso é to importante! É bom saber que há alguém a trabalhar no assunto”.
 
 221
 00:14:41,402 --> 00:14:46,124
-Privacy is a cornerstone of freedom,
+A privacidade é um pilar da liberdade,
 
 222
 00:14:46,425 --> 00:14:49,469
-without question the digital era in
+a era digital nas tecnologias de comunicação vai, sem dúvida,
 
 223
 00:14:50,287 --> 00:14:54,029
-in communication technologies will heighten concern
+aumentar o interesse geral pessoas
 
 224
 00:14:54,248 --> 00:14:57,150
-about the sensitivity of personal information
+sobre a sensibilidade da informação pessoal
 
 225
 00:14:57,390 --> 00:15:01,212
-that can be collected or disclosed about individual citizens
+que pode ser obtida e divulgada sobre cidadãos individuais
 
 226
 00:15:01,394 --> 00:15:04,473
-and the ever increasing pervasiveness
+e a crescente omnipresença
 
 227
 00:15:05,214 --> 00:15:06,439
-of such data collection.
+dessa tal agregação de dados.
 
 228
 00:15:17,219 --> 00:15:20,106
