@@ -1443,7 +1443,7 @@ E neste ponto torna-se uma questão de design
 
 362
 00:23:13,317 --> 00:23:19,130
-porque tem de se questionar que tipo de ética se vai implementar neste carro
+porque tens de te questionar que tipo de ética vais implementar neste carro
 
 363
 00:23:19,291 --> 00:23:24,093
@@ -1455,191 +1455,191 @@ sabendo que este carro vai trabalhar para
 
 365
 00:23:28,035 --> 00:23:30,396
-uma série de pessoas diferentes com culturas diferentes e tudo mais.
+uma série de pessoas diferentes com culturas diferentes.
 
 366
 00:23:31,196 --> 00:23:35,398
-And after even the problem was more complicated, let’s say if it’s this car
+E depois o problema tornou-se ainda mais complicado, digamos que o carro
 
 367
 00:23:36,319 --> 00:23:38,300
-is manufactured, let’s say by BMW,
+é fabricado, digamos pela BMW,
 
 368
 00:23:40,141 --> 00:23:42,422
-as a car with ethics that work well in Germany
+como um carro com uma ética que funciona bem na Alemanha,
 
 369
 00:23:43,142 --> 00:23:46,404
-but BMW exports a lot of their cars, let’s say in China
+mas a BMW exporta muitos dos seus carros, digamos para a China
 
 370
 00:23:47,144 --> 00:23:51,366
-so all the ethics will adapt to a context like China.
+portanto a ética vai ter de se a daptar a um contexto como o da China.
 
 371
 00:24:22,161 --> 00:24:24,061
-So this was for autonomous vehicles but
+Isto é o caso dos veículos autónomos, mas
 
 372
 00:24:24,196 --> 00:24:27,043
-if we look at products as a whole it was more like
+se olharmos para produtos como um todo, foi mais como
 
 373
 00:24:27,323 --> 00:24:31,105
-how something as subjective as ethics can be
+é que algo tão subjetivo como a ética pode ser
 
 374
 00:24:31,345 --> 00:24:34,287
-implemented into a generally manufactured good
+implementado num produto genéricamente fabricado
 
 375
 00:24:34,467 --> 00:24:36,468
-and how it can adapt to different contexts.
+e como se pode adaptar a diferentes contextos.
 
 376
 00:24:37,150 --> 00:24:40,109
-Eventually I think that in all these tendencies related to design
+Finalmente penso que em todas estas tendências ligadas ao design
 
 377
 00:24:40,110 --> 00:24:42,039
-there is something that’s very potent
+exite algo que tem muita, muita força
 
 378
 00:24:42,451 --> 00:24:45,432
-and that’s the need that leads companies to that stage.
+que é a necessidade das empresas que impulsionam estas tendências
 
 379
 00:24:46,152 --> 00:24:49,014
-The role of the designer is to follow or influence this tendency,
+e o papel do designer é seguir ou influênciar isso
 
 380
 00:24:50,054 --> 00:24:51,075
-certainly not to be submitted to it.
+ou não incorrer, pelo menos.
 
 381
 00:24:51,255 --> 00:24:55,337
-So each time we have been led down a particular path
+Portanto, sempre que somos levados por um caminho particular
 
 382
 00:24:55,338 --> 00:24:59,018
-we have always tried, not to change path and create a rupture,
+temos tentado, em vez de sair por estar em rutura,
 
 383
 00:24:59,118 --> 00:25:02,440
-but to say ok, you think that’s the need
+dizer “okay, acham que essa é a vossa necessidade”
 
 384
 00:25:02,460 --> 00:25:06,182
-but if we push things this way, are you ready to go there or not.
+“mas se vos influenciarmos a seguir por ali estão ou não dispostos a seguir?”
 
 385
 00:25:07,082 --> 00:25:09,043
-What I find amazing is that
+O que eu acho formidável
 
 386
 00:25:09,203 --> 00:25:11,204
-over the last 3-4 years the profession has changed completely,
+é que desde há 3-4 anos, a profissão mudou compleamente,
 
 387
 00:25:11,205 --> 00:25:14,106
-our teams have changed completely
+isto é, nós, as equipas, mudámos completamente
 
 388
 00:25:14,210 --> 00:25:21,092
-because if you want to do good design in an organisation whatever its sector or its size,
+porque se quisermos fazer bom design numa empresa, qualquer que ela seja, pública, privada, grande ou pequena,
 
 389
 00:25:21,469 --> 00:25:24,062
-I think you need to have
+na nossa opinião deve faver
 
 390
 00:25:24,351 --> 00:25:30,113
-this ability to deal with services, UX, architecture, training,
+esta capacidade de trabalhar em serviços, trabalhar em *UX*, trabalhar em arquitetura, trabalhar em formação,
 
 391
 00:25:30,217 --> 00:25:35,158
-to work with the cultural side of companies, the economic side of cultural institutions
+de trabalhar com a parte cultural das empresas, a parte económica da cultura
 
 392
 00:25:35,370 --> 00:25:37,017
-and to be a lot more global.
+quer dizer, de ser muito mais global,
 
 393
 00:25:37,197 --> 00:25:40,344
-It’s a huge opportunity because we find ourselves at certain levels
+e é uma grande oportunidade porque estamos nos níveis
 
 394
 00:25:41,359 --> 00:25:44,360
-of responsibility on projects that are exactly what we were looking for.
+de responsabilidade nos projetos que são exatamente o que queremos.
 
 395
 00:25:44,948 --> 00:25:47,337
-If you look historically at the role of design,
+Se olhares, de um ponto de vista histórico, para o papel do design,
 
 396
 00:25:47,573 --> 00:25:51,633
-design is a service-based discipline
+o design é uma disciplina baseada em serviços
 
 397
 00:25:52,092 --> 00:25:55,512
-and that’s why designers do where the money is coming from,
+e é por isso que os designers vão para de onde vem o dinheiro,
 
 398
 00:25:56,221 --> 00:25:58,598
-if someone hires them to do whatever they’ll do it.
+se alguém os contratar para fazer qualquer coisa, eles fazem.
 
 399
 00:25:59,140 --> 00:26:02,727
-And very often it’s to stimulate business,
+E muito frequentemente o design é para estímular o negócio,
 
 400
 00:26:03,186 --> 00:26:04,888
-it’s to stimulate economy,
+é para estímular a economia,
 
 401
 00:26:05,730 --> 00:26:11,695
-and lot of ideas like designers can potentially have
+e muitas das ideias que os designers podem, de novo, potencialmente ter
 
 402
 00:26:14,823 --> 00:26:18,076
-they can bring social change but in practice
+podem trazer mudança social, mas na prática
 
 403
 00:26:18,702 --> 00:26:21,037
-they’re hired to sell more stuff,
+são contratados para vender mais coisas,
 
 404
 00:26:23,344 --> 00:26:24,624
-to increase consumerism.
+para aumentar o consumismo.
 
 405
 00:26:26,263 --> 00:26:28,670
-Most of designers who work on new products,
+A maior parte dos designers que trabalham em novos produtos
 
 406
 00:26:29,462 --> 00:26:32,757
-they’re not bringing something new but they try to increase sales of something new,
+não trazem nada de novo, mas tentam aumentar as vendas de algo novo,
 
 407
 00:26:32,966 --> 00:26:37,020
-they’re bringing, you know, psychological obsolescence of objects is built into objects.
+trazem, sei lá, a obsolescência psicológica dos objetos é parte dos objetos,
 
 408
 00:26:37,137 --> 00:26:38,873
-The reason why we need
+a razão porque precisamos de
 
 409
 00:26:39,639 --> 00:26:43,852
-new cars, new shoes, new clothes to make you feel like the old one is inadequate
+carros novos, sapatos novos, roupas novas é para sentires que as velhas não são adequadas,
 
 410
 00:26:44,352 --> 00:26:45,478
-which is often not the case,
+o que muitas vezes não é o caso,
 
 411
 00:26:45,854 --> 00:26:49,107
-like you don’t really need to replace everything all the time.
+não precisas de estar sempre a substituir tudo.
 
 412
 00:26:54,863 --> 00:26:58,505
