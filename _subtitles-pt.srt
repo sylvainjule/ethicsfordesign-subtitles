@@ -1643,247 +1643,247 @@ não precisas de estar sempre a substituir tudo.
 
 412
 00:26:54,863 --> 00:26:58,505
-The idea that technology improves our lives,
+A ideia de que a tecnologia melhora as nossas vidas,
 
 413
 00:27:01,286 --> 00:27:03,872
-I’ve mentioned this point a little while ago but, 
+falei disto há pouco, mas
 
 414
 00:27:04,482 --> 00:27:06,207
-design is really at the heart of that.
+o design está mesmo no centro disso.
 
 415
 00:27:06,583 --> 00:27:09,169
-So if I work for a company and I’m developing a new product,
+Se eu trabalhar para uma empresa e estiver a desenvolver um produto novo,
 
 416
 00:27:09,262 --> 00:27:12,047
-that product will be better than the previous version
+esse produto vai ser melhor que a versão anterior
 
 417
 00:27:13,418 --> 00:27:17,052
-and the lifestyle that I will have as a result of owning this product will be
+e o estilo de vida que vou ter como resultado de possuir este produto vai ser
 
 418
 00:27:17,761 --> 00:27:21,181
-a more pleasurable lifestyle than the one I would have if I didn’t own this product.
+um estilo de vida mais agradável que aquele que teria se não tivesse o produto.
 
 419
 00:27:21,775 --> 00:27:25,256
-So it becomes impossible for anybody developing a new product
+Portanto torna-se impossível para alguém que esteja a desenvolver um produto novo
 
 420
 00:27:25,477 --> 00:27:31,300
-to say this product is gonna be great but it could go wrong in these ways.
+dizer que esse produto vai ser fantástico mas que podia dar para o torto destas formas.
 
 421
 00:27:37,656 --> 00:27:40,326
-When I was working at Google in the US
+Quando travalhava para a Google nos EUA
 
 422
 00:27:40,747 --> 00:27:44,376
-I had this realisation that
+tive a perceção de que
 
 423
 00:27:44,992 --> 00:27:48,124
-there is more technology in my life than ever before
+havia mais tecnologia na minha vida do que até então
 
 424
 00:27:49,292 --> 00:27:53,171
-but for some reasons that felt harder to do all the things I wanted to do with myself.
+mas que por alguma razão parecia-me mais difícil fazer tudo aquilo que queria fazer.
 
 425
 00:27:53,512 --> 00:27:57,008
-I felt like there was something fundamentally off in that situation
+Senti que havia algo profundamente errado com a situação
 
 426
 00:27:57,413 --> 00:27:59,824
-because if technology is for anything
+porque se a tecnologia serve para algo
 
 427
 00:28:00,261 --> 00:28:03,725
-it seems like it’s for helping us live better, do the things you want to do better
+parece-me que será para nos ajudar a viver melhor, fazer o que queremos fazer melhor
 
 428
 00:28:04,006 --> 00:28:06,510
-achieve our goals, live by our values.
+atingir os nossos objetivos, viver segundo os nossos valores.
 
 429
 00:28:06,725 --> 00:28:10,139
-I’m thinking of Bruno Latour, who was describing
+Estou a pensar no Bruno Latour, que descrevia
 
 430
 00:28:10,769 --> 00:28:16,611
-several ways in which technical objects prescribe our behaviour.
+várias formas segundo as quais os objetos técnicos determinam os nossos comportamentos:
 
 431
 00:28:17,737 --> 00:28:20,736
-You have the objects that force you, that will force you to act as do the underground turnstiles,
+há objetos que forçam, que vão forçar ações, como os torniquetes no metro,
 
 432
 00:28:21,825 --> 00:28:26,788
-you have the objects that will persuade us to act like speed cameras on roads
+há objetos que nos vão persuadir, como os radares na estrada
 
 433
 00:28:27,372 --> 00:28:32,961
-and the objects that will seduce us or influence our behaviour without any rational reason.
+e os objetos que nos vão seduzir ou influenciar o nosso comportamento sem que nos seja racional.
 
 434
 00:28:33,670 --> 00:28:43,054
-For instance a road that is straight for kilometers on end will incite us to drive faster,
+Por exemplo – tiramos muitos exemplos da estrada – uma estrada que seja reta por vários quilómetros vai-nos incitar a conduzir mais rápido,
 
 435
 00:28:44,271 --> 00:28:47,475
-this is not a rational influence on our behaviour.
+é uma influência no nosso comportamento que não é racional.
 
 436
 00:28:48,143 --> 00:28:49,894
-You can see now I’ve no hands on the wheel,
+Podem ver agora que não tenho as mãos no volante,
 
 437
 00:28:51,354 --> 00:28:54,232
-so it does not require a constant nag or anything like that.
+não requer que lhe esteja sempre a dar toques nem nada que se pareca.
 
 438
 00:28:54,816 --> 00:28:57,028
-Like if you go to a secondary school right now,
+Se fores a uma escola secundária agora,
 
 439
 00:28:58,236 --> 00:29:02,031
-everyone out of lessons is like this,
+toda a gente que não esteja em aulas está assim,
 
 440
 00:29:02,708 --> 00:29:03,825
-and scrolling,
+e a fazer *scroll*,
 
 441
 00:29:04,659 --> 00:29:07,676
-and the endorphins people experience from
+e as endorfinas que as pessoas recebem da
 
 442
 00:29:08,079 --> 00:29:10,582
-the rush of likes they get for a selfie.
+enchente de gostos que recebem numa *selfie*.
 
 443
 00:29:10,583 --> 00:29:16,129
-I mean I’m being really critical and also I’m broadbrush about it
+Quer dizer, estou a criticar mas estou a generalizar.
 
 444
 00:29:16,755 --> 00:29:18,214
-but someone designed that
+Mas alguém projetou isto
 
 445
 00:29:18,715 --> 00:29:20,967
-and someone designed the experience that they’re going through,
+e alguém desenhou a experiência que estás a ter,
 
 446
 00:29:21,301 --> 00:29:23,178
-someone designed the likes.
+alguém desenhou os likes.
 
 447
 00:29:23,845 --> 00:29:29,493
-And they have been in board meetings, and presentations and user research sessions,
+E eles estiveram em reuniões e apresentações e sessões de pesquisa de utilizador,
 
 448
 00:29:29,976 --> 00:29:32,353
-understanding the effect that has on people
+e percebem o efeito que isto tem nas pessoas.
 
 449
 00:29:33,354 --> 00:29:37,192
-but yet that the kind of design work we’re pushing out right now.
+Mas ainda assim é esse o tipo de design que estamos a instigar.
 
 450
 00:29:38,046 --> 00:29:40,965
-In the political situation
+Na situação política...
 
 451
 00:29:41,634 --> 00:29:44,115
-in the political situation we find ourselves in right now,
+na situação política em que estamos,
 
 452
 00:29:44,741 --> 00:29:49,496
-I think it would be wrong for designers to continue,
+acho que seria errado que os designers continuassem
 
 453
 00:29:50,079 --> 00:29:53,666
-designing experiences for digital solipsism,
+a criar experiências de solidão digital,
 
 454
 00:29:53,667 --> 00:29:58,613
-this idea that we are alone in the world with our piece of technology and we have no impact.
+a ideia de que estamos sozinhos no mundo com o nosso aparelho tecnológico e de que não temos impacto nenhum.
 
 455
 00:29:58,963 --> 00:29:59,586
-For instance
+Por exemplo
 
 456
 00:30:01,925 --> 00:30:04,755
-in infinite newsfeed like on twitter or facebook,
+em *newsfeeds* infinitos como o do twitter ou o do facebook,
 
 457
 00:30:06,362 --> 00:30:09,923
-what the psychological mechanism there is the same that is used with slot machines.
+o que... essencialmente, o mecanismo psicológico é o mesmo que se usa em *slot machines*.
 
 458
 00:30:09,924 --> 00:30:11,959
-It’s a kind of randomising of the reward,
+É uma espécie de aleatorização da recompensa,
 
 459
 00:30:14,048 --> 00:30:18,233
-because if you think about an infinite feed it’s just a constant never ending stream of rewards to be had,
+porque se pensares sobre um *feed* infinito é como um fluxo constante de recompensas que nunca acaba,
 
 460
 00:30:19,216 --> 00:30:20,443
-informational rewards
+recompensas de informação,
 
 461
 00:30:22,153 --> 00:30:26,698
-and when you scroll down, pull down the refresh, you’re sort of pulling the lever on a slot machine.
+e quando fazes *scroll* para baixo, quando puxas para atualizar, é como se estivesses a puxar a alavanca da *slot machine*.
 
 462
 00:30:41,714 --> 00:30:45,176
-Basically by sort of privileging our impulses over our intentions,
+Basicamente, por privilegiar os nossos impulsos em vez das nossas intenções,
 
 463
 00:30:46,177 --> 00:30:48,329
-things like infinite feeds,
+coisas como *feeds* infinitos,
 
 464
 00:30:49,507 --> 00:30:53,101
-they select for us a certain set of impulsive reactions
+comtribuem... selecionam um conjunto de reações impulsivas
 
 465
 00:30:53,351 --> 00:30:55,270
-and I think in politics outrage is a huge one.
+e acho que na política a indignação é uma dessas.
 
 466
 00:30:55,895 --> 00:30:59,816
-But of course they are others that are eventually positive like I think the feeling of awe
+Mas claro que eventualmente há outras que são positivas como... a admiração
 
 467
 00:31:00,567 --> 00:31:02,838
-or cuteness, or cute kitty photos,
+ou a ternura, ou fotos de gatinhos fofos.
 
 468
 00:31:06,364 --> 00:31:09,450
-but I think it’s not the question will we be outraged or will we be
+Mas não acho que seja uma questão de “vamos ficar indignados ou vamos
 
 469
 00:31:10,702 --> 00:31:11,911
-having experiences of awe.
+“ficar espantados?”
 
 470
 00:31:12,287 --> 00:31:16,708
-It’s more about like will those be moving us towards what you want to be moved towards.
+é mais algo do como “será que isso nos vai levar àquilo a que queremos chegar?”
 
 471
 00:31:16,958 --> 00:31:23,274
-Will they, as Aldous Huxley put it, helping us be irrational in a reasonable way.
+Será que vão, como Aldous Huxley disse, ajudar-nos a ser irracionais de uma forma razoável?
 
 472
 00:31:23,631 --> 00:31:26,515
-Is the system fundamentally on our side is the question ultimately.
+“Estará o sistema mesmo do nosso lado?” acho que é essa a questão principal.
 
 473
 00:31:41,723 --> 00:31:45,075
