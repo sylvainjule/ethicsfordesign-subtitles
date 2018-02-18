@@ -1887,195 +1887,195 @@ Será que vão, como Aldous Huxley disse, ajudar-nos a ser irracionais de uma fo
 
 473
 00:31:41,723 --> 00:31:45,075
-Actually right now I’m working on projects that are totally
+Na verdade, agora estou a trabalhar em projetos que são completamente
 
 474
 00:31:45,778 --> 00:31:47,790
-against my own ethical,
+contra os meus principios...
 
 475
 00:31:50,199 --> 00:31:51,200
-what I studied before.
+ou o que estudei antes.
 
 476
 00:31:53,453 --> 00:31:59,626
-One of the recent projects I had to work on was a robot delivering pizza,
+Um dos projetos mais recentes em que tive de trabalhar era um robô para entregas de pizza,
 
 477
 00:32:00,137 --> 00:32:02,629
-in Pizza Hut+ in Shanghai.
+para a Pizza Hut+ em Xangai.
 
 478
 00:32:05,973 --> 00:32:09,469
-You develop this robot or you participate in its development,
+E claro, desenvolves este robô, ou participas no seu desenvolvimento,
 
 479
 00:32:09,470 --> 00:32:11,930
-you know it will affect a lot of people,
+e sabes que vai afetar imensas pessoas,
 
 480
 00:32:11,931 --> 00:32:16,684
-a lot of people in China cannot afford to have good studies
+há muita gente na China sem acesso a uma boa educação
 
 481
 00:32:16,935 --> 00:32:19,146
-and they rely on
+e dependem de,
 
 482
 00:32:20,521 --> 00:32:23,316
-to feed their families, on small jobs such as waiter.
+para alimentar as famílias, de pequenos trabalhos, por exemplo em restaurantes.
 
 483
 00:32:23,691 --> 00:32:25,985
-And you know that this robot,
+E sabes que este robô,
 
 484
 00:32:26,687 --> 00:32:31,532
-when it will go on the market it will make people lose a lot of jobs
+quando for lançado no mercado vai fazer com que muita gente perca o trabalho.
 
 485
 00:32:32,784 --> 00:32:35,870
-but then if I don't do it myself I don't get a salary.
+Mas por outro lado, se eu não o fizer não recebo o meu salário.
 
 486
 00:32:40,041 --> 00:32:43,039
-And that’s why it’s an important thing about ethics,
+E é por isso que esta questão da ética é importante,
 
 487
 00:32:43,040 --> 00:32:45,964
-a lot of designers speak about ethics,
+muitas pessoas... muitos designers que falam de ética,
 
 488
 00:32:47,840 --> 00:32:50,984
-sure maybe they have some kind of ethical belief and so on but
+claro, talvez tenham algum tipo de princípio ético e tudo mais, mas
 
 489
 00:32:52,553 --> 00:32:57,642
-how far are you going to sacrifice yourself to really apply your own ethical belief,
+quanto estás disposto a sacrificar-te para realmente aplicar os teus princípios?
 
 490
 00:32:58,351 --> 00:33:01,062
-and that’s I think a big issue in the design field.
+E acho que esse é um grande problema na área do design.
 
 491
 00:33:01,392 --> 00:33:04,917
-Perhaps the canonical example here is the bench
+Talvez o exemplo canónico aqui seja o banco
 
 492
 00:33:06,442 --> 00:33:11,823
-that is supposed to prevent people living on the streets to sleep on.
+que é feito para previnir que pessoas que vivam na rua durmam nele.
 
 493
 00:33:12,891 --> 00:33:17,078
-When I did this project about designers and ethnography
+Quando fiz este projeto sobre designers e etnografia
 
 494
 00:33:18,371 --> 00:33:22,709
-I interviewed a designer working for the public transport company in Paris
+entrevistei um designer que trabalhava na empresa de transportes públicos de Paris
 
 495
 00:33:23,459 --> 00:33:25,586
-and he told that “yeah I had to design that bench,
+e ele disse “sim, tive de desenhar aquele banco,
 
 496
 00:33:26,212 --> 00:33:29,340
-I was asked to design on which people could not sleep
+“pediram-me que criasse um banco em que as pessoas não pudessem dormir
 
 497
 00:33:30,049 --> 00:33:32,468
-so they wouldn't be bums on the bench”
+“para que não houvessem sem-abrigos no banco”
 
 498
 00:33:32,941 --> 00:33:37,223
-ok that’s kind of tricky in terms of your ethics,
+Ok, isso é um bocado complicado do ponto de vista da tua ética,
 
 499
 00:33:37,737 --> 00:33:38,558
-what do you think about that?
+o que achas?
 
 500
 00:33:38,559 --> 00:33:40,682
-“So yeah well I had two options either
+“Claro... Bem, tinha duas opções,
 
 501
 00:33:41,894 --> 00:33:44,272
-I did it or I was just fired”.
+“ou o fazia, ou era despedido”.
 
 502
 00:33:44,814 --> 00:33:48,901
-That’s the kind of boundary of extreme limit
+É esse o tipo de fronteira, de limite extremo
 
 503
 00:33:48,902 --> 00:33:52,037
-in which where do designers sit,
+em que os designers se encontram,
 
 504
 00:33:52,280 --> 00:33:55,742
-can they exert their strategic perspective
+podem exercer a sua perspetiva estratégica
 
 505
 00:33:56,367 --> 00:33:58,797
-or are they just not allowed to do much more than
+ou não lhes é permitido fazer muito mais que
 
 506
 00:33:59,866 --> 00:34:02,206
-saying yes ok I’m gonna do this bench.
+dizer “sim, ok, vou fazer o banco”.
 
 507
 00:34:02,957 --> 00:34:05,880
-It’s a hard choice, again like it’s easier for me now,
+É uma escolha difícil. Mais uma vez, é mais fácil para mim agora,
 
 508
 00:34:07,336 --> 00:34:10,339
-of course in the beginning it’s more difficult because you’re more dependent,
+claro que no início era mais difícil porque estás mais dependente,
 
 509
 00:34:10,340 --> 00:34:13,634
-we have enough work now so I can be more selective.
+agora temos trabalho suficiente, por isso posso ser mais seletivo.
 
 510
 00:34:14,302 --> 00:34:18,505
-In the beginning I was lucky that
+No início tive a sorte de
 
 511
 00:34:19,892 --> 00:34:23,144
-we’re coming from cultural sector where there is less difficult choices,
+tínhamos trabalho a vir do setor cultural, em que as escolhas são menos difíceis,
 
 512
 00:34:24,771 --> 00:34:29,150
-now over time I can make these choices now after 15 or 17 years of working
+e agora posso fazer estas escolhas, após 15 ou 17 anos de trabalho
 
 513
 00:34:29,483 --> 00:34:32,487
-because you built a position to be this place.
+porque construiste a tua posição neste lugar.
 
 514
 00:34:33,196 --> 00:34:36,532
-I think every choice you make kind of come back to you sooner or later,
+Acho que todas as escolhas que fazes voltam a ti de alguma maneira, mais cedo ou mais tarde,
 
 515
 00:34:36,908 --> 00:34:40,119
-if you engage with some kind of strange product
+se te envolveres com algum tipo de produto estranho
 
 516
 00:34:40,870 --> 00:34:44,332
-it will come back to you as well, you’ll get more of it, the simple principle here that,
+também vai voltar a ti, vais ter mais trabalhos do género, o princípio aqui é
 
 517
 00:34:44,749 --> 00:34:46,209
-whatever you do you get more of it.
+o que quer que faças, vais voltar a fazer.
 
 518
 00:34:46,709 --> 00:34:48,294
-So if you start something you don’t agree with it
+Portanto se começares a fazer algo com que não concordas
 
 519
 00:34:48,294 --> 00:34:51,902
-you’ll probably get more of the same questions to do it again and again
+provavelmente vais começar a receber mais pedidos para o fazer uma e outra vez
 
 520
 00:34:51,903 --> 00:34:55,369
-and people become experts in doing this kind of things.
+e as pessoas tornam-se especialistas em fazer este tipo de coisa.
 
 521
 00:34:55,676 --> 00:34:57,136
