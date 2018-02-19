@@ -2079,111 +2079,111 @@ e as pessoas tornam-se especialistas em fazer este tipo de coisa.
 
 521
 00:34:55,676 --> 00:34:57,136
-Then there is also the whole process
+Depois também há um trabalho
 
 522
 00:34:57,720 --> 00:35:00,800
-of taking a step back and of being able to say no
+de dar um passo atrás e de criticar e de saber dizer não 
 
 523
 00:35:01,432 --> 00:35:06,479
-or to reformulate commissions that we judge non ethical
+ou de saber reformular as ordens que são consideradas antiéticas, 
 
 524
 00:35:06,896 --> 00:35:10,108
-or contradictory, or not helpful to citizens.
+ou contraditórias ou que não sirvam os cidadãos.
 
 525
 00:35:11,067 --> 00:35:13,736
-And when that’s the case I’d say each designer will know
+E aqui tenho de dizer que cabe a cada designer saber
 
 526
 00:35:14,237 --> 00:35:18,241
-where they position themselves between their economic survival
+aonde se posiciona entre a sua sobrevivência económica
 
 527
 00:35:19,266 --> 00:35:21,744
-and their desire to… or rather their professional activism,
+e o seu desejo, o seu militantismo profissional
 
 528
 00:35:21,994 --> 00:35:26,207
-and whether they will focus more on the commissioner or on the user.
+que é desenvolver um projeto ao lado do utilizador ou ao lado do empregador.
 
 529
 00:35:41,252 --> 00:35:44,684
-Design so often happens in this vaccuum,
+O design passa-se num vácuo muito frequentemente,
 
 530
 00:35:45,143 --> 00:35:48,146
-where we spend all of our time thinking about form,
+em que passamos o nosso tempo todo a pensar na forma,
 
 531
 00:35:48,563 --> 00:35:52,191
-materiality, of fonction, of how we interact with a thing
+materialidade, função, em como interagimos com a coisa
 
 532
 00:35:52,192 --> 00:35:55,611
-but always almost in this bubble.
+mas quase sempre numa bolha.
 
 533
 00:35:56,529 --> 00:35:59,949
-We think about very really rarely what’s outside of this bubble
+É muito raro pensarmos no que está fora desta bolha,
 
 534
 00:36:00,324 --> 00:36:03,202
-about the real lives, about the real systems in which people live
+sobre as vidas reais, sobre os sistemas reais em que as pessoas vivem
 
 535
 00:36:04,453 --> 00:36:06,956
-and as a consequence this is where problems lie.
+e como consequência, é aqui que aparecem os problemas.
 
 536
 00:36:08,124 --> 00:36:11,919
-Because we have to think about the world in which our products exist
+Porque temos de pensar no mundo em que os nossos produtos existem
 
 537
 00:36:12,253 --> 00:36:15,381
-and there is as much complexity that we can possibly cope with
+e a complexidade é tanta quanto a com que conseguimos lidar
 
 538
 00:36:16,132 --> 00:36:18,094
-because they’re incredibly complicated.
+porque são incrivelmente complicados.
 
 539
 00:36:19,886 --> 00:36:22,471
-And I came across this very recently this exact problem
+E recentemente deparei-me com isto, exatamente com este problema
 
 540
 00:36:23,681 --> 00:36:24,724
-in a conversation with
+numa concersa com
 
 541
 00:36:25,892 --> 00:36:31,022
-probably one of the most talented designers I know, product designer,
+provavelmente um dos designers mais talentosos que conheço, um designer de produto.
 
 542
 00:36:31,814 --> 00:36:34,013
-he’s been practicing for a small company in London
+Ele tinha trabalhado numa empresa pequena em Londres
 
 543
 00:36:35,193 --> 00:36:37,695
-since we graduated from the RCA, we were in the same year.
+desde que acabou o curso na RCA, estávamos no mesmo ano.
 
 544
 00:36:38,321 --> 00:36:44,535
-He’s just taken a job at Amazon as a kind of higher product designer
+Tinha acabado de aceitar um trabalho da Amazon como diretor de design de produto
 
 545
 00:36:45,411 --> 00:36:49,457
-and I was just talking with him about this idea of ethics and responsibility
+e estava a falar com ele sobre estas ideias da ética e da responsabilidade
 
 546
 00:36:49,458 --> 00:36:51,209
-because I’m slightly
+porque estou ligeiramente
 
 547
 00:36:52,835 --> 00:36:56,088
-concerned about some of the things Amazon is currently doing.
+preocupado com algumas das coisas que a Amazon anda a fazer.
 
 548
 00:36:56,195 --> 00:36:57,119
@@ -2191,67 +2191,67 @@ Alexa,
 
 549
 00:36:58,841 --> 00:37:00,218
-would you lie to me?
+mentiras-me?
 
 550
 00:37:01,467 --> 00:37:03,158
-I always try to tell the truth,
+Tento sempre dizer a verdade,
 
 551
 00:37:03,679 --> 00:37:07,516
-I’m not always right but I will never intentionally lie to you or anyone else
+não acerto sempre, mas nunca mentirei intencionalmente. Nem a ti nem a qualquer outra pessoa.
 
 552
 00:37:09,101 --> 00:37:11,536
-For him he was shocked that I could be questioning
+E ele ficou chocado que eu pudesse estar a questionar
 
 553
 00:37:12,188 --> 00:37:13,487
-the value of what he's doing.
+o valor do que estava a fazer.
 
 554
 00:37:13,940 --> 00:37:17,360
-He thinks he’s contributing amazing things to the world
+Acha que está a trazer contribuições fantásticas para o mundo,
 
 555
 00:37:17,361 --> 00:37:19,237
-but he’s thinking on his scale,
+mas está a pensar na bolha dele,
 
 556
 00:37:20,196 --> 00:37:22,698
-he’s thinking about the beautiful products that he makes
+está a pensar nos produtos lindos que faz
 
 557
 00:37:23,074 --> 00:37:25,433
-and this is the danger within design.
+e é este o perigo no design.
 
 558
 00:37:33,628 --> 00:37:35,253
-If you rethink things from the bottom
+Se repensares as coisas a partir da base
 
 559
 00:37:35,628 --> 00:37:38,256
-then you could completely do something different
+consegues fazer algo completamente diferente
 
 560
 00:37:38,756 --> 00:37:40,091
-and the magazine is at the,
+e a revista está na...
 
 561
 00:37:41,175 --> 00:37:43,993
-the financing, the distribution, the production, everything
+as finanças, a distribuição, a produção, é tudo mais ou menos...
 
 562
 00:37:45,513 --> 00:37:47,224
-it felt like ok if we’re doing a new magazine,
+pareceu, “ok, se vais fazer uma revista nova,”
 
 563
 00:37:47,515 --> 00:37:51,560
-we don't have to inherit any existing old platforms or plans,
+“não temos de partir de nenhuma plataforma ou planos antigos”
 
 564
 00:37:51,852 --> 00:37:53,095
-we can just do it from scratch.
+“podemos simplesmente cria-la do zero.”
 
 565
 00:37:54,182 --> 00:37:56,176
