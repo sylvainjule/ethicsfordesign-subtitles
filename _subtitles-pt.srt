@@ -2255,95 +2255,95 @@ pareceu, “ok, se vais fazer uma revista nova,”
 
 565
 00:37:54,182 --> 00:37:56,176
-I find it’s very important
+Acho muito importante
 
 566
 00:37:56,181 --> 00:38:00,736
-to make designers understand the value of the humanities and social sciences
+fazer com que os designers percebam o valor das humanidades e das ciências sociais
 
 567
 00:38:01,570 --> 00:38:04,907
-by showing for instance that if you look at history
+ao mostrar que, por exemplo, se olhares para a história
 
 568
 00:38:05,950 --> 00:38:08,096
-of technologies for instance, of this sort of products
+da técnologia, por exemplo deste tipo de produto
 
 569
 00:38:08,619 --> 00:38:10,955
-it can show you that things have been different in the past.
+pode mostrar-te que as coisas eram diferentes no passado.
 
 570
 00:38:11,247 --> 00:38:14,542
-So by using this understanding what have been different in the past
+Portanto usar esta compreensão do que era diferente no passado
 
 571
 00:38:15,042 --> 00:38:19,964
-it’s a way to make designers aware that things should be different in the future
+é uma maneira de tornar os designers conscientes de que as coisas podem vir a ser diferentes no futuro
 
 572
 00:38:20,172 --> 00:38:23,551
-and that you can maybe adapt more ethical choices.
+e que talvez possas fazer escolhas mais éticas
 
 573
 00:38:23,801 --> 00:38:24,760
-So that’s for history,
+isso é a história.
 
 574
 00:38:25,032 --> 00:38:27,972
-Anthropology, it shows that in different cultures,
+A antropologia mostra que em culturas diferentes,
 
 575
 00:38:28,431 --> 00:38:30,786
-in different places, in different territories in the world,
+em sítios diferentes, em territórios diferentes no mundo,
 
 576
 00:38:31,126 --> 00:38:34,838
-there are different ways to live and by showing that
+há formas diferentes de viver, e ao mostrar isso
 
 577
 00:38:35,646 --> 00:38:40,485
-that’s also a way to question a design brief, question product, question existing services.
+é também uma forma de questionar um *brief* de design, questionar um produto, questionar os serviços que existem.
 
 578
 00:38:40,841 --> 00:38:43,654
-So I take this kind of example of history:
+Eu uso este tipo de exemplo. Da história:
 
 579
 00:38:44,405 --> 00:38:45,937
-how things have been different in the past,
+como as coisas foram diferentes no passado.
 
 580
 00:38:46,365 --> 00:38:48,808
-anthropology: how things are different elsewhere,
+Da antropologia: como as coisas são diferentes noutros sítios,
 
 581
 00:38:49,243 --> 00:38:52,413
-as a way, well, as a sort of metaphor
+como uma forma de... bem, como uma espécie de metáfora
 
 582
 00:38:53,497 --> 00:38:55,583
-to think about how design education should
+para pensar sobre como a educação de design devia
 
 583
 00:38:56,042 --> 00:39:00,880
-open mindset and not necessarily make designers
+formar mentalidades e não necessáriamente criar designers que
 
 584
 00:39:01,127 --> 00:39:04,008
-answer to the client question in a way
+respondem ao cliente de uma forma que
 
 585
 00:39:04,884 --> 00:39:06,483
-it would be a sort of status quo.
+seria uma espécie de status quo.
 
 586
 00:39:07,470 --> 00:39:10,447
-We need to have like an open mind if you want
+Precisamos de manter uma mente curiosa se quisermos
 
 587
 00:39:11,057 --> 00:39:13,917
-to live in a more habitable near-future world.
+viver num futuro próximo mais habitável.
 
 588
 00:39:24,195 --> 00:39:25,904
