@@ -2347,291 +2347,291 @@ viver num futuro próximo mais habitável.
 
 588
 00:39:24,195 --> 00:39:25,904
-We do need I believe
+Acredito que precisamos
 
 589
 00:39:26,614 --> 00:39:30,242
-more organizations to start talking about and opening up
+que mais organizações comecem a falar sobre, e a partilhar
 
 590
 00:39:30,618 --> 00:39:33,454
-some of the patterns that they are exploring and creating,
+alguns dos padrões que estão a explorar e a criar,
 
 591
 00:39:33,746 --> 00:39:38,250
-because we’ve got a window of opportunity right now to come up with some ethical patterns
+porque há uma janela de oportunidade neste momento para arranjar alguns padrões éticos,
 
 592
 00:39:38,542 --> 00:39:41,420
-whether that be about privacy or security or transparency
+quer sejam sobre privacidade ou segurança ou transparência,
 
 593
 00:39:41,921 --> 00:39:44,965
-for people, for generations to come to copy.
+para que as pessoas, as gerações vindouras, copiarem.
 
 594
 00:39:45,883 --> 00:39:49,720
-Like if you think about a payment window for credit card on an online service
+Por exemplo se pensares numa janela de pagamento com cartão de crédito num serviço online, nunca vês versões muito diferentes,
 
 595
 00:39:50,137 --> 00:39:56,811
-and if i ask you right now to design me a credit card service
+e se eu te pedir agora para me desenhares um serviço de cartão de crédito,
 
 596
 00:39:57,103 --> 00:40:00,398
-you’ll picture the one you used last week and kind of copy that.
+vais imaginar o que usaste a semana passada e copia-lo mais ou menos.
 
 597
 00:40:00,981 --> 00:40:03,150
-Designers are really good at copying each other
+Os designers são mesmo bons a copiar-se uns aos outros.
 
 598
 00:40:03,734 --> 00:40:07,530
-but when it comes to ethics I don’t think we’ve got any blueprints to copy.
+Mas quando se trata de ética, não acho que tenhamos nenhuns planos para copiar.
 
 599
 00:40:08,322 --> 00:40:11,951
-So I think we have a window of opportunity, a very exciting opportunity,
+Portanto acho que há uma janela de oportunidade, uma oportunidade muito entusiasmante,
 
 600
 00:40:12,326 --> 00:40:15,496
-to make some of these patterns and guidelines for people to follow
+que é fazer alguns destes padrões e guias para as pessoas seguirem,
 
 601
 00:40:15,996 --> 00:40:19,041
-so I think that’s a really big challenge because without these patterns,
+e isso é um desafio bastante grande. Porque sem estes padrões,
 
 602
 00:40:19,375 --> 00:40:22,086
-it’s more expensive, it’s more time-consuming
+é mais caro, é mais demorado
 
 603
 00:40:23,337 --> 00:40:25,172
-to bring ethics into your work
+incluir a ética no teu trabalho
 
 604
 00:40:25,423 --> 00:40:26,924
-and that doesn't mean you shouldn't do it
+e isso não significa que não o devas fazer
 
 605
 00:40:27,258 --> 00:40:29,176
-but it’s just that the barriers are there
+é só que as barreiras existem
 
 606
 00:40:29,718 --> 00:40:31,637
-and there’s more obstacles to get past.
+e há mais obstáculos a ultrapassar.
 
 607
 00:40:33,200 --> 00:40:36,725
-And I think that the more difficult the context
+E acho que quanto mais difícil é o universo,
 
 608
 00:40:37,351 --> 00:40:41,023
-the more resistant to a critical approach to design
+quanto mais o universo parece reticente a uma prática crítica do design,
 
 609
 00:40:41,355 --> 00:40:42,648
-the more interesting it is.
+mais interessante é.
 
 610
 00:40:43,399 --> 00:40:46,694
-Because if you manage to influence a large company
+Porque se chegas, isto é o que contamos várias vezes, se chegas a uma empresa grande,
 
 611
 00:40:46,902 --> 00:40:49,655
-which is very difficult to negotiate,
+que, de qualquer forma, parece muito difícil de operar,
 
 612
 00:40:50,114 --> 00:40:55,077
-if you manage to influence them 1% or 2% in the first year,
+se a conseguires influenciar 1% ou 2% no primeiro ano,
 
 613
 00:40:55,744 --> 00:40:57,496
-in five years time you’ve done that much,
+em 5 anos se ainda estiveres lá já fizeste muito,
 
 614
 00:40:58,164 --> 00:41:02,001
-that’s huge, and you feel that with a little bit of influence
+é imenso, e ficas com o sentimento de que com um pouco de influência
 
 615
 00:41:02,001 --> 00:41:05,212
-you can do a lot to a big outfit so find this interesting.
+consegues fazer muito num barco enorme, o que eu acho interessante.
 
 616
 00:41:06,213 --> 00:41:09,008
-So what happens if design starts to happen locally
+Então, o que acontece se o design começar a passar-se localmente
 
 617
 00:41:09,009 --> 00:41:12,094
-the way we’re talking about consuming energy locally.
+a forma como estamos a falar de consumir energia localmente.
 
 618
 00:41:13,012 --> 00:41:16,281
-So this is the principle in the gravity battery, the energy being something local,
+É esse o princípio da bateria gravítica, a energia ser algo local,
 
 619
 00:41:16,724 --> 00:41:19,727
-being through the wall, so you can see the energy that you’re consuming
+estar mesmo alí, para que consigas ver a energia que estás a consumir,
 
 620
 00:41:20,227 --> 00:41:23,314
-but also to design a product that can be done locally.
+mas também o desenho de um produto que possa ser feito localmente.
 
 621
 00:41:23,689 --> 00:41:25,930
-So local manufacturers, local skills,
+Fabricantes locais, habilidades locais,
 
 622
 00:41:26,734 --> 00:41:28,861
-using local crafts people perhaps,
+usar artesãos locais, talvez,
 
 623
 00:41:30,779 --> 00:41:33,365
-it’s very much the whole idea of open source hardware
+é a ideia de equipamento *open sourse*
 
 624
 00:41:34,116 --> 00:41:35,074
-of sharing knowledge,
+de partilhar conhecimento,
 
 625
 00:41:35,075 --> 00:41:38,621
-a lot of the maker labs or maker spaces are talking about this stuff.
+muitos dos *maker labs* ou *maker spaces* estão a falar destas coisas.
 
 626
 00:41:39,121 --> 00:41:41,499
-you know I think there’s a number of things designers can do,
+Eu acho que há um número de coisas que os designers podem fazer,
 
 627
 00:41:42,666 --> 00:41:45,085
-one of the first thing is kind of just awareness
+uma das primeiras é criar a consciência
 
 628
 00:41:45,169 --> 00:41:46,879
-that there is a problem.
+de que há um problema.
 
 629
 00:41:47,755 --> 00:41:50,925
-There’s is a lot of optimism in the tech industry,
+Há muito otimismo na indústria da tecnologia,
 
 630
 00:41:50,926 --> 00:41:52,398
-a lot of it is well justified,
+muito justifica-se,
 
 631
 00:41:53,010 --> 00:41:54,220
-but a lot of it is I think
+mas muito, acho eu,
 
 632
 00:41:56,055 --> 00:41:58,307
-not as sensitive to
+não é sensível ao que
 
 633
 00:41:59,037 --> 00:42:02,019
-what in economic terms you can called externalities of the design.
+em termos económicos se podem chamar externalidades do design.
 
 634
 00:42:02,645 --> 00:42:05,481
-So things like distraction would be one of these things
+Coisas como a distração podem ser um exemplo,
 
 635
 00:42:06,941 --> 00:42:08,234
-whether that’s a minor annoyance or
+quer seja um pequeno incómodo ou
 
 636
 00:42:09,485 --> 00:42:12,571
-a habit that you develop over time that keeps you from being able to reach your goals.
+um vício que desenvolves com o tempo e que te impede de atingires os teus objetivos.
 
 637
 00:42:13,447 --> 00:42:16,951
-The reason designers don't really see this it’s we don't measure them,
+Os designers não vêem estas coisas porque não têm como as medir.
 
 638
 00:42:17,409 --> 00:42:20,454
-it’s kind of like pollution was in the environmental mouvement.
+É quase o que aconteceu com a poluição no ambientalismo.
 
 639
 00:42:21,121 --> 00:42:22,706
-We knew that stuff was getting dumped into rivers,
+Sabíamos que estávamos a despejar coisas nos rios,
 
 640
 00:42:22,915 --> 00:42:25,918
-we knew there was some kind of harm to the environment
+sabíamos que havia algum perigo para o ambiente
 
 641
 00:42:27,253 --> 00:42:29,046
-but it wasn't until we started measuring it and quantifying it
+mas só quando começamos a medi-lo e quantifica-lo
 
 642
 00:42:29,588 --> 00:42:31,048
-then we could actually talk about it and hold
+é que conseguimos começar a falar e a responsabilizar
 
 643
 00:42:32,341 --> 00:42:33,553
-the people doing the polluting to account.
+as pessoas qeu estavam a criar a poluição.
 
 644
 00:42:34,301 --> 00:42:35,553
-And I think it’s a similar situation here
+E acho que a situação agora é semelhante,
 
 645
 00:42:35,761 --> 00:42:40,599
-where we kind have a vague notion that there is something wrong
+temos uma noção vaga de que há algo de errado,
 
 646
 00:42:40,933 --> 00:42:43,185
-in a deep way with distraction
+profundamente, com a distração
 
 647
 00:42:43,644 --> 00:42:45,354
-and the way in which we get habituated into
+e a forma com que nos habituamos a
 
 647
 00:42:47,315 --> 00:42:49,487
-being how we don't want to be.
+estar como não queremos estar.
 
 648
 00:42:50,317 --> 00:42:52,903
-But I think we’re still at the very beginning
+Mas acho que ainda estamos no início
 
 649
 00:42:53,571 --> 00:42:55,030
-of figuring out how to talk about that and measure it,
+da descoberta de como falar e medir isto,
 
 650
 00:42:55,197 --> 00:42:56,282
-but I think once we do
+mas acho que quando conseguirmos,
 
 651
 00:42:57,199 --> 00:42:59,827
-I think the goal ought to be doing for
+acho que o objetivo devia ser fazer
 
 652
 00:43:00,661 --> 00:43:03,414
-our mental environment what we did for the physical environment
+com o nosso ambiente mental o que fizemos com o nosso ambiente físico
 
 653
 00:43:03,539 --> 00:43:04,748
-with the environmental movement.
+com o ambientalismo.
 
 654
 00:43:06,000 --> 00:43:07,960
-So I think that involves then
+E acho que isso envolve
 
 655
 00:43:08,586 --> 00:43:11,422
-new responsibilities on the part of companies and designers
+novas responsabilidades da parte das empresas e dos designers
 
 656
 00:43:12,256 --> 00:43:16,239
-to not just measure the value that they’re getting
+de não apenas medir o valor do que estão a obter,
 
 657
 00:43:17,136 --> 00:43:19,096
-but the value they’re giving to people but then also
+mas o valor que estão a dar s pessoas e também
 
 658
 00:43:19,972 --> 00:43:23,267
-the potential harms or negative effect that the design is causing.
+os potenciais danos ou efeitos negaticos que o design está a causar.
 
 659
 00:43:24,602 --> 00:43:25,477
