@@ -2635,151 +2635,151 @@ os potenciais danos ou efeitos negaticos que o design está a causar.
 
 659
 00:43:24,602 --> 00:43:25,477
-At first sight
+À primeira vista,
 
 660
 00:43:25,728 --> 00:43:29,023
-there doesn't seem to be much relationship between farming and industry,
+não parece haver relação entre a agricultura e a indústria,
 
 661
 00:43:29,523 --> 00:43:30,941
-but industry produces pollution,
+mas a indústria polui,
 
 662
 00:43:31,275 --> 00:43:32,518
-and pollution affects crops,
+e a poluição afeta o cultivo,
 
 663
 00:43:33,444 --> 00:43:36,655
-so a change in industry affects farming by pollution.
+portanto uma mudança na indústria afeta a agricultura pela poluição.
 
 664
 00:43:37,364 --> 00:43:41,452
-The man-made world consists of a whole complex of subtle relationships like that
+O mundo dos homens consiste de um enorme complexo de relações súbteis como essa.
 
 665
 00:43:42,202 --> 00:43:43,203
-change one thing
+Muda-se uma coisa
 
 666
 00:43:43,495 --> 00:43:45,998
-and it sets up a slow and complicated chain reaction.
+e inicía-se uma reação de cadeia lenta e complicada.
 
 667
 00:43:47,166 --> 00:43:50,210
-Understanding is really, is in a way the key,
+Perceber é mesmo, de certa forma, a chave,
 
 668
 00:43:50,919 --> 00:43:52,348
-like if you understand things,
+se perceberes coisas,
 
 669
 00:43:53,005 --> 00:43:54,465
-you respect things,
+respeita-las,
 
 670
 00:43:54,965 --> 00:43:56,383
-and if you respect things then,
+e se as respeitas,
 
 671
 00:44:00,804 --> 00:44:02,039
-you take care about things
+tomas conta delas
 
 672
 00:44:03,807 --> 00:44:07,019
-and then everything's not fine
+e assim não fica tudo perfeito
 
 673
 00:44:07,686 --> 00:44:08,472
-but better.
+mas fica melhor.
 
 674
 00:44:09,146 --> 00:44:11,148
-Virtuous ethics revolve around the qualities
+A ética da virtude tem a ver com as qualidades
 
 675
 00:44:12,024 --> 00:44:14,068
-that a good designer
+que um ou uma boa designer
 
 676
 00:44:14,735 --> 00:44:16,820
-should integrate
+deve integrar,
 
 677
 00:44:18,864 --> 00:44:20,366
-should control or 
+deve dominar 
 
 678
 00:44:22,451 --> 00:44:23,410
-should apply
+ou praticar
 
 679
 00:44:24,244 --> 00:44:25,663
-in order to do a good job,
+para fazer um bom trabalho.
 
 680
 00:44:26,206 --> 00:44:31,126
-except of course the virtue of professional competence and mastering design practice,
+Com a exceção, claro, da virtude das competências profissionais, da mestria das ferramentas da profissão
 
 681
 00:44:32,044 --> 00:44:33,045
-these are important
+que são importantes
 
 682
 00:44:33,629 --> 00:44:35,214
-but not sufficient.
+mas que não são suficientes.
 
 683
 00:44:36,340 --> 00:44:39,385
-I have difficulty framing recommendations for others,
+Tenho dificuldade em fazer recomendações aos outros,
 
 684
 00:44:39,843 --> 00:44:41,804
-again it’s the same with any piece of advice,
+de novo, é o mesmo com qualquer tipo de conselho,
 
 685
 00:44:42,346 --> 00:44:45,683
-I think the best piece of advice is like to be sceptical of other people’s advice
+acho que o melhor conselho é ser-se cético em relação aos conselhos dos outros,
 
 686
 00:44:46,308 --> 00:44:50,229
-because I think nowadays there’s too much information available everywhere
+porque hoje acho que há demasiada informação disponível em todo o lado
 
 687
 00:44:50,688 --> 00:44:52,606
-and everyone is providing clear-cut answers
+e toda a gente dá respostas claras
 
 688
 00:44:53,023 --> 00:44:55,943
-like how to do things, there’s books on how to do that how to do this.
+de como fazer as coisas, há livros sobre como fazer isto, como fazer aquilo.
 
 689
 00:44:56,610 --> 00:44:59,697
-You can see ten tips to improve whatever,
+Consegues ver 10 dicas para melhorar o que quer que seja,
 
 690
 00:45:00,531 --> 00:45:03,450
-from your sex life to your design skills to whatever,
+desde a tua vida sexual até às tuas habilidades de design, até sei lá o quê,
 
 691
 00:45:04,076 --> 00:45:07,287
-I think people should stop paying attention to these things
+acho que as pessoas deviam parar de prestar atenção a estas coisas
 
 692
 00:45:07,579 --> 00:45:09,415
-and start paying attention to themselves.
+e começar a prestar atenção a elas mesmas.
 
 693
 00:45:10,416 --> 00:45:12,292
-So I think developing sceptical attitude
+Portanto acho que desenvolver uma atitude cética
 
 694
 00:45:12,418 --> 00:45:15,254
-towards other people’s advice because it’s not relevant
+em relação aos conselhos das outras pessoas, porque não so relevantes,
 
 695
 00:45:15,379 --> 00:45:16,171
-is a key.
+é a chave.
 
 696
 00:45:16,559 --> 00:45:18,382
