@@ -2859,284 +2859,284 @@ em que parcela de território.
 
 715
 00:46:25,324 --> 00:46:27,366
-I would say inquisitiveness, first,
+Diría a curiosidade, para começar.
 
 716
 00:46:27,367 --> 00:46:30,913
-remembering that we are
+Quer dizer, lembrar-mo-nos que estamos
 
 717
 00:46:31,455 --> 00:46:33,165
-an experimental subject
+numa disciplina verdadeiramente experimental
 
 718
 00:46:34,291 --> 00:46:38,086
-which might have disappeared in a few decades
+que pode já nem existir daqui a aulgumas décadas
 
 719
 00:46:38,879 --> 00:46:40,923
-and therefore you must really enjoy yourself,
+e portanto é importante que nos divertamos,
 
 720
 00:46:41,256 --> 00:46:43,258
-test ideas and be bold enough
+que testemos coisas
 
 721
 00:46:43,842 --> 00:46:47,930
-to mix methodologies and approaches.
+que tenhamos a audácia de misturar métodos, de testar abordagens.
 
 722
 00:46:48,430 --> 00:46:52,267
-That’s it, professional inquisitiveness
+E pronto, é isso a curiosidade profissional
 
 723
 00:46:52,810 --> 00:46:55,938
-and the ability to work with non-designers,
+e a capacidade de trabalhar com não-designers,
 
 724
 00:46:56,772 --> 00:46:59,358
-it’s a very important
+é uma virtude verdadeiramente
 
 725
 00:46:59,595 --> 00:47:00,564
-virtue.
+importante.
 
 726
 00:47:01,026 --> 00:47:02,569
-I think honesty,
+A honestidade, acho eu, ser...
 
 727
 00:47:04,071 --> 00:47:05,038
-now I feel I’m not.
+Agora sinto que não sou.
 
 728
 00:47:05,489 --> 00:47:08,742
-For example I’m working on projects that are against my own ethics,
+Por exemplo, estou a trabalhar em projetos que vão contra a minha ética,
 
 729
 00:47:09,076 --> 00:47:13,080
-so I don't want to go to designer conferences to speak about my research
+portanto não quero ir a conferências de design e falar da minha pesquisa.
 
 730
 00:47:14,289 --> 00:47:15,165
-because I don't feel it
+Porque não sinto que tivesse sido
 
 731
 00:47:16,041 --> 00:47:18,752
-it was right to speak about it at the time I was doing it
+acertado falar dela na altura em que a estava a fazer,
 
 732
 00:47:18,919 --> 00:47:20,629
-but now I don't feel it’s right to speak about it
+mas agora não sinto que seja acertado falar dela
 
 733
 00:47:20,630 --> 00:47:24,258
-when I’m actually doing the opposite of
+quando na verdade estou a fazer o oposto
 
 734
 00:47:24,716 --> 00:47:26,110
-what I believe.
+daquilo em que acredito.
 
 735
 00:47:26,635 --> 00:47:29,680
-On the blog we’ve got
+No *blog* temos... tínhamos...
 
 736
 00:47:30,889 --> 00:47:35,185
-it’s almost a manifesto but Philippe Starck features in one of our challenges,
+é quase um manifesto mas o Philippe Starck aparece num dos nossos desafios,
 
 737
 00:47:36,353 --> 00:47:38,730
-it’s to get rid of vacuous design bullshit.
+que é livrarmo-nos de tretas vagas de design.
 
 738
 00:47:39,648 --> 00:47:43,485
-So Philippe Starck talks about the juicy salif lemon squeezer as,
+O Philippe Starck fala do seu espremedor de limão *Juicy Salif* como...
 
 739
 00:47:45,195 --> 00:47:47,618
-this juicy salif lemon squeezer is meant to,
+diz que o espremedor de limão *Juicy Salif* não foi feito para,
 
 740
 00:47:48,365 --> 00:47:51,076
-it’s not to squeeze lemon, it’s to start conversations.
+não foi feito para espremer limão mas sim para iniciar conversas.
 
 741
 00:47:52,619 --> 00:47:53,287
-This is the line.
+É esta a frase.
 
 742
 00:47:54,329 --> 00:47:58,333
-It’s a lemon squeezer I don't know what kind of conversations he’s expecting or hoping
+É um espremedor de limão, não sei que tipo de conversa é que ele espera
 
 743
 00:47:59,209 --> 00:48:02,110
-to start with that particular object.
+iniciar com aquele objeto em particular.
 
 744
 00:48:03,171 --> 00:48:05,549
-So I don't know if this is the most important virtue
+Não sei se esta é a virtude mais importante, mas
 
 745
 00:48:05,924 --> 00:48:08,176
-but it’s one that is really important to me right now.
+é uma que é muito importante para mim neste momento.
 
 746
 00:48:08,886 --> 00:48:12,097
-I think designers who are interested in ethics
+É... acho que os designers que estão interessados em ética
 
 747
 00:48:12,514 --> 00:48:13,640
-and who are
+e que querem
 
 748
 00:48:14,391 --> 00:48:16,518
-wanting to better their practice,
+melhorar o seu trabalho,
 
 749
 00:48:16,810 --> 00:48:21,815
-the virtue you should have or you could learn is to be open.
+a virtude que deviam ter ou podiam aprender é estar abertos.
 
 750
 00:48:22,900 --> 00:48:27,279
-I think we have so much to thank open source communities
+Acho que temos tanto a aprender com as comunidades *open-source*
 
 751
 00:48:27,863 --> 00:48:31,700
-that have built so many of the infrastructures we rely on
+que construiram tantas das infraestruturas em que nos apoiamos.
 
 752
 00:48:32,326 --> 00:48:33,201
-but also,
+Mas também,
 
 753
 00:48:34,161 --> 00:48:36,038
-really right now,
+mesmo agora,
 
 754
 00:48:36,330 --> 00:48:38,415
-to bring ethics into digital products
+é trazer a ética para os produtos digitais
 
 755
 00:48:38,790 --> 00:48:41,585
-which is my world of ethics, it’s really digital,
+que é o meu mundo de ética, é mesmo digital.
 
 756
 00:48:42,669 --> 00:48:44,546
-there is so much work to be done
+Há tanto trabalho a ser feito,
 
 757
 00:48:45,464 --> 00:48:46,256
-if we
+que se nós
 
 758
 00:48:47,215 --> 00:48:49,801
-do brilliant work and make it closed,
+fizermos trabalho genial e o mantivermos fechado,
 
 759
 00:48:51,511 --> 00:48:52,433
-it will have
+vai ter 
 
 760
 00:48:53,430 --> 00:48:57,768
-a limited effect on any design we see around us.
+um impacto limitado no design que vemos à nossa volta.
 
 761
 00:49:01,396 --> 00:49:03,357
-I mean I suppose one of the most important virtues for a designer
+Quer dizer, suponho que uma das virtudes mais importantes para um designer
 
 762
 00:49:03,358 --> 00:49:05,025
-to cultivate will be care,
+cultivar, é o cuidado,
 
 763
 00:49:05,026 --> 00:49:05,979
-care for the user.
+cuidado pelo utilizador.
 
 764
 00:49:06,360 --> 00:49:10,113
-Because you know you can be the best designer in the world technically
+Porque podes ser a melhor designer do mundo tecnicamente,
 
 765
 00:49:10,447 --> 00:49:15,076
-but if you don't care about the person you’re designing it for,
+mas se não quiseres saber da pessoa para quem estás a desenhar,
 
 766
 00:49:15,077 --> 00:49:16,477
-their life and their success,
+a sua vida e o seu sucesso,
 
 767
 00:49:18,830 --> 00:49:21,291
-your really effective design
+e teu design realmente efetivo,
 
 768
 00:49:21,458 --> 00:49:24,169
-might be effective in the wrong direction, it could make their life worse.
+pode vir a ser efetivo na direção errada, pode tornar a vida deles pior.
 
 769
 00:49:25,212 --> 00:49:26,546
-I think of ethics,
+Eu vejo a ética como...
 
 770
 00:49:28,048 --> 00:49:31,051
-a lot of people thinks of ethics as a brake pedal on innovation,
+há muita gente vê na ética um travão à inovação,
 
 771
 00:49:31,385 --> 00:49:34,564
-they say it’s just another box to tick on a document,
+dizem que é só mais um ponto a marcar num documento,
 
 772
 00:49:34,565 --> 00:49:35,514
-it’s an other committee,
+é mais uma comissão,
 
 773
 00:49:36,181 --> 00:49:39,101
-but I think of it less as a brake pedal and more as a steering wheel
+mas eu não a vejo tanto como um travão mas sim como um volante
 
 774
 00:49:41,520 --> 00:49:43,605
-and if not an accelerator even sometimes.
+se não for mesmo um acelerador, por vezes.
 
 775
 00:49:44,564 --> 00:49:47,359
-You know it’s like a tree I just try to grow
+Estás a ver, é como uma árvore... tento crescer
 
 776
 00:49:48,318 --> 00:49:50,320
-and as more as I grow,
+e quanto mais cresco,
 
 777
 00:49:50,779 --> 00:49:53,198
-the more space I take but not for nothing,
+mais espaço ocupo, mas não é desperdiçado,
 
 778
 00:49:54,533 --> 00:49:57,536
-I take more space also to cover other things.
+ocupo mais espaço para cobrir outras coisas.
 
 779
 00:49:59,121 --> 00:50:00,497
-It’s pretty much like
+É como na 
 
 780
 00:50:01,456 --> 00:50:02,582
-in nature in the end
+natureza, no final de contas.
 
 781
 00:50:09,943 --> 00:50:14,943
-technical direction and development<br/>Sylvain Julé<br/>art direction and graphic design<br/>Clément Le Tulle-Neyret
+realização e desenvolvimento<br/>Sylvain Julé<br/>direção artística e design gráfico<br/>Clément Le Tulle-Neyret
 
 782
 00:50:14,944 --> 00:50:19,944
-direction, production and animation<br/>Gauthier Roussilhe<br/>translation<br/>Elise Leclerc
+realização, produção e animação<br/>Gauthier Roussilhe<br/>tradução<br/>Elise Leclerc<br/>tradução portuguesa<br/>João Coutinho
 
 783
 00:50:19,945 --> 00:50:24,944
-audio post-production and mix<br/>Miroslav Pilon<br/>voiceover<br/>Victoria Stephens<br/>music curation<br/>Sébastien Robert
+pós produção e mistra em áudio<br/>Miroslav Pilon<br/>voz<br/>Victoria Stephens<br/>curadoria musical<br/>Sébastien Robert
 
 784
 00:50:24,945 --> 00:50:29,944
-music<br/>S.A.M. - *Baby I'm Sorry, Alone In A Crowd, Two Hearts In Doubt* - DJ Sports - *Phases Of Winds, The Secret Jog Life* - Trux - *Aziol*
+música<br/>S.A.M. - *Baby I'm Sorry, Alone In A Crowd, Two Hearts In Doubt* - DJ Sports - *Phases Of Winds, The Secret Jog Life* - Trux - *Aziol*
 
 785
 00:50:29,945 --> 00:50:32,944
-Thank you for your time.
+Obrigado pelo seu tempo.
