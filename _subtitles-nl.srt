@@ -472,11 +472,11 @@ dan krijgt het drie dimensies, het wordt steviger.
 
 120
 00:08:27,194 --> 00:08:28,549
-*Works that Work* is een magazine,
+*Works that Work* is een tijdschrift,
 
 121
 00:08:29,842 --> 00:08:33,935
-mijn achtergrond is in design en het viel me op dat ik niet veel design magazines lees,
+mijn achtergrond is in design en het viel me op dat ik niet veel design tijdschriften lees,
 
 122
 00:08:34,722 --> 00:08:35,515
@@ -496,7 +496,7 @@ en ze sluiten een groter publiek buiten.
 
 126
 00:08:46,943 --> 00:08:51,531
-Je kan echt zien dat het meest gespecialiseerde magazine elitair wordt
+Je kan echt zien dat het meest gespecialiseerde tijdschrift elitair wordt
 
 127
 00:08:51,532 --> 00:08:54,075
@@ -536,7 +536,7 @@ ideeën dan over uiterlijke vormen.
 
 136
 00:09:31,394 --> 00:09:36,303
-Ik moet zeggen dat het magazine in zijn opzet geslaagd is want mijn broer leest het en hij vindt het relevant,
+Ik moet zeggen dat het tijdschrift in zijn opzet geslaagd is want mijn broer leest het en hij vindt het relevant,
 
 137
 00:09:36,304 --> 00:09:37,156
@@ -588,7 +588,7 @@ en alles wat ertussen zat weg te knippen
 
 149
 00:10:18,416 --> 00:10:22,027
-en daarnaast is het magazine echt gefinancierd door de lezers en niet door iemand anders
+en daarnaast is het tijdschrift echt gefinancierd door de lezers en niet door iemand anders
 
 150
 00:10:22,028 --> 00:10:24,219
@@ -620,7 +620,7 @@ en ze partners maken in deze onderneming, we noemen dit sociale distributie.
 
 157
 00:10:51,432 --> 00:10:56,137
-Dus we hebben zogenaamde lezersclubs waar mensen gewoon stapels van het magazine kopen,
+Dus we hebben zogenaamde lezersclubs waar mensen gewoon stapels van het tijdschrift kopen,
 
 158
 00:10:56,294 --> 00:10:57,055
@@ -628,7 +628,7 @@ voor hun vrienden,
 
 159
 00:10:57,375 --> 00:11:03,057
-en in ruil kunnen we ze het magazine aanbieden voor de prijs die normaal gezien voor distributeurs is,
+en in ruil kunnen we ze het tijdschrift aanbieden voor de prijs die normaal gezien voor distributeurs is,
 
 160
 00:11:03,092 --> 00:11:04,178
@@ -1708,479 +1708,479 @@ onze doelen te verwezenlijken, naar onze waarden te leven.
 
 429
 00:28:06,725 --> 00:28:10,139
-I’m thinking of Bruno Latour, who was describing
+Ik denk aan Bruno Latour, die verschillende manieren beschreef
 
 430
 00:28:10,769 --> 00:28:16,611
-several ways in which technical objects prescribe our behaviour.
+waarop technische voorwerpen ons gedrag dicteren.
 
 431
 00:28:17,737 --> 00:28:20,736
-You have the objects that force you, that will force you to act as do the underground turnstiles,
+Je hebt voorwerpen die je dwingen om te handelen, zoals de toegangspoortjes bij de metro,
 
 432
 00:28:21,825 --> 00:28:26,788
-you have the objects that will persuade us to act like speed cameras on roads
+je hebt voorwerpen die ons overtuigen om te handelen, zoals snelheidscamera's langs wegen
 
 433
 00:28:27,372 --> 00:28:32,961
-and the objects that will seduce us or influence our behaviour without any rational reason.
+en de voorwerpen die ons verleiden of ons gedrag beïnvloeden zonder rationele reden.
 
 434
 00:28:33,670 --> 00:28:43,054
-For instance a road that is straight for kilometers on end will incite us to drive faster,
+Een weg bijvoorbeeld, een kilometerslange rechte weg, zal ons aansporen om sneller te rijden,
 
 435
 00:28:44,271 --> 00:28:47,475
-this is not a rational influence on our behaviour.
+het is een invloed op ons gedrag die niet rationeel is.
 
 436
 00:28:48,143 --> 00:28:49,894
-You can see now I’ve no hands on the wheel,
+Je ziet nu dat ik geen handen aan het stuur heb,
 
 437
 00:28:51,354 --> 00:28:54,232
-so it does not require a constant nag or anything like that.
+dus het vraagt niet om mijn constante aandacht of iets dergelijks.
 
 438
 00:28:54,816 --> 00:28:57,028
-Like if you go to a secondary school right now,
+Als je op dit moment naar een middelbare school gaat,
 
 439
 00:28:58,236 --> 00:29:02,031
-everyone out of lessons is like this,
+zit iedereen die geen les heeft zoals dit,
 
 440
 00:29:02,708 --> 00:29:03,825
-and scrolling,
+en aan het scrollen,
 
 441
 00:29:04,659 --> 00:29:07,676
-and the endorphins people experience from
+en de endorfine die je aanmaakt door,
 
 442
 00:29:08,079 --> 00:29:10,582
-the rush of likes they get for a selfie.
+de roes van de likes die je krijgt voor een selfie.
 
 443
 00:29:10,583 --> 00:29:16,129
-I mean I’m being really critical and also I’m broadbrush about it
+Ik bedoel ik ben even heel kritisch, en ik ga ook heel kort door de bocht,
 
 444
 00:29:16,755 --> 00:29:18,214
-but someone designed that
+maar iemand heeft dat ontworpen,
 
 445
 00:29:18,715 --> 00:29:20,967
-and someone designed the experience that they’re going through,
+en iemand heeft de ervaring die je doormaakt ontworpen,
 
 446
 00:29:21,301 --> 00:29:23,178
-someone designed the likes.
+iemand heeft de likes ontworpen.
 
 447
 00:29:23,845 --> 00:29:29,493
-And they have been in board meetings, and presentations and user research sessions,
+En ze hebben in vergaderingen, presentaties en gebruikersonderzoeksessies gezeten,
 
 448
 00:29:29,976 --> 00:29:32,353
-understanding the effect that has on people
+wetende van het effect dat dat op mensen heeft,
 
 449
 00:29:33,354 --> 00:29:37,192
-but yet that the kind of design work we’re pushing out right now.
+en toch is dat het soort design dat we nu opleveren.
 
 450
 00:29:38,046 --> 00:29:40,965
-In the political situation
+In de politieke…
 
 451
 00:29:41,634 --> 00:29:44,115
-in the political situation we find ourselves in right now,
+in de politieke situatie waarin we ons nu bevinden,
 
 452
 00:29:44,741 --> 00:29:49,496
-I think it would be wrong for designers to continue,
+denk ik dat het verkeerd zou zijn voor ontwerpers om door te gaan
 
 453
 00:29:50,079 --> 00:29:53,666
-designing experiences for digital solipsism,
+met het ontwerpen van ervaringen voor digitaal solipsisme,
 
 454
 00:29:53,667 --> 00:29:58,613
-this idea that we are alone in the world with our piece of technology and we have no impact.
+het idee dat we alleen in de wereld zijn met ons stukje technologie en dat we geen impact hebben.
 
 455
 00:29:58,963 --> 00:29:59,586
-For instance
+Bijvoorbeeld,
 
 456
 00:30:01,925 --> 00:30:04,755
-in infinite newsfeed like on twitter or facebook,
+in een oneindige nieuwsstroom zoals op Twitter of Facebook,
 
 457
 00:30:06,362 --> 00:30:09,923
-what the psychological mechanism there is the same that is used with slot machines.
+is het psychologische mechanisme hetzelfde als dat van een gokkast.
 
 458
 00:30:09,924 --> 00:30:11,959
-It’s a kind of randomising of the reward,
+Het maakt de beloning een soort van willekeurig,
 
 459
 00:30:14,048 --> 00:30:18,233
-because if you think about an infinite feed it’s just a constant never ending stream of rewards to be had,
+wat als je nadenkt over een oneindige nieuwsstroom, dan is het gewoon een constante, nooit eindigende stroom van beloningen,
 
 460
 00:30:19,216 --> 00:30:20,443
-informational rewards
+informatieve beloningen,
 
 461
 00:30:22,153 --> 00:30:26,698
-and when you scroll down, pull down the refresh, you’re sort of pulling the lever on a slot machine.
+en als je naar beneden scrolt, naar beneden trekt om te verversen, dan trek je min of meer aan de hendel van de gokkast.
 
 462
 00:30:41,714 --> 00:30:45,176
-Basically by sort of privileging our impulses over our intentions,
+Eigenlijk door het bevoorrechten van onze impulsen boven onze bedoelingen,
 
 463
 00:30:46,177 --> 00:30:48,329
-things like infinite feeds,
+bij dingen zoals oneindige nieuwsstromen,
 
 464
 00:30:49,507 --> 00:30:53,101
-they select for us a certain set of impulsive reactions
+selecteren ze voor ons een bepaalde reeks van impulsieve reacties
 
 465
 00:30:53,351 --> 00:30:55,270
-and I think in politics outrage is a huge one.
+en volgens mij is in de politiek woede een belangrijke.
 
 466
 00:30:55,895 --> 00:30:59,816
-But of course they are others that are eventually positive like I think the feeling of awe
+Maar er zijn natuurlijk ook anderen die uiteindelijk positief zijn zoals het gevoel van verwondering,
 
 467
 00:31:00,567 --> 00:31:02,838
-or cuteness, or cute kitty photos,
+of schattigheid, schattige kattenfoto's.
 
 468
 00:31:06,364 --> 00:31:09,450
-but I think it’s not the question will we be outraged or will we be
+maar volgens mij is het niet de vraag of we woedend worden of dat we
 
 469
 00:31:10,702 --> 00:31:11,911
-having experiences of awe.
+verwondering ervaren.
 
 470
 00:31:12,287 --> 00:31:16,708
-It’s more about like will those be moving us towards what you want to be moved towards.
+Het gaat meer over zaken als zal dit ons bewegen naar hetgeen waar we naar toe willen bewegen.
 
 471
 00:31:16,958 --> 00:31:23,274
-Will they, as Aldous Huxley put it, helping us be irrational in a reasonable way.
+Zullen ze, zoals Aldous Huxley het zei, ons helpen om irrationeel te zijn op een redelijke wijze.
 
 472
 00:31:23,631 --> 00:31:26,515
-Is the system fundamentally on our side is the question ultimately.
+Staat het systeem in essentie aan onze kant, is de vraag uiteindelijk.
 
 473
 00:31:41,723 --> 00:31:45,075
-Actually right now I’m working on projects that are totally
+Eigenlijk werk ik op dit moment aan projecten die totaal
 
 474
 00:31:45,778 --> 00:31:47,790
-against my own ethical,
+tegen mijn eigen ethische,
 
 475
 00:31:50,199 --> 00:31:51,200
-what I studied before.
+wat ik eerder heb gestudeerd.
 
 476
 00:31:53,453 --> 00:31:59,626
-One of the recent projects I had to work on was a robot delivering pizza,
+Eén van de recente projecten waar ik aan moest werken was een pizza bezorgende robot,
 
 477
 00:32:00,137 --> 00:32:02,629
-in Pizza Hut+ in Shanghai.
+voor Pizza Hut+ in Sjanghai.
 
 478
 00:32:05,973 --> 00:32:09,469
-You develop this robot or you participate in its development,
+En natuurlijk ontwikkel je deze robot, of je helpt mee in de ontwikkeling,
 
 479
 00:32:09,470 --> 00:32:11,930
-you know it will affect a lot of people,
+wetende dat het een impact zal hebben op veel mensen,
 
 480
 00:32:11,931 --> 00:32:16,684
-a lot of people in China cannot afford to have good studies
+veel mensen in China kunnen zich geen goede studie veroorloven
 
 481
 00:32:16,935 --> 00:32:19,146
-and they rely on
+en ze zijn afhankelijk
 
 482
 00:32:20,521 --> 00:32:23,316
-to feed their families, on small jobs such as waiter.
+van kleine baantjes zoals ober, om hun familie te voeden.
 
 483
 00:32:23,691 --> 00:32:25,985
-And you know that this robot,
+En je weet dat deze robot,
 
 484
 00:32:26,687 --> 00:32:31,532
-when it will go on the market it will make people lose a lot of jobs
+wanneer het op de markt zal komen, ervoor zorgt dat veel mensen hun baan verliezen
 
 485
 00:32:32,784 --> 00:32:35,870
-but then if I don't do it myself I don't get a salary.
+maar als ik het niet doe, dan krijg ik geen salaris.
 
 486
 00:32:40,041 --> 00:32:43,039
-And that’s why it’s an important thing about ethics,
+En dat is waarom ethiek een belangrijke zaak is,
 
 487
 00:32:43,040 --> 00:32:45,964
-a lot of designers speak about ethics,
+veel ontwerpers praten over ethiek,
 
 488
 00:32:47,840 --> 00:32:50,984
-sure maybe they have some kind of ethical belief and so on but
+en ongetwijfeld hebben ze een soort van ethische overtuiging en zo maar
 
 489
 00:32:52,553 --> 00:32:57,642
-how far are you going to sacrifice yourself to really apply your own ethical belief,
+in welke mate zul je jezelf opofferen om je ethische overtuigingen echt toe te passen,
 
 490
 00:32:58,351 --> 00:33:01,062
-and that’s I think a big issue in the design field.
+en dat is volgens mij een belangrijk punt in het werkveld.
 
 491
 00:33:01,392 --> 00:33:04,917
-Perhaps the canonical example here is the bench
+Misschien is het meest representatieve voorbeeld hier de bank
 
 492
 00:33:06,442 --> 00:33:11,823
-that is supposed to prevent people living on the streets to sleep on.
+die zou moeten voorkomen dat daklozen erop zouden slapen.
 
 493
 00:33:12,891 --> 00:33:17,078
-When I did this project about designers and ethnography
+Toen ik dit project deed over ontwerpers en ethnografie
 
 494
 00:33:18,371 --> 00:33:22,709
-I interviewed a designer working for the public transport company in Paris
+interviewde ik een ontwerper die werkte voor een openbaarvervoerbedrijf in Parijs
 
 495
 00:33:23,459 --> 00:33:25,586
-and he told that “yeah I had to design that bench,
+en hij vertelde me ‘ja, ik moest die bank ontwerpen,
 
 496
 00:33:26,212 --> 00:33:29,340
-I was asked to design on which people could not sleep
+ik werd gevraagd om een bank te ontwerpen waar mensen niet op konden slapen
 
 497
 00:33:30,049 --> 00:33:32,468
-so they wouldn't be bums on the bench”
+zodat er geen zwervers op de banken zouden liggen’.
 
 498
 00:33:32,941 --> 00:33:37,223
-ok that’s kind of tricky in terms of your ethics,
+Oké, dat is wel een beetje lastig wat betreft je ethiek,
 
 499
 00:33:37,737 --> 00:33:38,558
-what do you think about that?
+hoe denk je daarover?
 
 500
 00:33:38,559 --> 00:33:40,682
-“So yeah well I had two options either
+‘Nou ja, ik had twee opties, ofwel
 
 501
 00:33:41,894 --> 00:33:44,272
-I did it or I was just fired”.
+deed ik het, ofwel was ik gewoon ontslagen’.
 
 502
 00:33:44,814 --> 00:33:48,901
-That’s the kind of boundary of extreme limit
+Dat is het soort van grens of de extreme limiet
 
 503
 00:33:48,902 --> 00:33:52,037
-in which where do designers sit,
+waartussen ontwerpers zitten
 
 504
 00:33:52,280 --> 00:33:55,742
-can they exert their strategic perspective
+kunnen ze hun strategische perspectief in de praktijk brengen
 
 505
 00:33:56,367 --> 00:33:58,797
-or are they just not allowed to do much more than
+of zijn ze gewoon niet meer toegestaan dan om te zeggen
 
 506
 00:33:59,866 --> 00:34:02,206
-saying yes ok I’m gonna do this bench.
+ja oké, ik doe die bank wel.
 
 507
 00:34:02,957 --> 00:34:05,880
-It’s a hard choice, again like it’s easier for me now,
+Het is een lastige keuze, nogmaals het is nu makkelijker voor me
 
 508
 00:34:07,336 --> 00:34:10,339
-of course in the beginning it’s more difficult because you’re more dependent,
+maar natuurlijk is het in het begin moeilijker omdat je afhankelijker bent,
 
 509
 00:34:10,340 --> 00:34:13,634
-we have enough work now so I can be more selective.
+we hebben nu genoeg werk dus ik kan selectiever zijn.
 
 510
 00:34:14,302 --> 00:34:18,505
-In the beginning I was lucky that
+In het begin had ik geluk dat we
 
 511
 00:34:19,892 --> 00:34:23,144
-we’re coming from cultural sector where there is less difficult choices,
+we komen uit een culturele sector waarin er minder lastige keuzes zijn,
 
 512
 00:34:24,771 --> 00:34:29,150
-now over time I can make these choices now after 15 or 17 years of working
+nu na een tijd kan ik die keuzes maken na 15 of 17 jaar werken
 
 513
 00:34:29,483 --> 00:34:32,487
-because you built a position to be this place.
+want je hebt iets opgebouwd om in deze positie te zitten.
 
 514
 00:34:33,196 --> 00:34:36,532
-I think every choice you make kind of come back to you sooner or later,
+Volgens mij komt elke keuze die je maakt, vroeger of later terug,
 
 515
 00:34:36,908 --> 00:34:40,119
-if you engage with some kind of strange product
+als je je bezig houdt met een soort vreemd product
 
 516
 00:34:40,870 --> 00:34:44,332
-it will come back to you as well, you’ll get more of it, the simple principle here that,
+dan komt dat ook bij je terug, je zal er meer van krijgen, het simpele principe is dat
 
 517
 00:34:44,749 --> 00:34:46,209
-whatever you do you get more of it.
+wat je ook doet, je er meer van zult krijgen.
 
 518
 00:34:46,709 --> 00:34:48,294
-So if you start something you don’t agree with it
+Dus als je begint met iets waar je het niet mee eens bent
 
 519
 00:34:48,294 --> 00:34:51,902
-you’ll probably get more of the same questions to do it again and again
+dan zul je waarschijnlijk meer van dezelfde vragen krijgen om het steeds weer te doen
 
 520
 00:34:51,903 --> 00:34:55,369
-and people become experts in doing this kind of things.
+en mensen worden experts in het doen van dit soort dingen.
 
 521
 00:34:55,676 --> 00:34:57,136
-Then there is also the whole process
+Dan is er ook het proces
 
 522
 00:34:57,720 --> 00:35:00,800
-of taking a step back and of being able to say no
+van een stap terug te nemen en nee te kunnen zeggen
 
 523
 00:35:01,432 --> 00:35:06,479
-or to reformulate commissions that we judge non ethical
+of om opdrachten te herformuleren die we als onethisch,
 
 524
 00:35:06,896 --> 00:35:10,108
-or contradictory, or not helpful to citizens.
+tegenstrijdig, of niet in dienst van de burger, achten.
 
 525
 00:35:11,067 --> 00:35:13,736
-And when that’s the case I’d say each designer will know
+En dan zou ik zeggen dat het aan elke ontwerper is om te weten
 
 526
 00:35:14,237 --> 00:35:18,241
-where they position themselves between their economic survival
+waar ze zichzelf positioneren tussen hun economische overleving
 
 527
 00:35:19,266 --> 00:35:21,744
-and their desire to… or rather their professional activism,
+en hun professionele activisme,
 
 528
 00:35:21,994 --> 00:35:26,207
-and whether they will focus more on the commissioner or on the user.
+en of ze zich meer willen focussen op de opdrachtgever of de eindgebruiker.
 
 529
 00:35:41,252 --> 00:35:44,684
-Design so often happens in this vaccuum,
+Ontwerp gebeurt zo vaak in dit vacuüm,
 
 530
 00:35:45,143 --> 00:35:48,146
-where we spend all of our time thinking about form,
+waar we al onze tijd besteden aan het nadenken over vorm,
 
 531
 00:35:48,563 --> 00:35:52,191
-materiality, of fonction, of how we interact with a thing
+materiaal, over functie, over hoe we omgaan met een voorwerp
 
 532
 00:35:52,192 --> 00:35:55,611
-but always almost in this bubble.
+maar bijna altijd in deze bubbel.
 
 533
 00:35:56,529 --> 00:35:59,949
-We think about very really rarely what’s outside of this bubble
+We denken echt heel zelden aan wat er zich buiten deze bubbel afspeelt,
 
 534
 00:36:00,324 --> 00:36:03,202
-about the real lives, about the real systems in which people live
+aan de echte levens, aan de echte systemen waarin mensen leven
 
 535
 00:36:04,453 --> 00:36:06,956
-and as a consequence this is where problems lie.
+en als gevolg is dat waar problemen liggen.
 
 536
 00:36:08,124 --> 00:36:11,919
-Because we have to think about the world in which our products exist
+Want we moeten nadenken over de wereld waarin onze producten bestaan
 
 537
 00:36:12,253 --> 00:36:15,381
-and there is as much complexity that we can possibly cope with
+en zoveel mogelijk van haar complexiteit als dat we aankunnen
 
 538
 00:36:16,132 --> 00:36:18,094
-because they’re incredibly complicated.
+want ze zijn ongelovelijk complex.
 
 539
 00:36:19,886 --> 00:36:22,471
-And I came across this very recently this exact problem
+En onlangs kwam ik exact dit probleem tegen
 
 540
 00:36:23,681 --> 00:36:24,724
-in a conversation with
+in een gesprek met
 
 541
 00:36:25,892 --> 00:36:31,022
-probably one of the most talented designers I know, product designer,
+waarschijnlijk één van de meest getalenteerde ontwerpers die ik ken, industrieel ontwerpers,
 
 542
 00:36:31,814 --> 00:36:34,013
-he’s been practicing for a small company in London
+hij werkt voor een klein bedrijf in Londen
 
 543
 00:36:35,193 --> 00:36:37,695
-since we graduated from the RCA, we were in the same year.
+sinds we afstudeerden van de Royal College of Art, we zaten in hetzelfde jaar.
 
 544
 00:36:38,321 --> 00:36:44,535
-He’s just taken a job at Amazon as a kind of higher product designer
+Hij had net een baan aangenomen bij Amazon als een soort van hooggeplaatste ontwerper
 
 545
 00:36:45,411 --> 00:36:49,457
-and I was just talking with him about this idea of ethics and responsibility
+en ik was net met hem aan het praten over dit idee van ethiek en verantwoordelijkheid
 
 546
 00:36:49,458 --> 00:36:51,209
-because I’m slightly
+want ik ben een beetje
 
 547
 00:36:52,835 --> 00:36:56,088
-concerned about some of the things Amazon is currently doing.
+bezorgd om een paar dingen die Amazon op het moment aan het doen is.
 
 548
 00:36:56,195 --> 00:36:57,119
@@ -2188,159 +2188,159 @@ Alexa,
 
 549
 00:36:58,841 --> 00:37:00,218
-would you lie to me?
+zou je tegen me liegen?
 
 550
 00:37:01,467 --> 00:37:03,158
-I always try to tell the truth,
+Ik zal altijd proberen om de waarheid te vertellen,
 
 551
 00:37:03,679 --> 00:37:07,516
-I’m not always right but I will never intentionally lie to you or anyone else
+Ik heb het niet altijd juist, maar ik zal nooit met opzet tegen jou of iemand anders liegen
 
 552
 00:37:09,101 --> 00:37:11,536
-For him he was shocked that I could be questioning
+Voor hem was het stuitend dat ik kon twijfelen
 
 553
 00:37:12,188 --> 00:37:13,487
-the value of what he's doing.
+aan de waarde van wat hij aan het doen is.
 
 554
 00:37:13,940 --> 00:37:17,360
-He thinks he’s contributing amazing things to the world
+Hij denkt dat hij fantastische bijdragen maakt aan de wereld
 
 555
 00:37:17,361 --> 00:37:19,237
-but he’s thinking on his scale,
+maar hij denkt op dit niveau,
 
 556
 00:37:20,196 --> 00:37:22,698
-he’s thinking about the beautiful products that he makes
+hij denkt aan de prachtige producten die hij maakt
 
 557
 00:37:23,074 --> 00:37:25,433
-and this is the danger within design.
+en dit is het gevaar in design.
 
 558
 00:37:33,628 --> 00:37:35,253
-If you rethink things from the bottom
+Als je dingen vanaf nul opnieuw bekijkt
 
 559
 00:37:35,628 --> 00:37:38,256
-then you could completely do something different
+dan kun je iets compleet anders doen
 
 560
 00:37:38,756 --> 00:37:40,091
-and the magazine is at the,
+en het tijdschrift is qua,
 
 561
 00:37:41,175 --> 00:37:43,993
-the financing, the distribution, the production, everything
+financiering, distributie, productie, qua alles,
 
 562
 00:37:45,513 --> 00:37:47,224
-it felt like ok if we’re doing a new magazine,
+het voelde van oké, als we een nieuw tijdschrift doen,
 
 563
 00:37:47,515 --> 00:37:51,560
-we don't have to inherit any existing old platforms or plans,
+hoeven we geen enkel oud platform of plan over te nemen,
 
 564
 00:37:51,852 --> 00:37:53,095
-we can just do it from scratch.
+we kunnen gewoon helemaal opnieuw beginnen.
 
 565
 00:37:54,182 --> 00:37:56,176
-I find it’s very important
+Ik vind het heel belangrijk
 
 566
 00:37:56,181 --> 00:38:00,736
-to make designers understand the value of the humanities and social sciences
+om ontwerpers te overtuigen van de waarde van de geesteswetenschappen en sociale wetenschappen
 
 567
 00:38:01,570 --> 00:38:04,907
-by showing for instance that if you look at history
+door bijvoorbeeld te tonen dat als je kijkt naar de geschiedenis
 
 568
 00:38:05,950 --> 00:38:08,096
-of technologies for instance, of this sort of products
+van bijvoorbeeld technologie, of dit soort producten
 
 569
 00:38:08,619 --> 00:38:10,955
-it can show you that things have been different in the past.
+dan kan het je tonen dat dingen vroeger anders waren.
 
 570
 00:38:11,247 --> 00:38:14,542
-So by using this understanding what have been different in the past
+Dus door het begrip van wat er anders was in het verleden te gebruiken
 
 571
 00:38:15,042 --> 00:38:19,964
-it’s a way to make designers aware that things should be different in the future
+kunnen we ontwerpers bewust maken van dat dingen in de toekomst ook anders zouden moeten zijn
 
 572
 00:38:20,172 --> 00:38:23,551
-and that you can maybe adapt more ethical choices.
+en dat je misschien wel meer ethische keuzes kunt toepassen.
 
 573
 00:38:23,801 --> 00:38:24,760
-So that’s for history,
+Dus dat wat betreft geschiedenis,
 
 574
 00:38:25,032 --> 00:38:27,972
-Anthropology, it shows that in different cultures,
+antropologie toont dat er in verschillende culturen,
 
 575
 00:38:28,431 --> 00:38:30,786
-in different places, in different territories in the world,
+op verschillende plaatsen, in verschillende gebieden in de wereld,
 
 576
 00:38:31,126 --> 00:38:34,838
-there are different ways to live and by showing that
+verschillende manier zijn om te leven en door daarop te wijzen
 
 577
 00:38:35,646 --> 00:38:40,485
-that’s also a way to question a design brief, question product, question existing services.
+is het ook een manier om een opdracht, een product of bestaande diensten in vraag te stellen.
 
 578
 00:38:40,841 --> 00:38:43,654
-So I take this kind of example of history:
+Dus dit soort voorbeelden neem ik mee van geschiedenis:
 
 579
 00:38:44,405 --> 00:38:45,937
-how things have been different in the past,
+hoe dingen anders gingen in het verleden,
 
 580
 00:38:46,365 --> 00:38:48,808
-anthropology: how things are different elsewhere,
+antropologie: hoe dingen anders gaan op andere plaatsen,
 
 581
 00:38:49,243 --> 00:38:52,413
-as a way, well, as a sort of metaphor
+als een manier om, nu, als een soort van metafoor
 
 582
 00:38:53,497 --> 00:38:55,583
-to think about how design education should
+om te denken over hoe design opleidingen
 
 583
 00:38:56,042 --> 00:39:00,880
-open mindset and not necessarily make designers
+ruim moeten denken en hun ontwerpers niet noodzakelijk
 
 584
 00:39:01,127 --> 00:39:04,008
-answer to the client question in a way
+aan de opdrachtgever moeten laten beantwoorden op een manier
 
 585
 00:39:04,884 --> 00:39:06,483
-it would be a sort of status quo.
+die een soort van status quo zou inhouden.
 
 586
 00:39:07,470 --> 00:39:10,447
-We need to have like an open mind if you want
+We moeten een ruimdenkendheid hebben als we willen
 
 587
 00:39:11,057 --> 00:39:13,917
-to live in a more habitable near-future world.
+wonen in een meer bewoonbare wereld in de nabije toekomst.
 
 588
 00:39:24,195 --> 00:39:25,904
