@@ -36,11 +36,11 @@ om een opleiding genaamd Design Products te volgen.
 
 11
 00:00:37,051 --> 00:00:40,198
-Ron Arad, de architect en ontwerper, had net
+Ron Arad, de architect en ontwerper,
 
 12
 00:00:40,210 --> 00:00:42,159
-de leerstoel van die opleiding overgenomen.
+had net de leerstoel van die opleiding overgenomen.
 
 13
 00:00:43,161 --> 00:00:45,140
@@ -52,7 +52,7 @@ en daardoor maakte ik kennis met,
 
 15
 00:00:49,060 --> 00:00:51,218
-ik denk, het soort werk dat we nu nog steeds doen:
+het soort werk dat we volgens mij nog steeds doen:
 
 16
 00:00:52,080 --> 00:00:53,035
@@ -80,7 +80,7 @@ de manier, waarop we over dingen nadenken, veranderen,
 
 22
 00:01:08,985 --> 00:01:10,737
-doe het aanmoedigen om anders na te denken over
+door aan te moedigen om anders na te denken over
 
 23
 00:01:10,738 --> 00:01:12,612
@@ -208,7 +208,7 @@ dus aan de eigenaars van de infrastructuur,
 
 54
 00:02:41,512 --> 00:02:46,124
-en jaar na jaar na jaar hebben ze de prijs die je daarvoor krijgt zitten verlagen, waardoor het onrendabel is geworden.
+en jaar na jaar hebben ze de prijs die je daarvoor krijgt zitten verlagen, waardoor het onrendabel is geworden.
 
 55
 00:02:47,000 --> 00:02:51,629
@@ -232,7 +232,7 @@ Dus overdag takel je de massa op en wanneer je dan thuis komt en de energie nodi
 
 60
 00:03:12,400 --> 00:03:17,030
-het is donker, er schijnt geen zon meer – dan laat je de massa zakken
+het is donker, er schijnt geen zon meer, dan laat je de massa zakken
 
 61
 00:03:17,822 --> 00:03:21,576
@@ -284,7 +284,7 @@ om de "bewoonbaarheid" van de wereld
 
 73
 00:04:34,857 --> 00:04:38,569
-te behouden of te verhogen voor haar inwoners, mannen en vrouwen.
+te behouden of te verhogen voor haar bewoners en bewoonsters.
 
 74
 00:04:39,112 --> 00:04:42,949
@@ -324,7 +324,7 @@ Daarna spreken we van psychosociale bewoonbaarheid,
 
 83
 00:05:17,276 --> 00:05:20,735
-waarbij je moet samenleven met andere bewoners, mannen en vrouwen,
+waarbij je moet samenleven met andere bewoners en bewoonsters,
 
 84
 00:05:21,933 --> 00:05:23,840
@@ -744,7 +744,7 @@ volgens mij gebruiken ze het op SOS Mediterranee
 
 188
 00:12:53,090 --> 00:12:56,452
-en Bibliothèques sans Frontières heeft de app ook geïnstalleerd naast hun andere werktuigen.
+en Bibliothèques sans Frontières heeft de app ook geïnstalleerd naast hun andere hulpmiddelen.
 
 189
 00:12:57,232 --> 00:12:59,168
@@ -764,11 +764,11 @@ Dus dat zijn het soort dingen die ik steeds meer probeer te ontwikkelen.
 
 193
 00:13:08,322 --> 00:13:11,355
-Ik denk dat ik mijn hele carrière een beetje een andersdenkende ben geweest,
+Ik denk dat ik mijn hele carrière een beetje een eenling ben geweest,
 
 194
 00:13:11,356 --> 00:13:14,180
-ik was altijd — of het nu in architectuur, ik hield niet van
+ik was altijd, of het nu in architectuur, ik hield niet van
 
 195
 00:13:14,307 --> 00:13:16,442
@@ -868,11 +868,11 @@ in plaats van dat ze zeggen:
 
 219
 00:14:34,099 --> 00:14:35,460
-“waarom zou je dat doen, “waarom is dat interessant”,
+‘waarom zou je dat doen, waarom is dat interessant’,
 
 220
 00:14:36,394 --> 00:14:40,462
-zeggen ze “dat is zo belangrijk, ik ben zo blij om iemand te vinden die hier werkelijk mee bezig is".
+zeggen ze ‘dat is zo belangrijk, ik ben zo blij om iemand te vinden die hier werkelijk mee bezig is’.
 
 221
 00:14:41,402 --> 00:14:46,124
@@ -920,7 +920,7 @@ zijn er soortgelijke buitensporigheden in design?
 
 232
 00:15:29,390 --> 00:15:34,087
-Natuurlijk zijn die er, ontwerpers zijn net zo min perfects als ieder ander,
+Natuurlijk zijn die er, ontwerpers zijn net zo min perfect als ieder ander,
 
 233
 00:15:34,322 --> 00:15:36,429
@@ -1228,7 +1228,7 @@ maar het laat je eerder de manier zien waarop je beter kunt leven.
 
 309
 00:20:01,456 --> 00:20:04,237
-Er zijn drie hoofdtheoriën die uitleggen wat een ”ethisch” daad is:
+Er zijn drie hoofdtheoriën die uitleggen wat een ‘ethische’ daad is:
 
 310
 00:20:05,358 --> 00:20:11,000
@@ -1236,11 +1236,11 @@ Deugdethiek, zegt dat als een mens deugdelijke karakteristieken heeft zoals eerl
 
 311
 00:20:11,220 --> 00:20:14,422
-dan zal hij goede bedoelingen hebben en dus handelen op een ”ethische” manier.
+dan zal hij goede bedoelingen hebben en dus handelen op een ‘ethische’ manier.
 
 312
 00:20:16,363 --> 00:01:10,09
-Plichtethiek focust op het gedrag dat gevolgd moet worden om een daad ”ethisch” te laten zijn,
+Plichtethiek focust op het gedrag dat gevolgd moet worden om een daad ‘ethisch’ te laten zijn,
 
 313
 00:20:20,365 --> 00:20:22,306
@@ -1256,7 +1256,7 @@ wie ze ook mogen zijn.
 
 316
 00:20:29,329 --> 00:20:34,091
-Gevolgenethiek bepaalt of een daad “ethisch” is door de consequenties ervan te beoordelen.
+Gevolgenethiek bepaalt of een daad ‘ethisch’ is door de consequenties ervan te beoordelen.
 
 317
 00:20:34,221 --> 00:20:37,053
@@ -1468,7 +1468,7 @@ als een auto met ethiek die goed werkt in Duitsland
 
 369
 00:23:43,142 --> 00:23:46,404
-maar BMW exporteerd een groot deel van hun auto's, bijvoorbeeld naar China
+maar BMW exporteert een groot deel van hun auto's, bijvoorbeeld naar China
 
 370
 00:23:47,144 --> 00:23:51,366
@@ -1536,7 +1536,7 @@ Wat ik geweldig vind is dat
 
 386
 00:25:09,203 --> 00:25:11,204
-in de laatste 3–4 jaar het vakgevied compleet is veranderd,
+in de laatste 3–4 jaar het vakgebied compleet is veranderd,
 
 387
 00:25:11,205 --> 00:25:14,106
@@ -1544,7 +1544,7 @@ onze teams zijn compleet veranderd
 
 388
 00:25:14,210 --> 00:25:21,092
-want als je goed design wil maken in een organisatie — privé, publiek, groot of klein –
+want als je goed design wil maken in een organisatie — privé, publiek, groot of klein —
 
 389
 00:25:21,469 --> 00:25:24,062
@@ -1568,7 +1568,7 @@ Het is een gigantische kans omdat we op een bepaald niveau
 
 394
 00:25:41,359 --> 00:25:44,360
-van verantwoordelijk voor projecten zitten waar we precies naar op zoek waren.
+van verantwoordelijkheid voor projecten zitten waar we precies naar op zoek waren.
 
 395
 00:25:44,948 --> 00:25:47,337
@@ -2020,7 +2020,7 @@ ja oké, ik doe die bank wel.
 
 507
 00:34:02,957 --> 00:34:05,880
-Het is een lastige keuze, nogmaals het is nu makkelijker voor me
+Het is een lastige keuze, nogmaals, het is nu makkelijker voor me
 
 508
 00:34:07,336 --> 00:34:10,339
@@ -2732,7 +2732,7 @@ Ik vind het moeilijk om aanbevelingen te doen voor anderen,
 
 684
 00:44:39,843 --> 00:44:41,804
-opnieuw, het is hetzelfde als met elk advies,
+nogmaals, het is hetzelfde als met elk advies,
 
 685
 00:44:42,346 --> 00:44:45,683
