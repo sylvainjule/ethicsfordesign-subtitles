@@ -200,7 +200,7 @@ wanneer ze het vermogen niet nodig hebben.
 
 52
 00:02:35,363 --> 00:02:37,907
-Op dit moment is de enige oplossing om het terug te verkopen aan het netwerk,
+De enige oplossing op dit moment, is om het terug te verkopen aan het netwerk,
 
 53
 00:02:38,408 --> 00:02:40,869
@@ -236,7 +236,7 @@ het is donker, er schijnt geen zon meer, dan laat je de massa zakken
 
 61
 00:03:17,822 --> 00:03:21,576
-via een versnellingsbak die een generator aandraait om electriciteit op te wekken.
+via een versnellingsbak die een generator aandraait om elektriciteit op te wekken.
 
 62
 00:03:22,327 --> 00:03:23,560
@@ -244,7 +244,7 @@ Het is allemaal open source,
 
 63
 00:03:24,003 --> 00:03:28,625
-dus we laten de rol van de grote bedrijven en massale fabrieken achterwege,
+dus we laten de rol van de grote bedrijven en fabrieken achterwege,
 
 64
 00:03:29,000 --> 00:03:34,505
@@ -296,7 +296,7 @@ Het eerste niveau is natuurlijk stoffelijk,
 
 76
 00:04:47,161 --> 00:04:56,379
-wat het bewonen van een ruimte betekent, beschut van weersomstandigheden, etcetera. Ik zal niet op dit niveau blijven hangen.
+wat het bewonen van een ruimte betekent, beschut van weersomstandigheden, enzovoort. Ik zal niet op dit niveau blijven hangen.
 
 77
 00:04:56,921 --> 00:05:01,175
@@ -336,11 +336,11 @@ En tenslotte is er een laatste interpretatie van bewoonbaarheid die ik soms spir
 
 86
 00:05:31,372 --> 00:05:35,126
-wat betekent: echt bewonen als een mens en niet als een dier.
+wat betekent: echt bewonen als een mens en niet als een dier
 
 87
 00:05:35,293 --> 00:05:40,757
-and daarvoor is het de eigenschap van de mens om een culturele wereld te creëren
+en daarvoor is het de eigenschap van de mens om een culturele wereld te creëren
 
 88
 00:05:41,360 --> 00:05:44,886
@@ -364,7 +364,7 @@ Met overheidsbeleid bedoelen we alle dingen, diensten en alle processen die
 
 93
 00:06:14,374 --> 00:06:18,044
-ingezet worden door de openbare macht, d.w.z. de staat en regionale authoriteiten,
+ingezet worden door de openbare macht, d.w.z. de staat en regionale autoriteiten,
 
 94
 00:06:18,795 --> 00:06:23,674
@@ -396,7 +396,7 @@ waar het probleem ligt.
 
 101
 00:07:00,086 --> 00:07:03,682
-Zijn er situaties waarin mensen aggressief of gewelddadig worden in bepaalde omgevingen,
+Zijn er situaties waarin mensen agressief of gewelddadig worden in bepaalde omgevingen,
 
 102
 00:07:04,132 --> 00:07:07,468
@@ -520,7 +520,7 @@ maar in de praktijk blijven discussies in design heel erg geïsoleerd.
 
 132
 00:09:15,346 --> 00:09:21,069
-Dus ik wilde kijken of er een mogelijkheid was om een publicatie te maken die over ontwerp ging maar niet voor ontwerpers
+Dus ik wilde kijken of er een mogelijkheid was om een publicatie te maken dat over ontwerp gaat maar niet voor ontwerpers
 
 133
 00:09:21,449 --> 00:09:23,402
@@ -564,7 +564,7 @@ verkeersborden te gebruiken,
 
 143
 00:09:53,465 --> 00:09:55,273
-echt simpele dingen zoals hoe
+echt eenvoudige dingen zoals hoe
 
 144
 00:09:56,366 --> 00:09:59,187
@@ -604,7 +604,7 @@ In de geest daarvan willen we ook de traditionele distributienetwerken omzeilen
 
 153
 00:10:35,404 --> 00:10:38,286
-die normaal gezien het grootste deel van de prijs pakken.
+die normaal gezien het grootste deel van de prijs pakken,
 
 154
 00:10:38,287 --> 00:10:42,348
@@ -684,7 +684,7 @@ dat op een smartphone werkt en een versimpelde vorm van communicatie mogelijk ma
 
 173
 00:11:53,293 --> 00:11:58,264
-burgers en organisaties, goede doelen etcetera, door pictogrammen.
+burgers en organisaties, goede doelen enzovoort, door pictogrammen.
 
 174
 00:11:59,084 --> 00:12:02,266
@@ -716,7 +716,7 @@ kan ik concepten uitleggen die moeilijk of gevoelig kunnen zijn, over censuur, j
 
 181
 00:12:31,080 --> 00:12:32,360
-seksualiteit, marteling etcetera
+seksualiteit, marteling enzovoort
 
 182
 00:12:32,361 --> 00:12:36,422
@@ -724,7 +724,7 @@ dus best veel concepten die moeilijk kunnen zijn en complex om te bespreken.
 
 183
 00:12:37,041 --> 00:12:41,141
-Ik heb het zelf gefinancierd, ik begon met inzichten, gebruikerstests etcetera
+Ik heb het zelf gefinancierd, ik begon met inzichten, gebruikerstests enzovoort
 
 184
 00:12:41,142 --> 00:12:42,247
@@ -928,7 +928,7 @@ en daarom onderworpen aan dezelfde verleidingen.
 
 234
 00:15:37,085 --> 00:15:39,472
-De belangrijkste is de verleiding van de kunstenaar,
+De belangrijkste daarvan is de verleiding…
 
 235
 00:15:40,411 --> 00:15:43,312
@@ -1028,7 +1028,7 @@ het in staat stellen van design is.
 
 259
 00:17:02,130 --> 00:17:07,012
-Welnu, de dingen die design kunnen schaden is design in functie van marketing,
+Welnu, de dingen die design kunnen schaden zijn design in functie van marketing,
 
 260
 00:17:07,142 --> 00:17:09,179
@@ -1040,11 +1040,11 @@ Een beetje zoals wanneer we het hebben over green-washing,
 
 262
 00:17:14,135 --> 00:17:16,357
-Ik sta wantrouwig tegenover design dat gebruikt zou kunnen worden als human-washing,
+ik sta wantrouwig tegenover design dat gebruikt zou kunnen worden als human-washing,
 
 263
 00:17:17,117 --> 00:17:22,239
-waarbij opeens alle bedrijven, zelfs de meest kwaadaardige, ethisch worden, sociaal, politiek betrokken, solidair, etcetera.
+waarbij opeens alle bedrijven, zelfs de meest kwaadaardige, ethisch worden, sociaal, politiek betrokken, solidair, enzovoort.
 
 264
 00:17:22,438 --> 00:17:27,250
@@ -1060,7 +1060,7 @@ Tsjonge, ik denk dat design veel uitdagingen te overwinnen heeft
 
 267
 00:17:36,166 --> 00:17:40,419
-want veel organisaties realiseren zich niet eens dat design ook een plaats verdient in die vergaderingen, weet je.
+want veel organisaties realiseren zich niet eens dat design ook een plaats verdient in die vergaderingen.
 
 268
 00:17:41,065 --> 00:17:45,032
@@ -1172,7 +1172,7 @@ want het heeft dit hele hele simpele doel om goede producten te maken.
 
 295
 00:19:09,031 --> 00:19:10,331
-Definiëer goed, is het probleem,
+Definieer goed, is het probleem,
 
 296
 00:19:11,001 --> 00:19:12,252
@@ -1196,7 +1196,7 @@ Moraliteit focust op het absolute goede en slechte,
 
 301
 00:19:33,182 --> 00:19:36,284
-het definiëert wat verboden, aangemoedigd of toegelaten is.
+het definieert wat verboden, aangemoedigd of toegelaten is.
 
 302
 00:19:37,164 --> 00:19:40,085
@@ -1304,7 +1304,7 @@ Ik zie ethiek eerst en vooral als een proces,
 
 328
 00:21:11,369 --> 00:21:14,291
-Ik denk dat het een proces is waarmee we
+ik denk dat het een proces is waarmee we
 
 329
 00:21:15,131 --> 00:21:18,064
@@ -1312,11 +1312,11 @@ beginnen te begrijpen hoe de wereld hoort te zijn.
 
 330
 00:21:18,253 --> 00:21:21,454
-Dus ik denk dat wetenschap ons zegt hoe alles in elkaar zit,
+Dus ik denk dat wetenschap ons vertelt hoe alles werkt,
 
 331
 00:21:21,455 --> 00:21:24,264
-en ethiek zegt ons hoe alles in elkaar zou horen te zitten.
+en ethiek vertelt ons hoe alles zou horen te werken.
 
 332
 00:21:26,159 --> 00:21:30,018
@@ -1432,7 +1432,7 @@ Stel dat je moet kiezen tussen drie mensen of twee mensen,
 
 360
 00:23:02,282 --> 00:23:05,044
-welke ethieken moet je daar op toepassen?
+welke ethiek moet je daar op toepassen?
 
 361
 00:23:07,225 --> 00:23:11,327
@@ -1524,7 +1524,7 @@ probeerden we altijd om het pad te veranderen en een breuk te maken,
 
 383
 00:24:59,118 --> 00:25:02,440
-maar om te zeggen oké, je denkt dat dat noodzakelijk is
+om te zeggen oké, je denkt dat dat noodzakelijk is
 
 384
 00:25:02,460 --> 00:25:06,182
@@ -1608,7 +1608,7 @@ worden ze ingeschakeld om meer spullen te verkopen,
 
 404
 00:26:23,344 --> 00:26:24,624
-om consumentisme te doen stijgen.
+om het consumentisme te doen stijgen.
 
 405
 00:26:26,263 --> 00:26:28,670
@@ -1860,7 +1860,7 @@ Maar er zijn natuurlijk ook anderen die uiteindelijk positief zijn zoals het gev
 
 467
 00:31:00,567 --> 00:31:02,838
-of schattigheid, schattige kattenfoto's.
+of schattigheid, schattige kattenfoto's,
 
 468
 00:31:06,364 --> 00:31:09,450
@@ -1888,11 +1888,11 @@ Eigenlijk werk ik op dit moment aan projecten die totaal
 
 474
 00:31:45,778 --> 00:31:47,790
-tegen mijn eigen ethische,
+tegen mijn eigen ethische…
 
 475
 00:31:50,199 --> 00:31:51,200
-wat ik eerder heb gestudeerd.
+wat ik hiervoor heb gestudeerd.
 
 476
 00:31:53,453 --> 00:31:59,626
@@ -1900,7 +1900,7 @@ Eén van de recente projecten waar ik aan moest werken was een pizza bezorgende 
 
 477
 00:32:00,137 --> 00:32:02,629
-voor Pizza Hut+ in Sjanghai.
+voor Pizza Hut+ in Shanghai.
 
 478
 00:32:05,973 --> 00:32:09,469
@@ -1964,7 +1964,7 @@ die zou moeten voorkomen dat daklozen erop zouden slapen.
 
 493
 00:33:12,891 --> 00:33:17,078
-Toen ik dit project deed over ontwerpers en ethnografie
+Toen ik dit project deed over ontwerpers en etnografie
 
 494
 00:33:18,371 --> 00:33:22,709
@@ -2144,7 +2144,7 @@ en zoveel mogelijk van haar complexiteit als dat we aankunnen
 
 538
 00:36:16,132 --> 00:36:18,094
-want ze zijn ongelovelijk complex.
+want ze zijn ongelooflijk complex.
 
 539
 00:36:19,886 --> 00:36:22,471
@@ -2196,7 +2196,7 @@ Ik zal altijd proberen om de waarheid te vertellen,
 
 551
 00:37:03,679 --> 00:37:07,516
-Ik heb het niet altijd juist, maar ik zal nooit met opzet tegen jou of iemand anders liegen
+ik heb het niet altijd juist, maar ik zal nooit met opzet tegen jou of iemand anders liegen.
 
 552
 00:37:09,101 --> 00:37:11,536
@@ -2240,7 +2240,7 @@ financiering, distributie, productie, qua alles,
 
 562
 00:37:45,513 --> 00:37:47,224
-het voelde van oké, als we een nieuw tijdschrift doen,
+het voelde van oké, als we een nieuw tijdschrift maken,
 
 563
 00:37:47,515 --> 00:37:51,560
@@ -2384,7 +2384,7 @@ Ontwerpers zijn echt goed in het kopiëren van elkaar
 
 598
 00:40:03,734 --> 00:40:07,530
-maar als het over ethiek gaat denk ik dat we geen blauwdrukken hebben om te kopiëren.
+maar als het over ethiek gaat, denk ik dat we geen blauwdrukken hebben om te kopiëren.
 
 599
 00:40:08,322 --> 00:40:11,951
@@ -2612,7 +2612,7 @@ met de milieubeweging.
 
 654
 00:43:06,000 --> 00:43:07,960
-Dus volgens gaat houdt dat dan
+Dus volgens mij houdt dat dan
 
 655
 00:43:08,586 --> 00:43:11,422
@@ -2684,7 +2684,7 @@ draag je zorg voor dingen
 
 672
 00:44:03,807 --> 00:44:07,019
-en dan is alles, niet perfect
+en dan is alles, niet in orde
 
 673
 00:44:07,686 --> 00:44:08,472
@@ -2756,7 +2756,7 @@ Je kunt overal tien tips vinden om wat dan ook te verbeteren,
 
 690
 00:45:00,531 --> 00:45:03,450
-gaande van je seksleven tot je ontwerpvaardigheden tot wat dan ook,
+gaande van je seksleven tot je ontwerp-vaardigheden tot wat dan ook,
 
 691
 00:45:04,076 --> 00:45:07,287
@@ -2804,7 +2804,7 @@ Met hoe meer we zijn, hoe meer we moeten praten,
 
 702
 00:45:39,445 --> 00:45:41,947
-we naar elkaar moeten begrijpen, we moeten leren redetwisten met elkaar
+we naar elkaar moeten luisteren, we moeten leren redetwisten met elkaar
 
 703
 00:45:44,423 --> 00:45:47,786
@@ -2908,7 +2908,7 @@ nu denk ik dat ik dat niet ben.
 
 728
 00:47:05,489 --> 00:47:08,742
-Ik werk bijvoorbeeld aan projecten die tegen mijn eigen ethiek indruist,
+Ik werk bijvoorbeeld aan projecten die tegen mijn eigen ethiek indruisen,
 
 729
 00:47:09,076 --> 00:47:13,080
