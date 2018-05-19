@@ -20,7 +20,7 @@ name:: Thomas Schnur + description:: Industrieel ontwerper, Keulen
 
 7
 00:08:26,957 --> 00:11:13,678
-name:: Peter Bil’ak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
+name:: Peter Biľak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
 
 8
 00:11:13,961 --> 00:11:38,318
@@ -76,7 +76,7 @@ name:: Antoine Fenoglio + description:: Ontwerper en mede-oprichter van Sismo, P
 
 21
 00:25:44,929 --> 00:26:48,858
-name:: Peter Bil’ak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
+name:: Peter Biľak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
 
 22
 00:26:54,644 --> 00:27:29,845
@@ -112,7 +112,7 @@ name:: Nicolas Nova + description:: Universitair hoofddocent, HEAD / The Near Fu
 
 30
 00:34:02,643 --> 00:34:55,323
-name:: Peter Bil’ak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
+name:: Peter Biľak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
 
 31
 00:34:55,647 --> 00:35:26,155
@@ -124,7 +124,7 @@ name:: James Auger + description:: Ontwerper en universitair hoofddocent aan M-I
 
 33
 00:37:33,689 --> 00:37:52,948
-name:: Peter Bil’ak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
+name:: Peter Biľak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
 
 34
 00:37:53,191 --> 00:39:13,021
@@ -156,7 +156,7 @@ name:: Alain Findeli + description:: Universiteiten van Montreal en Nîmes, PROJ
 
 41
 00:44:36,144 --> 00:45:16,241
-name:: Peter Bil’ak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
+name:: Peter Biľak + description:: Letterontwerper en grafisch ontwerper, oprichter van Typotheque en redacteur van Works that Work, Den Haag
 
 42
 00:45:16,687 --> 00:46:24,823
