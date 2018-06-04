@@ -26,7 +26,8 @@ If you're not familiar with git, but still want to translate some files, you can
 
 ## Translations status
 
-- [x] English
+- [x] English (thanks [ldanielswakman](https://github.com/ldanielswakman) & [baukevanderlaan](https://github.com/baukevanderlaan) for the emendations)
+- [x] Dutch (thanks to [baukevanderlaan](https://github.com/baukevanderlaan))
 - [x] French (thanks [kevinvennitti](https://github.com/kevinvennitti) for the emendations)
 - [ ] Greek
   * [ ] chapters-gr.srt
