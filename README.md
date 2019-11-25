@@ -34,6 +34,10 @@ If you're not familiar with git, but still want to translate some files, you can
   * [x] side-text-gr.srt (thanks to [drivebass](https://github.com/drivebass))
   * [ ] subtitles-gr.srt
 - [x] Portuguese (thanks to [jmcoutinho](https://github.com/jmcoutinho))
+- [ ] Russian (thanks to [famadihana](https://github.com/famadihana))
+  * [x] chapters-ru.srt
+  * [x] side-text-ru.srt
+  * [ ] subtitles-ru.srt (1–10 translated)
 - [x] Swedish (thanks to [matsragnar](https://github.com/matsragnar) & [avajadi](https://github.com/avajadi))
 
 
