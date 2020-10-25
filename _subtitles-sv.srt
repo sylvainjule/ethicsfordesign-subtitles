@@ -332,7 +332,7 @@ och igen, detta är inte en enkel sak att göra.
 
 85
 00:05:24,615 --> 00:05:30,204
-Till sist finns en slutlig tolkning av beboelighet som jag ibland kallar spirituell eller kulturell,
+Till sist finns en slutlig tolkning av beboelighet som jag ibland kallar andlig eller kulturell,
 
 86
 00:05:31,372 --> 00:05:35,126
@@ -384,7 +384,7 @@ och vi lever där.
 
 98
 00:06:49,450 --> 00:06:53,621
-Vårt team består av socioliger, arkitekter, designer och ibland konstnärer.
+Vårt team består av socioliger, arkitekter, designers och ibland konstnärer.
 
 99
 00:06:53,996 --> 00:06:58,000
@@ -476,7 +476,7 @@ så ger den tredimensionalitet, den blir mer stabil.
 
 121
 00:08:29,842 --> 00:08:33,935
-min bakgrund är design och jag noterade att inte läste många designtidskrifter,
+min bakgrund är design och jag noterade att jag inte läste många designtidskrifter,
 
 122
 00:08:34,722 --> 00:08:35,515
@@ -580,7 +580,7 @@ När vi startade *Works that Work*
 
 147
 00:10:10,432 --> 00:10:15,095
-var det tydlgit att vi ville hitta den mest direkta vägen till läsarna,
+var det tydligt att vi ville hitta den mest direkta vägen till läsarna,
 
 148
 00:10:15,229 --> 00:10:17,256
