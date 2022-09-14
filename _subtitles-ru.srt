@@ -1337,11 +1337,11 @@ actual people but more about their perspective and the myth about people.
 
 336
 00:21:39,295 --> 00:21:42,410
-К разговору о понятии "блага/хорошего" — мы знаем что компьютерная программа — хорошая,
+К разговору о понятии "блага/хорошего" — мы знаем что компьютерная программа хорошая,
 
 337
 00:21:43,024 --> 00:21:45,306
-поскольку хорошая программа — это такая программа,
+поскольку хороша та программа,
 
 338
 00:21:45,442 --> 00:21:47,367
@@ -1361,19 +1361,19 @@ actual people but more about their perspective and the myth about people.
 
 342
 00:21:57,176 --> 00:21:58,132
-какой бы она была?
+какой она будет?
 
 343
 00:21:58,312 --> 00:22:00,288
-Каковы критерии такого определения,
+Каковы критерии этого определения,
 
 344
 00:22:01,073 --> 00:22:03,394
-и как бы мы их оценили?
+и как мы их оценим?
 
 345
 00:22:04,195 --> 00:22:05,412
-Смогла бы хорошая программа, 
+Как может хорошая программа, 
 
 346
 00:22:06,156 --> 00:22:09,457
@@ -1385,191 +1385,191 @@ actual people but more about their perspective and the myth about people.
 
 348
 00:22:17,181 --> 00:22:19,442
-И каковы критерии этого благополучия, в каких конкретных случаях они уместны?
+И каковы критерии этого благополучия, в каких случаях они уместны?
 
 349
 00:22:20,162 --> 00:22:22,248
-What would be the criteria from a technical perspective
+Какие критерии мы возьмем с технической точки зрения,
 
 350
 00:22:22,364 --> 00:22:25,385
-to increase
+чтобы улучшить
 
 351
 00:22:26,105 --> 00:22:32,128
-well-being, open-mindedness, creativity, user’s autonomy?
+благополучие, открытость, креативность, автономию пользователя?
 
 352
 00:22:32,368 --> 00:22:35,193
-So my first question was “can Ethics be computable?”
+Поэтому первым вопросом, который я задал, был "можно ли просчитать этику?" 
 
 353
 00:22:35,350 --> 00:22:40,058
-and at some point it was more… so I did a project about autonomous vehicles
+И в какой-то момент... я сделал проект о беспилотных автомобилях, 
 
 354
 00:22:40,132 --> 00:22:43,113
-where I was trying to find,
+в котором пытался, 
 
 355
 00:22:43,293 --> 00:22:46,375
-I was confronting different vehicles to the trolley dilemma,
+я сталкивал два разных транспорта с проблемой вагонетки,
 
 356
 00:22:46,376 --> 00:22:48,070
-some kind of trolley dilemma.
+неким подобием проблемы вагонетки.
 
 357
 00:22:50,366 --> 00:22:54,319
-So if the car is confronted to a car crash
+Так вот, если машина попадает в автокатастрофу,
 
 358
 00:22:55,419 --> 00:22:58,000
-there’s not really a proper solution to it.
+правильного решения на самом-то деле нет.
 
 359
 00:22:58,140 --> 00:23:01,402
-Let’s say you have to choose between 3 people or 2 people,
+Скажем, вы должны выбрать между 3 жертвами и 2 жертвами,
 
 360
 00:23:02,282 --> 00:23:05,044
-so which Ethics you have to apply to them?
+какую из этик вы к ним примените?
 
 361
 00:23:07,225 --> 00:23:11,327
-And here it was more a design question
+И здесь это была уже проблема дизайна,
 
 362
 00:23:13,317 --> 00:23:19,130
-because you have to ask what kind of ethics you are going to implement in this car
+поскольку перед вами встает вопрос, какой тип этики будет применен в этой машине,
 
 363
 00:23:19,291 --> 00:23:24,093
-and who is going to decide for which ethics should be inside this car,
+и кому решать, какая этика будет заложена в этой машине,
 
 364
 00:23:25,093 --> 00:23:27,216
-knowing that this car will work for
+зная, что ей будет пользоваться
 
 365
 00:23:28,035 --> 00:23:30,396
-a lot of different people with different cultures and so on.
+большое количество разных людей разных культур.
 
 366
 00:23:31,196 --> 00:23:35,398
-And after even the problem was more complicated, let’s say if this car
+И даже тут проблема была гораздо сложнее. Скажем, если эту машину 
 
 367
 00:23:36,319 --> 00:23:38,300
-is manufactured, let’s say by BMW,
+выпустили на заводе BMW,
 
 368
 00:23:40,141 --> 00:23:42,422
-as a car with ethics that work well in Germany
+как машину с этикой, хорошо работающей в Германии, 
 
 369
 00:23:43,142 --> 00:23:46,404
-but BMW exports a lot of their cars, let’s say in China
+но BMW экспортирует много автомобилей в тот же в Китай,
 
 370
 00:23:47,144 --> 00:23:51,366
-so all the ethics will adapt to a context like China.
+и вся этика будет адаптирована под китайский контекст.
 
 371
 00:24:22,161 --> 00:24:24,061
-So this was for autonomous vehicles but
+Это касается беспилотных автомобилей, 
 
 372
 00:24:24,196 --> 00:24:27,043
-if we look at products as a whole it was more like
+но если мы взглянем на продукцию в целом, можно сказать так:
 
 373
 00:24:27,323 --> 00:24:31,105
-how something as subjective as ethics can be
+как что-то настолько субъективное как этика может
 
 374
 00:24:31,345 --> 00:24:34,287
-implemented into a generally manufactured good
+применяться к произведенным товарам вообще,
 
 375
 00:24:34,467 --> 00:24:36,468
-and how it can adapt to different contexts.
+и как она адаптируется к различным контекстам.
 
 376
 00:24:37,150 --> 00:24:40,109
-Eventually I think that in all these tendencies related to design
+В целом я думаю, что во всех этих тенденциях в области дизайна
 
 377
 00:24:40,110 --> 00:24:42,039
-there is something that’s very potent
+наблюдается одна очень важная вещь,
 
 378
 00:24:42,451 --> 00:24:45,432
-and that’s the need that leads companies to that stage.
+это то что тенденции создаются желаниями компаний.
 
 379
 00:24:46,152 --> 00:24:49,014
-The role of the designer is to follow or influence this tendency,
+И задача дизайнера — следовать этой тенденции или влиять на нее,
 
 380
 00:24:50,054 --> 00:24:51,075
-certainly not to be submitted to it.
+во всяком случае, не оказываться у нее в подчинении.
 
 381
 00:24:51,255 --> 00:24:55,337
-So each time we have been led down a particular path
+Поэтому каждый раз, когда мы становились на некоторый путь, 
 
 382
 00:24:55,338 --> 00:24:59,018
-we have always tried, not to change path and create a rupture,
+мы старались не сходить с него, разрывая связи,
 
 383
 00:24:59,118 --> 00:25:02,440
-but to say ok, you think that’s the need
+но сказать: хорошо, вы считаете, что это необходимо, —
 
 384
 00:25:02,460 --> 00:25:06,182
-but if we push things this way, are you ready to go there or not.
+и постараться немного изменить ход вещей, даже если вы не готовы идти дальше.
 
 385
 00:25:07,082 --> 00:25:09,043
-What I find amazing is that
+Просто поразительно, насколько
 
 386
 00:25:09,203 --> 00:25:11,204
-over the last 3-4 years the profession has changed completely,
+изменилась профессия за последние 3-4 года.
 
 387
 00:25:11,205 --> 00:25:14,106
-our teams have changed completely
+Наши команды полностью поменялись,
 
 388
 00:25:14,210 --> 00:25:21,092
-because if you want to do good design in an organisation whatever its sector or its size,
+потому что, если вы хотите делать хороший дизайн в организации, не важно, общественной, частной коммерческой, большой, маленькой,
 
 389
 00:25:21,469 --> 00:25:24,062
-I think you need to have
+на наш взгляд нужно иметь 
 
 390
 00:25:24,351 --> 00:25:30,113
-this ability to deal with services, UX, architecture, training,
+навыки взаимодействия с сервисами, UX, архитектурой, процессами обучения, 
 
 391
 00:25:30,217 --> 00:25:35,158
-to work with the cultural side of companies, the economic side of cultural institutions
+работать с культурной стороной компаний, экономической стороной культуры
 
 392
 00:25:35,370 --> 00:25:37,017
-and to be a lot more global.
+и быть гораздо более глобальным.
 
 393
 00:25:37,197 --> 00:25:40,344
-It’s a huge opportunity because we find ourselves at certain levels
+Для этого есть огромные возможности, поскольку уровень ответственности,
 
 394
 00:25:41,359 --> 00:25:44,360
-of responsibility on projects that are exactly what we were looking for.
+который мы находим на проектах, всегда тот, который мы и искали.
 
 395
 00:25:44,948 --> 00:25:47,337
