@@ -28,7 +28,7 @@ name:: Николя Нова (Nicolas Nova) + description:: Преподават
 
 9
 00:11:42,162 --> 00:13:08,284
-name:: Джефри Дорн (Geoffrey Dorne) + description:: Дизайнер и основатель Design&Human, Париж
+name:: Жоффрей Дорн (Geoffrey Dorne) + description:: Дизайнер и основатель Design&Human, Париж
 
 10
 00:13:09,093 --> 00:14:41,021
@@ -48,7 +48,7 @@ name:: Николя Нова (Nicolas Nova) + description:: Преподават
 
 14
 00:16:55,191 --> 00:17:32,739
-name:: Джефри Дорн (Geoffrey Dorne) + description:: Дизайнер и основатель Design&Human, Париж
+name:: Жоффрей Дорн (Geoffrey Dorne) + description:: Дизайнер и основатель Design&Human, Париж
 
 15
 00:17:33,872 --> 00:18:49,615
